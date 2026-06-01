@@ -21,6 +21,9 @@
 | 期数 | 主题 | 内容 |
 | --- | --- | --- |
 | #1 | [specere 家族：那些关于“看”的单词，是怎么长出来的](./spect.md) | 从“看”出发，理解 `spect`、`spic`、`spy`、`scope` 和 `speculate` 等词汇分支 |
+| #2 | [struere 家族：从“搭建”到“理解”，单词是怎么组装起来的](./struct.md) | 从“搭建”出发，理解 `struct`、`instruct`、`obstruct`、`destruct`、`construe` 和 `industry` 等词汇分支 |
+| #3 | [portare 家族：单词如何把东西“搬”到远方](./port.md) | 从“搬运、携带”出发，理解 `import`、`export`、`transport`、`report`、`support` 和 `sport` 等词汇分支 |
+| #4 | [ducere 家族：单词如何把我们“引”向不同方向](./duc.md) | 从“引导、带领”出发，理解 `conduct`、`introduce`、`produce`、`reduce`、`deduce`、`educate` 和 `duct` 等词汇分支 |
 
 ## 阅读方式
 
