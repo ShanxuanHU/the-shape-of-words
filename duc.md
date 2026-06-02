@@ -44,9 +44,21 @@
 
 > The scientists measured the electrical conductivity of the solution.
 
+**conduction**（传导；读作：`kuhn-DUK-shuhn`）
+
+> Heat moves through the metal rod by conduction.
+
 **semiconductor**（半导体；读作：`sem-ee-kuhn-DUK-ter`）
 
 > Semiconductors are essential components of modern electronics.
+
+**superconductor**（超导体；读作：`SOO-per-kuhn-duk-ter`）
+
+> A superconductor can carry electric current without resistance.
+
+**superconductivity**（超导性；读作：`soo-per-kahn-duk-TIV-uh-tee`）
+
+> The discovery could advance research into superconductivity.
 
 **conduce**（有助于，导致；读作：`kuhn-DOOS`）
 
@@ -168,6 +180,14 @@
 
 > The museum sells reproductions of famous paintings.
 
+**reproducible**（可复现的；可复制的；读作：`ree-pruh-DOO-suh-buhl`）
+
+> Scientific results should be reproducible.
+
+**reproducibility**（可复现性；读作：`ree-pruh-doo-suh-BIL-uh-tee`）
+
+> The team published its data to improve reproducibility.
+
 **reproductive**（生殖的；繁殖的；读作：`ree-pruh-DUK-tiv`）
 
 > The study examines reproductive health.
@@ -287,6 +307,10 @@
 
 > The plan has a seductive simplicity.
 
+**seducer**（诱惑者；读作：`sih-DOO-ser`）
+
+> The character is portrayed as a charming seducer.
+
 **abduct**（绑架；读作：`ab-DUKT`）
 
 > The police rescued the child shortly after the kidnapping attempt.
@@ -306,6 +330,10 @@
 
 > The abductor was arrested near the border.
 
+**abductee**（被绑架者；读作：`ab-duk-TEE`）
+
+> The abductee was found unharmed.
+
 **adduct**（使内收；读作：`uh-DUKT`）
 
 > These muscles adduct the leg toward the center of the body.
@@ -313,6 +341,10 @@
 **adduction**（内收；读作：`uh-DUK-shuhn`）
 
 > The therapist measured the adduction of the patient's shoulder.
+
+**adductor**（内收肌；读作：`uh-DUK-ter`）
+
+> The athlete injured an adductor muscle.
 
 ---
 
@@ -352,6 +384,10 @@
 
 > The train crossed a stone viaduct.
 
+**oviduct**（输卵管；读作：`OH-vih-dukt`）
+
+> The oviduct carries egg cells toward the uterus.
+
 **ductile**（有延展性的；读作：`DUK-tuhl`）
 
 > Copper is a ductile metal that can be drawn into wires.
@@ -370,7 +406,39 @@
 
 ---
 
-## 九、duke：带领军队的人
+## 九、transduce / subduct：跨越与向下引导
+
+**trans-** 表示“跨越、转换”。**sub-** 表示“向下、在下面”。
+
+**transduce**（转换能量或信号；读作：`trans-DOOS`）
+
+> Sensors transduce physical movement into electrical signals.
+
+**transducer**（换能器，传感器；读作：`trans-DOO-ser`）
+
+> The microphone contains a transducer that converts sound into an electrical signal.
+
+**transduction**（换能；转导；读作：`trans-DUK-shuhn`）
+
+> Signal transduction allows cells to respond to their environment.
+
+**subduct**（使俯冲到下方；读作：`sub-DUKT`）
+
+> One tectonic plate can subduct beneath another.
+
+**subduction**（俯冲；读作：`sub-DUK-shuhn`）
+
+> The earthquake occurred near a subduction zone.
+
+**subdue**（制服，抑制；读作：`sub-DOO`）
+
+> Firefighters worked through the night to subdue the flames.
+
+`subdue` 经由法语进入英语，拼写已经发生明显变化，但仍然可以追溯到拉丁语 **subducere**：从下面带走、拉走。
+
+---
+
+## 十、duke：带领军队的人
 
 还有一条不容易一眼认出的支线。
 
@@ -392,9 +460,23 @@
 
 > The region was once an independent duchy.
 
+**archduke**（大公；读作：`ARCH-dook`）
+
+> The assassination of the archduke triggered a political crisis.
+
+**dukedom**（公爵爵位；公爵领地；读作：`DOOK-duhm`）
+
+> The title and dukedom passed to his eldest son.
+
+**doge**（总督；读作：`DOHJ`）
+
+> Venice was once governed by a doge.
+
+`doge` 是意大利语路径留下的远亲，同样来自拉丁语 **dux**（领袖）。
+
 ---
 
-## 十、总结
+## 十一、总结
 
 从拉丁语 **ducere（引导、带领）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -406,6 +488,7 @@
 * **seduce / abduct**：把人引离原来的道路
 * **adduce / traduce**：把证据带来，或把名声带坏
 * **duct**：让水、空气和其他物质通过的路径
+* **transduce / subduct**：把信号转换过去，或向下拉走
 * **duke**：带领他人的人
 
 这些单词讨论的不只是方向。
@@ -426,7 +509,10 @@
 | conductor | 指挥，售票员，导体 |
 | conductive | 导电的，有助于……的 |
 | conductivity | 传导性 |
+| conduction | 传导 |
 | semiconductor | 半导体 |
+| superconductor | 超导体 |
+| superconductivity | 超导性 |
 | conduce | 有助于，导致 |
 | conducive | 有助于……的 |
 
@@ -462,6 +548,8 @@
 | byproduct | 副产品 |
 | reproduce | 复制，繁殖 |
 | reproduction | 复制，繁殖 |
+| reproducible | 可复现的，可复制的 |
+| reproducibility | 可复现性 |
 | reproductive | 生殖的，繁殖的 |
 | reduce | 减少，简化 |
 | reduction | 减少，折扣 |
@@ -505,12 +593,15 @@
 | seduce | 诱惑，引诱 |
 | seduction | 诱惑 |
 | seductive | 诱人的 |
+| seducer | 诱惑者 |
 | abduct | 绑架，外展 |
 | abduction | 绑架，外展 |
 | abductive | 溯因的 |
 | abductor | 绑架者，外展肌 |
+| abductee | 被绑架者 |
 | adduct | 使内收 |
 | adduction | 内收 |
+| adductor | 内收肌 |
 
 ---
 
@@ -531,13 +622,27 @@
 | ductwork | 管道系统 |
 | aqueduct | 高架渠，渡槽 |
 | viaduct | 高架桥 |
+| oviduct | 输卵管 |
 | ductile | 有延展性的 |
 | ductility | 延展性 |
 | conduit | 管道，渠道 |
 
 ---
 
-**⑨ duke 家族**
+**⑨ transduce / subduct 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| transduce | 转换能量或信号 |
+| transducer | 换能器，传感器 |
+| transduction | 换能，转导 |
+| subduct | 使俯冲到下方 |
+| subduction | 俯冲 |
+| subdue | 制服，抑制 |
+
+---
+
+**⑩ duke 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -545,6 +650,9 @@
 | duchess | 公爵夫人，女公爵 |
 | ducal | 公爵的 |
 | duchy | 公国，公爵领地 |
+| archduke | 大公 |
+| dukedom | 公爵爵位，公爵领地 |
+| doge | 总督 |
 
 ---
 
