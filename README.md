@@ -25,6 +25,7 @@
 | #3 | [portare 家族：单词如何把东西“搬”到远方](./port.md) | 从“搬运、携带”出发，理解 `import`、`export`、`transport`、`report`、`support` 和 `sport` 等词汇分支 |
 | #4 | [ducere 家族：单词如何把我们“引”向不同方向](./duc.md) | 从“引导、带领”出发，理解 `conduct`、`introduce`、`produce`、`reduce`、`deduce`、`educate` 和 `duct` 等词汇分支 |
 | #5 | [facere 家族：一个“做”字，如何制造出事实、效果和可能性](./fac.md) | 从“做、制造”出发，理解 `fact`、`factory`、`effect`、`perfect`、`benefit`、`satisfy` 和 `-fy` 等词汇分支 |
+| #6 | [scribere 家族：从“写下”到描述、订阅和处方](./scribe.md) | 从“写”出发，理解 `scribe`、`script`、`describe`、`prescribe`、`subscribe`、`inscribe` 和 `transcribe` 等词汇分支 |
 
 ## 阅读方式
 

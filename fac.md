@@ -55,6 +55,33 @@
 
 > Five factorial is equal to 120.
 
+**faction**（派系；读作：`FAK-shuhn`）
+
+> The party split into several competing factions.
+
+**factional**（派系的；读作：`FAK-shuh-nuhl`）
+
+> Factional disputes weakened the organization.
+
+**factious**（好结派的；读作：`FAK-shuhs`）
+
+> The leader struggled to control a factious council.
+
+**factitious**（人为的，不自然的；读作：`fak-TISH-uhs`）
+
+> The crisis was partly factitious, created by rumors.
+
+**factitive**（使役的；读作：`FAK-tuh-tiv`）
+
+> In grammar, a factitive verb expresses making something become a certain state.
+
+**faculty**（能力；院系；全体教师；读作：`FAK-uhl-tee`）
+
+> Memory is one of the mind's most important faculties.
+>
+> The university's faculty voted on the proposal.
+> （这里 **faculty** 指“全体教师”。）
+
 **factotum**（杂役；什么都做的人；读作：`fak-TOH-tuhm`）
 
 > He worked as a factotum for the small theater company.
@@ -100,6 +127,10 @@
 
 > Learning a new language can be difficult.
 
+**difficile**（难治的；读作：`DIF-uh-seel`）
+
+> Doctors tested the patient for C. difficile.
+
 **difficulty**（困难；读作：`DIF-uh-kuhl-tee`）
 
 > We had difficulty finding the address.
@@ -140,6 +171,18 @@
 
 > Researchers evaluated the effectiveness of the treatment.
 
+**effectual**（奏效的；读作：`ih-FEK-choo-uhl`）
+
+> The measure proved effectual in reducing waste.
+
+**effectuate**（使发生，实现；读作：`ih-FEK-choo-ayt`）
+
+> The new policy was designed to effectuate reform.
+
+**effector**（效应器；读作：`ih-FEK-ter`）
+
+> The immune system activates effector cells to fight infection.
+
 **efficacy**（功效；读作：`EF-ih-kuh-see`）
 
 > The trial confirmed the efficacy of the vaccine.
@@ -177,6 +220,14 @@
 > Several soldiers defected during the conflict.
 > （这里 **defect** 作动词，指“叛逃”；读作：`dih-FEKT`。）
 
+**defection**（叛逃；背离；读作：`dih-FEK-shuhn`）
+
+> The party was shaken by the defection of several members.
+
+**defector**（叛逃者；读作：`dih-FEK-ter`）
+
+> The defector gave information to the authorities.
+
 **defective**（有缺陷的；读作：`dih-FEK-tiv`）
 
 > The store replaced the defective device.
@@ -208,6 +259,14 @@
 
 > As a perfectionist, he notices every small error.
 
+**perfectible**（可以完善的；读作：`per-FEK-tuh-buhl`）
+
+> The system is imperfect but perfectible.
+
+**perfective**（完成体的；读作：`per-FEK-tiv`）
+
+> The lesson compares perfective and imperfective aspects.
+
 **imperfect**（不完美的；读作：`im-PER-fekt`）
 
 > We had to make a decision with imperfect information.
@@ -231,6 +290,10 @@
 > Her enthusiasm is infectious.
 > （这里 **infectious** 指情绪“有感染力的”。）
 
+**infective**（能致感染的；读作：`in-FEK-tiv`）
+
+> The virus remains infective for several hours.
+
 **disinfect**（消毒；读作：`dis-in-FEKT`）
 
 > Clean and disinfect the surface before use.
@@ -239,9 +302,69 @@
 
 > Proper disinfection prevents the spread of disease.
 
+**disinfectant**（消毒剂；读作：`dis-in-FEK-tuhnt`）
+
+> Use a disinfectant on frequently touched surfaces.
+
+**reinfect**（再次感染；读作：`ree-in-FEKT`）
+
+> The parasite can reinfect the host.
+
 ---
 
-## 六、benefit / profit：做出好处与收益
+## 六、confect / counterfeits：做甜食，也做伪品
+
+拉丁语 **conficere** 表示“共同做成、完成”。它经由法语进入英语后，一边长出了甜食相关的词，一边也通向了“伪造”和“丧失”。
+
+**confect**（调制，制作；读作：`kuhn-FEKT`）
+
+> The chef confected a rich sauce from butter and herbs.
+
+**confection**（甜食；精巧制品；读作：`kuhn-FEK-shuhn`）
+
+> The bakery is famous for its delicate confections.
+
+**confectionery**（糖果；糖果店；读作：`kuhn-FEK-shuh-nair-ee`）
+
+> The shop sells handmade confectionery.
+
+**confetti**（五彩纸屑；读作：`kuhn-FET-ee`）
+
+> Confetti fell from the ceiling after the announcement.
+
+`confetti` 在意大利语里本来指糖果，后来在英语中变成了庆祝时撒的彩色纸片。
+
+**counterfeit**（伪造的；伪造品；读作：`KOWN-ter-fit`）
+
+> The bank detected several counterfeit bills.
+
+**forfeit**（丧失；罚金；读作：`FOR-fit`）
+
+> If you cancel late, you may forfeit your deposit.
+
+**forfeiture**（丧失；没收；读作：`FOR-fi-cher`）
+
+> The law allows the forfeiture of illegal profits.
+
+**surfeit**（过量；读作：`SUR-fit`）
+
+> The market suffered from a surfeit of cheap products.
+
+**defeat**（击败；读作：`dih-FEET`）
+
+> The team defeated its strongest rival.
+
+**discomfit**（使困惑，使狼狈；读作：`dis-KUM-fit`）
+
+> The unexpected question discomfited the speaker.
+
+**discomfiture**（困窘；读作：`dis-KUM-fi-cher`）
+
+> He tried to hide his discomfiture.
+
+---
+
+## 七、benefit / profit：做出好处与收益
 
 `benefit` 与 `profit` 都讨论做出来的结果。
 
@@ -254,6 +377,18 @@
 **beneficial**（有益的；读作：`ben-uh-FISH-uhl`）
 
 > The policy could be beneficial to small businesses.
+
+**beneficence**（仁慈，善行；读作：`buh-NEF-uh-suhns`）
+
+> The charity depends on private beneficence.
+
+**beneficent**（仁慈的，行善的；读作：`buh-NEF-uh-suhnt`）
+
+> The foundation is known for its beneficent work.
+
+**benefice**（圣俸职位；读作：`BEN-uh-fis`）
+
+> The priest was appointed to a rural benefice.
 
 **beneficiary**（受益人；读作：`ben-uh-FISH-ee-air-ee`）
 
@@ -287,6 +422,10 @@
 
 > The government promised to punish wartime profiteers.
 
+**profiterole**（泡芙；读作：`pruh-FIT-uh-rohl`）
+
+> Dessert was a plate of chocolate profiteroles.
+
 **proficient**（熟练的；读作：`pruh-FISH-uhnt`）
 
 > She is proficient in three languages.
@@ -297,7 +436,7 @@
 
 ---
 
-## 七、office / suffice / satisfy：把事情做到位
+## 八、office / suffice / satisfy：把事情做到位
 
 **office** 最初与应当完成的工作有关。`suffice` 和 `satisfy` 则讨论事情是否已经做到足够。
 
@@ -312,6 +451,10 @@
 
 > The official announcement will be released tomorrow.
 
+**officious**（爱管闲事的；读作：`uh-FISH-uhs`）
+
+> An officious neighbor tried to organize everyone else's schedule.
+
 **officer**（官员；军官；警官；读作：`AW-fuh-ser`）
 
 > A police officer asked to see my license.
@@ -320,6 +463,10 @@
 
 > A close friend officiated at their wedding.
 
+**officiant**（司仪，主持仪式者；读作：`uh-FISH-ee-uhnt`）
+
+> The officiant welcomed the guests before the ceremony.
+
 **suffice**（足够；读作：`suh-FYSE`）
 
 > A brief explanation will suffice.
@@ -327,6 +474,10 @@
 **sufficient**（足够的；读作：`suh-FISH-uhnt`）
 
 > We have sufficient evidence to proceed.
+
+**sufficiency**（足量，充足；读作：`suh-FISH-uhn-see`）
+
+> The report questioned the sufficiency of the evidence.
 
 **insufficient**（不足的；读作：`in-suh-FISH-uhnt`）
 
@@ -347,6 +498,14 @@
 
 > The repairs were completed to a satisfactory standard.
 
+**dissatisfy**（使不满意；读作：`dis-SAT-is-fy`）
+
+> The delay dissatisfied many customers.
+
+**dissatisfaction**（不满；读作：`dis-sat-is-FAK-shuhn`）
+
+> There was widespread dissatisfaction with the service.
+
 **sacrifice**（牺牲；读作：`SAK-ruh-fyce`）
 
 > Parents often sacrifice their time for their children.
@@ -355,7 +514,64 @@
 
 ---
 
-## 八、artifice / edifice：做出来的事物
+## 九、face / fashion / feat：做出来的外形与行动
+
+经由法语路径，**facere** 还长出了一组拼写变化很大的词。它们不再显眼地保留 `fac`，但仍然围绕“做成、形成”。
+
+**face**（脸；表面；面对；读作：`FAYS`）
+
+> She washed her face before dinner.
+>
+> We must face the problem directly.
+> （这里 **face** 作动词，指“面对”。）
+
+**facial**（面部的；读作：`FAY-shuhl`）
+
+> Facial expressions can reveal emotion.
+
+**facet**（方面；小平面；读作：`FAS-it`）
+
+> The issue has many facets.
+
+**facade**（外立面；假象；读作：`fuh-SAHD`）
+
+> The building's stone facade was restored.
+>
+> His confidence was only a facade.
+> （这里 **facade** 指“表面假象”。）
+
+**fashion**（时尚；塑造；读作：`FASH-uhn`）
+
+> Fashion changes quickly.
+>
+> The carpenter fashioned a chair from old wood.
+> （这里 **fashion** 作动词，指“制作，塑造”。）
+
+**fashionable**（时髦的；读作：`FASH-uh-nuh-buhl`）
+
+> The neighborhood became fashionable in the 1990s.
+
+**feat**（壮举；读作：`FEET`）
+
+> Climbing the mountain was an impressive feat.
+
+**feature**（特征；专题；读作：`FEE-cher`）
+
+> Safety is the product's most important feature.
+>
+> The magazine will feature a story about local artists.
+> （这里 **feature** 作动词，指“重点介绍”。）
+
+**affair**（事务；事件；读作：`uh-FAIR`）
+
+> The committee handled the affair quietly.
+>
+> The scandal began as a private affair.
+> （这里 **affair** 指“私事；恋情”。）
+
+---
+
+## 十、artifice / edifice：做出来的事物
 
 **artifice**（巧妙手段；诡计；读作：`AR-tuh-fis`）
 
@@ -365,6 +581,10 @@
 
 > The room was lit by artificial light.
 
+**artificer**（工匠；读作：`ar-TIF-uh-ser`）
+
+> The clock was made by a skilled artificer.
+
 **edifice**（大型建筑；读作：`ED-uh-fis`）
 
 > The old stone edifice dominates the town square.
@@ -372,6 +592,10 @@
 **edify**（启迪；读作：`ED-uh-fy`）
 
 > The documentary aims to edify as well as entertain.
+
+**edification**（启迪，教化；读作：`ed-uh-fuh-KAY-shuhn`）
+
+> The lecture was intended for the edification of the students.
 
 **orifice**（孔口；读作：`OR-uh-fis`）
 
@@ -381,6 +605,10 @@
 
 > The damage was only superficial.
 
+**superficiality**（肤浅；表面性；读作：`soo-per-fish-ee-AL-uh-tee`）
+
+> The review criticized the superficiality of the analysis.
+
 **surface**（表面；读作：`SUR-fis`）
 
 > The surface of the lake was perfectly still.
@@ -389,9 +617,21 @@
 
 > The archive displayed a facsimile of the original letter.
 
+**prefect**（行政长官；读作：`PREE-fekt`）
+
+> The prefect supervised the district.
+
+**prefecture**（辖区；地方行政区；读作：`PREE-fek-cher`）
+
+> Kyoto Prefecture attracts millions of visitors.
+
+**refectory**（食堂；读作：`ri-FEK-tuh-ree`）
+
+> The students ate lunch in the refectory.
+
 ---
 
-## 九、-fy：仍然活跃的“使……化”
+## 十一、-fy：仍然活跃的“使……化”
 
 拉丁语 **facere** 经过法语进入英语后，形成了后缀 **-fy**。它通常表示“使成为……，使发生……”。
 
@@ -416,6 +656,10 @@
 **fortify**（加强；读作：`FOR-tuh-fy`）
 
 > The walls were fortified against attack.
+
+**mollify**（安抚；读作：`MAH-luh-fy`）
+
+> The apology did little to mollify the angry crowd.
 
 **gratify**（使满足；读作：`GRAT-uh-fy`）
 
@@ -445,9 +689,17 @@
 
 > The sudden noise petrified him.
 
+**putrefy**（腐烂；读作：`PYOO-truh-fy`）
+
+> The fruit began to putrefy in the heat.
+
 **purify**（净化；读作：`PYOOR-uh-fy`）
 
 > The filter purifies the water.
+
+**rarefy**（使稀薄；读作：`RAIR-uh-fy`）
+
+> At high altitude, the air becomes rarefied.
 
 **qualify**（使合格；读作：`KWAH-luh-fy`）
 
@@ -475,7 +727,7 @@
 
 ---
 
-## 十、总结
+## 十二、总结
 
 从拉丁语 **facere（做、制造）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -484,8 +736,10 @@
 * **affect / effect**：对事物施加影响，做出结果
 * **defect / perfect**：做得不足，或彻底完成
 * **infect / disinfect**：把某种影响放进去，或清除出去
+* **confect / counterfeit**：共同做成甜食，也可能做出伪品
 * **benefit / profit**：做出好处，取得进展和收益
 * **office / suffice / satisfy**：完成职责，把事情做到足够
+* **face / fashion / feat**：做出外形，形成样式，完成行动
 * **artifice / edifice**：做出来的手段、建筑和表面
 * **-fy**：使事物成为某种状态，仍然可以继续生长
 
@@ -509,6 +763,12 @@
 | manufacturer | 制造商 |
 | artifact | 人造物 |
 | factorial | 阶乘 |
+| faction | 派系 |
+| factional | 派系的 |
+| factious | 好结派的 |
+| factitious | 人为的，不自然的 |
+| factitive | 使役的 |
+| faculty | 能力，院系，全体教师 |
 | factotum | 杂役，什么都做的人 |
 
 ---
@@ -525,6 +785,7 @@
 | feasible | 可行的 |
 | feasibility | 可行性 |
 | difficult | 困难的 |
+| difficile | 难治的 |
 | difficulty | 困难 |
 
 ---
@@ -539,6 +800,9 @@
 | effect | 效果；使发生 |
 | effective | 有效的 |
 | effectiveness | 有效性 |
+| effectual | 奏效的 |
+| effectuate | 使发生，实现 |
+| effector | 效应器 |
 | efficacy | 功效 |
 | efficacious | 有效的 |
 | efficient | 高效的 |
@@ -553,6 +817,8 @@
 | 单词 | 词义 |
 | --- | --- |
 | defect | 缺陷；叛逃 |
+| defection | 叛逃，背离 |
+| defector | 叛逃者 |
 | defective | 有缺陷的 |
 | deficiency | 缺乏 |
 | deficient | 不足的 |
@@ -560,6 +826,8 @@
 | perfect | 完美的；使完善 |
 | perfection | 完美 |
 | perfectionist | 完美主义者 |
+| perfectible | 可以完善的 |
+| perfective | 完成体的 |
 | imperfect | 不完美的 |
 
 ---
@@ -571,17 +839,41 @@
 | infect | 感染 |
 | infection | 感染 |
 | infectious | 传染性的，有感染力的 |
+| infective | 能致感染的 |
 | disinfect | 消毒 |
 | disinfection | 消毒 |
+| disinfectant | 消毒剂 |
+| reinfect | 再次感染 |
 
 ---
 
-**⑥ benefit / profit 家族**
+**⑥ confect / counterfeit 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| confect | 调制，制作 |
+| confection | 甜食，精巧制品 |
+| confectionery | 糖果，糖果店 |
+| confetti | 五彩纸屑 |
+| counterfeit | 伪造的，伪造品 |
+| forfeit | 丧失，罚金 |
+| forfeiture | 丧失，没收 |
+| surfeit | 过量 |
+| defeat | 击败 |
+| discomfit | 使困惑，使狼狈 |
+| discomfiture | 困窘 |
+
+---
+
+**⑦ benefit / profit 家族**
 
 | 单词 | 词义 |
 | --- | --- |
 | benefit | 好处，受益 |
 | beneficial | 有益的 |
+| beneficence | 仁慈，善行 |
+| beneficent | 仁慈的，行善的 |
+| benefice | 圣俸职位 |
 | beneficiary | 受益人 |
 | benefactor | 恩人，捐助者 |
 | benefaction | 善行，捐赠 |
@@ -590,45 +882,73 @@
 | profitability | 盈利能力 |
 | nonprofit | 非营利组织，非营利的 |
 | profiteer | 牟取暴利者 |
+| profiterole | 泡芙 |
 | proficient | 熟练的 |
 | proficiency | 熟练程度 |
 
 ---
 
-**⑦ office / suffice / satisfy 家族**
+**⑧ office / suffice / satisfy 家族**
 
 | 单词 | 词义 |
 | --- | --- |
 | office | 办公室，职务 |
 | official | 官方的，官员 |
+| officious | 爱管闲事的 |
 | officer | 官员，军官，警官 |
 | officiate | 主持仪式，担任裁判 |
+| officiant | 司仪，主持仪式者 |
 | suffice | 足够 |
 | sufficient | 足够的 |
+| sufficiency | 足量，充足 |
 | insufficient | 不足的 |
 | satisfy | 使满意，满足条件 |
 | satisfaction | 满意 |
 | satisfactory | 令人满意的 |
+| dissatisfy | 使不满意 |
+| dissatisfaction | 不满 |
 | sacrifice | 牺牲 |
 
 ---
 
-**⑧ artifice / edifice 家族**
+**⑨ face / fashion / feat 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| face | 脸，表面，面对 |
+| facial | 面部的 |
+| facet | 方面，小平面 |
+| facade | 外立面，假象 |
+| fashion | 时尚，塑造 |
+| fashionable | 时髦的 |
+| feat | 壮举 |
+| feature | 特征，专题 |
+| affair | 事务，事件 |
+
+---
+
+**⑩ artifice / edifice 家族**
 
 | 单词 | 词义 |
 | --- | --- |
 | artifice | 巧妙手段，诡计 |
 | artificial | 人造的 |
+| artificer | 工匠 |
 | edifice | 大型建筑 |
 | edify | 启迪 |
+| edification | 启迪，教化 |
 | orifice | 孔口 |
 | superficial | 表面的，肤浅的 |
+| superficiality | 肤浅，表面性 |
 | surface | 表面 |
 | facsimile | 复制品，传真 |
+| prefect | 行政长官 |
+| prefecture | 辖区，地方行政区 |
+| refectory | 食堂 |
 
 ---
 
-**⑨ -fy 家族**
+**⑪ -fy 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -640,11 +960,14 @@
 | gratify | 使满足 |
 | identify | 识别 |
 | justify | 证明……正当 |
+| mollify | 安抚 |
 | modify | 修改 |
 | notify | 通知 |
 | nullify | 使无效 |
 | petrify | 使石化，使惊呆 |
+| putrefy | 腐烂 |
 | purify | 净化 |
+| rarefy | 使稀薄 |
 | qualify | 使合格 |
 | quantify | 量化 |
 | rectify | 纠正 |
@@ -655,4 +978,3 @@
 ---
 
 > 下篇文章，我们将探索 **scribere 家族**，看看那些关于“书写”的单词如何走进描述、订阅和处方。
-
