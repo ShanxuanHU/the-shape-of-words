@@ -161,6 +161,10 @@
 
 > The proscription of the group remained controversial.
 
+**proscriptive**（禁止性的；读作：`proh-SKRIP-tiv`）
+
+> The policy contains several proscriptive rules.
+
 ---
 
 ## 四、subscribe / superscribe：写在下面，写在上面
@@ -211,6 +215,10 @@
 **superscribe**（在上方书写；读作：`soo-per-SKRYB`）
 
 > The package was superscribed with the recipient's name.
+
+**superscription**（上书文字；题写；读作：`soo-per-SKRIP-shuhn`）
+
+> The superscription on the envelope was difficult to read.
 
 ---
 
@@ -270,6 +278,18 @@
 
 > A medical transcriptionist prepared the report.
 
+**transcriptional**（转录的；读作：`tran-SKRIP-shuh-nuhl`）
+
+> The researchers studied transcriptional changes in the cells.
+
+**transcriptase**（转录酶；读作：`tran-SKRIP-tays`）
+
+> Reverse transcriptase is used by some viruses.
+
+**transcriptome**（转录组；读作：`tran-SKRIP-tohm`）
+
+> The project compared the transcriptome of healthy and diseased tissue.
+
 **transcript**（成绩单；文字记录；读作：`TRAN-skript`）
 
 > Please submit an official transcript with your application.
@@ -296,6 +316,10 @@
 **ascription**（归因；读作：`uh-SKRIP-shuhn`）
 
 > The ascription of the painting remains uncertain.
+
+**ascriptive**（归属性的；读作：`uh-SKRIP-tiv`）
+
+> The study examines ascriptive identities such as caste and family background.
 
 **circumscribe**（限制；划定范围；读作：`SUR-kuhm-skryb`）
 
@@ -333,7 +357,25 @@
 
 ---
 
-## 九、script in technology：代码里的书写
+## 九、rescribe / rescript：写回去，重新写
+
+**re-** 有“回来、再次”的感觉。写回去、重新写，就形成了 `rescribe` 和 `rescript`。
+
+**rescribe**（重写；读作：`ree-SKRYB`）
+
+> The editor asked the author to rescribe the final paragraph.
+
+**rescript**（法令，敕令；重写；读作：`REE-skript`）
+
+> The emperor issued a rescript on the matter.
+
+**rescription**（重写；书面答复；读作：`ree-SKRIP-shuhn`）
+
+> The term survives mostly in historical and legal contexts.
+
+---
+
+## 十、script in technology：代码里的书写
 
 现代技术语境里，`script` 仍然非常活跃。它从“写下的文本”延伸到“可执行的一组指令”。
 
@@ -353,7 +395,41 @@
 
 ---
 
-## 十、总结
+## 十一、同源远亲：刻痕、衬线与忏悔
+
+拉丁语 **scribere** 可以追溯到更古老的原始印欧语词根 **\*skribh-**，核心感觉是“刻、划、切出痕迹”。下面这些词不是 **scribere** 的直接后代，但与它有更远的同源关系。
+
+**serif**（衬线；读作：`SAIR-if`）
+
+> The designer chose a serif font for the book.
+
+**sans-serif**（无衬线字体；读作：`sanz-SAIR-if`）
+
+> Sans-serif fonts are common on screens.
+
+**shrive**（听忏悔并赦罪；读作：`SHRYV`）
+
+> In the old ritual, the priest would shrive the penitent.
+
+**shrift**（忏悔；读作：`SHRIFT`）
+
+> The phrase "short shrift" originally referred to a brief time for confession.
+
+**scarify**（划破；严厉批评；读作：`SKAIR-uh-fy`）
+
+> The gardener scarified the lawn before planting new seed.
+
+**scarification**（划痕；划破皮肤；读作：`skair-uh-fuh-KAY-shuhn`）
+
+> Scarification has been used in several cultural traditions.
+
+**Festschrift**（纪念文集；读作：`FEST-shrift`）
+
+> Her colleagues published a Festschrift in her honor.
+
+---
+
+## 十二、总结
 
 从拉丁语 **scribere（写）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -365,7 +441,9 @@
 * **transcribe**：把一种形式转写成另一种形式
 * **ascribe / circumscribe**：把原因写给某人，或写出边界
 * **conscript / conscribe**：把名字写入名单
+* **rescribe / rescript**：写回去，重新写
 * **script in technology**：脚本成为可执行的书写
+* **同源远亲**：从“刻划痕迹”延伸到字体、忏悔和划破
 
 写字看起来安静，但它能规定规则、记录证据、传递知识、订阅关系、描述世界，也能让代码运行起来。
 
@@ -422,6 +500,7 @@
 | prescriber | 开处方者 |
 | proscribe | 禁止 |
 | proscription | 禁止 |
+| proscriptive | 禁止性的 |
 
 ---
 
@@ -439,6 +518,7 @@
 | subscript | 下标 |
 | superscript | 上标 |
 | superscribe | 在上方书写 |
+| superscription | 上书文字，题写 |
 
 ---
 
@@ -464,6 +544,9 @@
 | transcription | 转录 |
 | transcriber | 转录员 |
 | transcriptionist | 转录员 |
+| transcriptional | 转录的 |
+| transcriptase | 转录酶 |
+| transcriptome | 转录组 |
 | transcript | 成绩单，文字记录 |
 | mistranscribe | 转录错误 |
 
@@ -475,6 +558,7 @@
 | --- | --- |
 | ascribe | 归因于 |
 | ascription | 归因 |
+| ascriptive | 归属性的 |
 | circumscribe | 限制，划定范围 |
 | circumscription | 限制，界定 |
 
@@ -490,13 +574,37 @@
 
 ---
 
-**⑨ script in technology**
+**⑨ rescribe / rescript 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| rescribe | 重写 |
+| rescript | 法令，敕令；重写 |
+| rescription | 重写，书面答复 |
+
+---
+
+**⑩ script in technology**
 
 | 单词 | 词义 |
 | --- | --- |
 | scripting | 脚本编写 |
 | JavaScript | JavaScript 语言 |
 | TypeScript | TypeScript 语言 |
+
+---
+
+**⑪ 同源远亲**
+
+| 单词 | 词义 |
+| --- | --- |
+| serif | 衬线 |
+| sans-serif | 无衬线字体 |
+| shrive | 听忏悔并赦罪 |
+| shrift | 忏悔 |
+| scarify | 划破，严厉批评 |
+| scarification | 划痕，划破皮肤 |
+| Festschrift | 纪念文集 |
 
 ---
 
