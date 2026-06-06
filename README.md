@@ -27,6 +27,7 @@
 | #5 | [facere 家族：一个“做”字，如何制造出事实、效果和可能性](./fac.md) | 从“做、制造”出发，理解 `fact`、`factory`、`effect`、`perfect`、`benefit`、`satisfy` 和 `-fy` 等词汇分支 |
 | #6 | [scribere 家族：从“写下”到描述、订阅和处方](./scribe.md) | 从“写”出发，理解 `scribe`、`script`、`describe`、`prescribe`、`subscribe`、`inscribe` 和 `transcribe` 等词汇分支 |
 | #7 | [mittere 家族：从“发送”到承诺、许可和错误](./mit.md) | 从“发送、放出、派遣”出发，理解 `mission`、`admit`、`permit`、`commit`、`emit`、`submit` 和 `promise` 等词汇分支 |
+| #8 | [capere 家族：从“抓住”到接受、概念和例外](./cap.md) | 从“抓住、拿取、容纳”出发，理解 `capture`、`accept`、`concept`、`receive`、`occupy`、`participate` 和 `anticipate` 等词汇分支 |
 
 ## 阅读方式
 

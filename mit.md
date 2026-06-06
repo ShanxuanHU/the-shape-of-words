@@ -81,6 +81,18 @@
 
 > No admittance without a security badge.
 
+**admissibility**（可采纳性；读作：`ad-mis-uh-BIL-uh-tee`）
+
+> The court questioned the admissibility of the recording.
+
+**readmit**（重新接纳；读作：`ree-ad-MIT`）
+
+> The hospital may readmit the patient for observation.
+
+**readmission**（重新接纳；再次入院；读作：`ree-ad-MISH-uhn`）
+
+> The program reduced hospital readmissions.
+
 **permit**（允许；读作：`per-MIT`）
 
 > The rules permit visitors to take photos.
@@ -100,6 +112,18 @@
 **permissive**（宽容的，放任的；读作：`per-MIS-iv`）
 
 > The school has a permissive policy on phone use.
+
+**impermissible**（不允许的；读作：`im-per-MIS-uh-buhl`）
+
+> Such conduct is impermissible under the rules.
+
+**permissiveness**（宽容；放任；读作：`per-MIS-iv-nuhs`）
+
+> Critics blamed the policy's excessive permissiveness.
+
+**permittee**（许可证持有人；读作：`per-mit-TEE`）
+
+> The permittee must comply with all environmental requirements.
 
 ---
 
@@ -148,6 +172,38 @@
 
 > The judge ordered his committal to prison.
 
+**noncommittal**（不明确表态的；读作：`nahn-kuh-MIT-uhl`）
+
+> She gave a noncommittal answer.
+
+**recommit**（再次承诺；重新提交；读作：`ree-kuh-MIT`）
+
+> The organization recommitted itself to transparency.
+
+**recommitment**（重新承诺；读作：`ree-kuh-MIT-muhnt`）
+
+> The agreement represents a recommitment to cooperation.
+
+**decommission**（使退役；读作：`dee-kuh-MISH-uhn`）
+
+> The navy plans to decommission the old ship.
+
+**recommission**（重新启用；读作：`ree-kuh-MISH-uhn`）
+
+> The restored vessel was recommissioned last year.
+
+**subcommittee**（小组委员会；读作：`SUB-kuh-mit-ee`）
+
+> A subcommittee examined the financial records.
+
+**commissar**（政治委员；读作：`kah-muh-SAR`）
+
+> The novel follows a Soviet commissar during the war.
+
+**commissariat**（军需部门；读作：`kah-muh-SAIR-ee-uht`）
+
+> The commissariat supplied food to the troops.
+
 ---
 
 ## 四、emit / omit / dismiss：发出、漏掉、送走
@@ -178,6 +234,10 @@
 
 > The material has emissive properties.
 
+**emissivity**（发射率；读作：`em-uh-SIV-uh-tee`）
+
+> Dark surfaces often have high emissivity.
+
 **omit**（省略，遗漏；读作：`oh-MIT`）
 
 > Please do not omit any important details.
@@ -200,6 +260,10 @@
 **dismissive**（轻蔑的；读作：`dis-MIS-iv`）
 
 > His dismissive tone annoyed the audience.
+
+**dismissible**（可解雇的；可驳回的；读作：`dis-MIS-uh-buhl`）
+
+> The offense may be dismissible under the agreement.
 
 ---
 
@@ -228,6 +292,10 @@
 
 > The contractor prepared a submittal for approval.
 
+**resubmit**（重新提交；读作：`ree-suhb-MIT`）
+
+> Please correct the form and resubmit it.
+
 **transmit**（传送；传播；读作：`trans-MIT`）
 
 > Radio towers transmit signals over long distances.
@@ -249,6 +317,26 @@
 **transmittable**（可传播的；读作：`trans-MIT-uh-buhl`）
 
 > The disease is transmittable through close contact.
+
+**transmissible**（可传播的；可传递的；读作：`trans-MIS-uh-buhl`）
+
+> The virus is highly transmissible.
+
+**transmissibility**（传播能力；读作：`trans-mis-uh-BIL-uh-tee`）
+
+> Researchers are studying the variant's transmissibility.
+
+**retransmit**（重新传送；读作：`ree-trans-MIT`）
+
+> The receiver can retransmit the signal.
+
+**retransmission**（重新传输；读作：`ree-trans-MISH-uhn`）
+
+> The protocol requests retransmission of lost data.
+
+**neurotransmitter**（神经递质；读作：`noor-oh-trans-MIT-er`）
+
+> Dopamine is an important neurotransmitter.
 
 **transmittal**（传送；传送文件；读作：`trans-MIT-uhl`）
 
@@ -277,6 +365,10 @@
 
 > Many families depend on remittances from relatives abroad.
 
+**remittal**（免除；汇付；读作：`ri-MIT-uhl`）
+
+> The agreement allowed the remittal of the penalty.
+
 **remiss**（疏忽的；读作：`ri-MIS`）
 
 > I would be remiss if I failed to thank the volunteers.
@@ -292,6 +384,10 @@
 **intermission**（幕间休息；读作：`in-ter-MISH-uhn`）
 
 > We bought drinks during the intermission.
+
+**intermittency**（间歇性；读作：`in-ter-MIT-uhn-see`）
+
+> Battery storage can reduce the intermittency of solar power.
 
 ---
 
@@ -313,6 +409,18 @@
 **promising**（有前途的；读作：`PRAH-muh-sing`）
 
 > The experiment produced promising results.
+
+**promissory**（承诺付款的；读作：`PRAH-muh-sor-ee`）
+
+> The borrower signed a promissory note.
+
+**promisee**（受允诺人；读作：`prah-mis-EE`）
+
+> Contract law may allow the promisee to seek damages.
+
+**promisor**（允诺人；读作：`PRAH-muh-sor`）
+
+> The promisor failed to perform the agreement.
 
 **premise**（前提；读作：`PREM-is`）
 
@@ -353,7 +461,31 @@
 
 ---
 
-## 九、总结
+## 九、manumit / intromit：放手释放，送入内部
+
+**manu-** 来自拉丁语 **manus**（手）。从手中放出去，就是释放。
+
+**intro-** 表示“向内”。把东西送入内部，就是 `intromit`。
+
+**manumit**（解放奴隶；读作：`man-yuh-MIT`）
+
+> The owner agreed to manumit the enslaved workers.
+
+**manumission**（解放奴隶；读作：`man-yuh-MISH-uhn`）
+
+> The document records the manumission of several families.
+
+**intromit**（使进入；读作：`in-truh-MIT`）
+
+> The lens intromits light into the instrument.
+
+**intromission**（使进入；插入；读作：`in-truh-MISH-uhn`）
+
+> The mechanism controls the intromission of light.
+
+---
+
+## 十、总结
 
 从拉丁语 **mittere（发送、放出、派遣）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -365,6 +497,7 @@
 * **remit / intermit**：送回去，或中间停下来
 * **promise / premise / compromise**：提前送出的话、前提和共同承诺
 * **surmise / demise / demit**：拼写变化较大的后代
+* **manumit / intromit**：从手中释放，或送入内部
 
 发送不只是寄出一封信。
 
@@ -398,10 +531,16 @@
 | admissible | 可接受的，可采纳的 |
 | inadmissible | 不可采纳的 |
 | admittance | 进入许可 |
+| admissibility | 可采纳性 |
+| readmit | 重新接纳 |
+| readmission | 重新接纳，再次入院 |
 | permit | 允许；许可证 |
 | permission | 许可 |
 | permissible | 可允许的 |
 | permissive | 宽容的，放任的 |
+| impermissible | 不允许的 |
+| permissiveness | 宽容，放任 |
+| permittee | 许可证持有人 |
 
 ---
 
@@ -417,6 +556,14 @@
 | commissioner | 委员，专员 |
 | commissary | 小卖部，军需处 |
 | committal | 表态，收监 |
+| noncommittal | 不明确表态的 |
+| recommit | 再次承诺，重新提交 |
+| recommitment | 重新承诺 |
+| decommission | 使退役 |
+| recommission | 重新启用 |
+| subcommittee | 小组委员会 |
+| commissar | 政治委员 |
+| commissariat | 军需部门 |
 
 ---
 
@@ -429,11 +576,13 @@
 | emitter | 发射器，排放者 |
 | emissary | 使者，密使 |
 | emissive | 发射的 |
+| emissivity | 发射率 |
 | omit | 省略，遗漏 |
 | omission | 遗漏 |
 | dismiss | 解散，驳回 |
 | dismissal | 解雇，驳回 |
 | dismissive | 轻蔑的 |
+| dismissible | 可解雇的，可驳回的 |
 
 ---
 
@@ -445,10 +594,16 @@
 | submission | 提交，服从 |
 | submissive | 顺从的 |
 | submittal | 提交文件 |
+| resubmit | 重新提交 |
 | transmit | 传送，传播 |
 | transmission | 传输，传播，变速器 |
 | transmitter | 发射器 |
 | transmittable | 可传播的 |
+| transmissible | 可传播的，可传递的 |
+| transmissibility | 传播能力 |
+| retransmit | 重新传送 |
+| retransmission | 重新传输 |
+| neurotransmitter | 神经递质 |
 | transmittal | 传送，传送文件 |
 
 ---
@@ -460,10 +615,12 @@
 | remit | 汇款，免除 |
 | remission | 缓解，免除 |
 | remittance | 汇款 |
+| remittal | 免除，汇付 |
 | remiss | 疏忽的 |
 | intermit | 间歇，中断 |
 | intermittent | 间歇性的 |
 | intermission | 幕间休息 |
+| intermittency | 间歇性 |
 
 ---
 
@@ -473,6 +630,9 @@
 | --- | --- |
 | promise | 承诺，前途 |
 | promising | 有前途的 |
+| promissory | 承诺付款的 |
+| promisee | 受允诺人 |
+| promisor | 允诺人 |
 | premise | 前提 |
 | premises | 房屋，经营场所 |
 | compromise | 妥协，危及 |
@@ -490,5 +650,15 @@
 
 ---
 
-> 下篇文章，我们将探索 **capere 家族**，看看那些关于“抓住”的单词如何走进接受、概念和例外。
+**⑨ manumit / intromit 家族**
 
+| 单词 | 词义 |
+| --- | --- |
+| manumit | 解放奴隶 |
+| manumission | 解放奴隶 |
+| intromit | 使进入 |
+| intromission | 使进入，插入 |
+
+---
+
+> 下篇文章，我们将探索 **capere 家族**，看看那些关于“抓住”的单词如何走进接受、概念和例外。
