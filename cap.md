@@ -25,6 +25,18 @@
 > The photograph captures the mood of the city.
 > （这里 **capture** 指“记录、表现”。）
 
+**recapture**（重新捕获；重现；读作：`ree-KAP-cher`）
+
+> The novel recaptures the atmosphere of postwar Paris.
+
+**caption**（图片说明；字幕；读作：`KAP-shuhn`）
+
+> Add a caption below each photograph.
+
+**captious**（吹毛求疵的；读作：`KAP-shuhs`）
+
+> The proposal was delayed by captious objections.
+
 **captive**（俘虏；被俘的；读作：`KAP-tiv`）
 
 > The soldiers freed several captives.
@@ -67,6 +79,30 @@
 > She attended the meeting in her capacity as legal adviser.
 > （这里 **capacity** 指“身份，职位”。）
 
+**capacitate**（使具备能力；读作：`kuh-PAS-uh-tayt`）
+
+> The training capacitates staff to handle emergencies.
+
+**capacitive**（电容的；读作：`kuh-PAS-uh-tiv`）
+
+> The phone uses a capacitive touchscreen.
+
+**capacitance**（电容；读作：`kuh-PAS-uh-tuhns`）
+
+> The engineer measured the capacitance of the circuit.
+
+**capacitor**（电容器；读作：`kuh-PAS-uh-ter`）
+
+> The capacitor stores electrical energy.
+
+**incapacity**（无能力；读作：`in-kuh-PAS-uh-tee`）
+
+> Illness led to a temporary incapacity for work.
+
+**incapacitate**（使失去能力；读作：`in-kuh-PAS-uh-tayt`）
+
+> The injury incapacitated him for several months.
+
 **capacious**（宽敞的，容量大的；读作：`kuh-PAY-shuhs`）
 
 > The bag is surprisingly capacious.
@@ -106,6 +142,10 @@
 
 > The molecule acts as an electron acceptor.
 
+**acceptant**（接受的；受主；读作：`ik-SEP-tuhnt`）
+
+> The material acts as an acceptant in the reaction.
+
 **except**（除外；读作：`ik-SEPT`）
 
 > Everyone attended except Daniel.
@@ -120,6 +160,10 @@
 **exceptional**（杰出的；异常的；读作：`ik-SEP-shuh-nuhl`）
 
 > She has exceptional musical ability.
+
+**exceptionality**（例外性；杰出性；读作：`ik-sep-shuh-NAL-uh-tee`）
+
+> The essay questions the claimed exceptionality of the case.
 
 **exceptionable**（可反对的；读作：`ik-SEP-shuh-nuh-buhl`）
 
@@ -153,6 +197,13 @@
 >
 > The treatment may improve the chances of conception.
 > （这里 **conception** 指“受孕”。）
+
+**conceit**（自负；构思；读作：`kuhn-SEET`）
+
+> His conceit made it difficult for him to accept criticism.
+>
+> The novel is built around a clever conceit.
+> （这里 **conceit** 指作品中的“巧妙构思”。）
 
 **conceive**（构想；怀孕；读作：`kuhn-SEEV`）
 
@@ -204,6 +255,10 @@
 
 > Pick up the receiver and dial the number.
 
+**receipt**（收据；收到；读作：`ri-SEET`）
+
+> Keep the receipt in case you need to return the item.
+
 **reception**（接待；反响；信号接收；读作：`ri-SEP-shuhn`）
 
 > The hotel reception is open all night.
@@ -214,6 +269,14 @@
 **receptive**（乐于接受的；读作：`ri-SEP-tiv`）
 
 > The audience was receptive to the new idea.
+
+**receptivity**（接受能力；读作：`ree-sep-TIV-uh-tee`）
+
+> The discussion increased receptivity to change.
+
+**receptor**（受体；接收器；读作：`ri-SEP-ter`）
+
+> The drug binds to a receptor on the cell surface.
 
 **receptacle**（容器；读作：`ri-SEP-tuh-kuhl`）
 
@@ -236,6 +299,18 @@
 
 > The advertisement was designed to deceive consumers.
 
+**deceiver**（欺骗者；读作：`dih-SEE-ver`）
+
+> The story reveals that the trusted adviser was a deceiver.
+
+**deceit**（欺骗；读作：`dih-SEET`）
+
+> Their partnership was destroyed by deceit.
+
+**deceitful**（欺骗性的；读作：`dih-SEET-fuhl`）
+
+> The advertisement was deliberately deceitful.
+
 **deception**（欺骗；读作：`dih-SEP-shuhn`）
 
 > The plan depended on secrecy and deception.
@@ -251,6 +326,14 @@
 **perception**（感知；看法；读作：`per-SEP-shuhn`）
 
 > Public perception of the company has improved.
+
+**percept**（知觉对象；读作：`PER-sept`）
+
+> A percept is the mental result of a sensory experience.
+
+**perceptual**（感知的；读作：`per-SEP-choo-uhl`）
+
+> The experiment measured perceptual differences between the groups.
 
 **perceptive**（有洞察力的；读作：`per-SEP-tiv`）
 
@@ -291,6 +374,18 @@
 
 > She has led the project since its inception.
 
+**incept**（开始；使正式加入；读作：`in-SEPT`）
+
+> The university incepted the scholar into the degree.
+
+**inceptive**（表示开始的；读作：`in-SEP-tiv`）
+
+> Some languages have a distinct inceptive form.
+
+**inceptor**（开始者；新晋硕士；读作：`in-SEP-ter`）
+
+> The historical record names the first inceptor of the program.
+
 **incipient**（初期的；读作：`in-SIP-ee-uhnt`）
 
 > The doctors detected an incipient infection.
@@ -318,6 +413,14 @@
 **preceptor**（导师；读作：`pri-SEP-ter`）
 
 > Each medical student works with an experienced preceptor.
+
+**preceptive**（教诲性的；读作：`pri-SEP-tiv`）
+
+> The text combines narrative with preceptive passages.
+
+**excipient**（药用辅料；读作：`ik-SIP-ee-uhnt`）
+
+> The tablet contains an inactive excipient.
 
 ---
 
@@ -373,6 +476,10 @@
 
 > "Broken" is a past participle of "break."
 
+**participatory**（参与式的；读作：`par-TIS-uh-puh-tor-ee`）
+
+> The city adopted a participatory budgeting process.
+
 ---
 
 ## 八、anticipate / emancipate：提前抓住，从手中放开
@@ -396,6 +503,10 @@
 
 > The bank took anticipatory action to reduce risk.
 
+**anticipative**（预先考虑的；读作：`an-TIS-uh-pay-tiv`）
+
+> The design reflects an anticipative approach to future demand.
+
 **emancipate**（解放；读作：`ih-MAN-suh-payt`）
 
 > The law emancipated enslaved people.
@@ -410,7 +521,42 @@
 
 ---
 
-## 九、municipal / prince：承担职责，首先抓住
+## 九、catch / chase / purchase：经法语变化的“抓”
+
+拉丁语 **captare** 是 **capere** 的反复形式，有“不断尝试抓住”的意思。它经由不同的古法语方言进入英语后，形成了 `catch` 和 `chase`。
+
+**catch**（抓住；读作：`KACH`）
+
+> She caught the ball with one hand.
+>
+> I did not catch your name.
+> （这里 **catch** 指“听清，领会”。）
+
+**catching**（有感染力的；读作：`KACH-ing`）
+
+> He has a catching laugh.
+
+**catchment**（集水区；读作：`KACH-muhnt`）
+
+> The reservoir serves a large catchment area.
+
+**chase**（追赶；读作：`CHAYS`）
+
+> The dog chased the bicycle down the road.
+
+**purchase**（购买；读作：`PUR-chuhs`）
+
+> We purchased the tickets online.
+
+`purchase` 最初有“追求并取得”的感觉，后来稳定为“购买”。
+
+**purchaser**（购买者；读作：`PUR-chuh-ser`）
+
+> The purchaser must sign the contract.
+
+---
+
+## 十、municipal / prince：承担职责，首先抓住
 
 有些后代的拼写已经看不出 `capere`。
 
@@ -451,7 +597,7 @@
 
 ---
 
-## 十、总结
+## 十一、总结
 
 从拉丁语 **capere（抓住、拿取、容纳）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -463,6 +609,7 @@
 * **susceptible / precept**：从下面接住影响，或提前抓住准则
 * **occupy / participate**：抓住位置，或抓住其中一部分
 * **anticipate / emancipate**：提前抓住，或从控制中放开
+* **catch / chase / purchase**：经法语路径变化的“抓住、追取”
 * **municipal / prince**：承担职责，或首先占据位置
 
 “抓住”可以是身体动作，也可以是心智动作。
@@ -480,6 +627,9 @@
 | 单词 | 词义 |
 | --- | --- |
 | capture | 捕获，记录 |
+| recapture | 重新捕获，重现 |
+| caption | 图片说明，字幕 |
+| captious | 吹毛求疵的 |
 | captive | 俘虏，被俘的 |
 | captivity | 囚禁 |
 | captor | 捕获者 |
@@ -489,6 +639,12 @@
 | capability | 能力 |
 | incapable | 没有能力的 |
 | capacity | 容量，能力，身份 |
+| capacitate | 使具备能力 |
+| capacitive | 电容的 |
+| capacitance | 电容 |
+| capacitor | 电容器 |
+| incapacity | 无能力 |
+| incapacitate | 使失去能力 |
 | capacious | 宽敞的，容量大的 |
 
 ---
@@ -503,9 +659,11 @@
 | acceptability | 可接受性 |
 | acceptation | 公认含义 |
 | acceptor | 接受体 |
+| acceptant | 接受的，受主 |
 | except | 除外 |
 | exception | 例外 |
 | exceptional | 杰出的，异常的 |
+| exceptionality | 例外性，杰出性 |
 | exceptionable | 可反对的 |
 | unexceptional | 普通的 |
 
@@ -519,6 +677,7 @@
 | conceptual | 概念上的 |
 | conceptualize | 形成概念 |
 | conception | 概念，构想，受孕 |
+| conceit | 自负，构思 |
 | conceive | 构想，怀孕 |
 | conceivable | 可以想象的 |
 | inconceivable | 难以想象的 |
@@ -535,16 +694,24 @@
 | --- | --- |
 | receive | 收到，接待 |
 | receiver | 接收者，听筒，接收机 |
+| receipt | 收据，收到 |
 | reception | 接待，反响，信号接收 |
 | receptive | 乐于接受的 |
+| receptivity | 接受能力 |
+| receptor | 受体，接收器 |
 | receptacle | 容器 |
 | recipient | 接收者，受益人 |
 | recipe | 食谱，方法 |
 | deceive | 欺骗 |
+| deceiver | 欺骗者 |
+| deceit | 欺骗 |
+| deceitful | 欺骗性的 |
 | deception | 欺骗 |
 | deceptive | 具有欺骗性的 |
 | perceive | 察觉，理解 |
 | perception | 感知，看法 |
+| percept | 知觉对象 |
+| perceptual | 感知的 |
 | perceptive | 有洞察力的 |
 | perceptible | 可以察觉的 |
 | imperceptible | 难以察觉的 |
@@ -559,6 +726,9 @@
 | interception | 拦截 |
 | interceptor | 拦截器 |
 | inception | 开始 |
+| incept | 开始，使正式加入 |
+| inceptive | 表示开始的 |
+| inceptor | 开始者，新晋硕士 |
 | incipient | 初期的 |
 
 ---
@@ -571,6 +741,8 @@
 | susceptibility | 易感性 |
 | precept | 准则，教诲 |
 | preceptor | 导师 |
+| preceptive | 教诲性的 |
+| excipient | 药用辅料 |
 
 ---
 
@@ -588,6 +760,7 @@
 | participation | 参与 |
 | participant | 参与者 |
 | participle | 分词 |
+| participatory | 参与式的 |
 
 ---
 
@@ -598,13 +771,27 @@
 | anticipate | 预期，提前应对 |
 | anticipation | 期待，预期 |
 | anticipatory | 预期的 |
+| anticipative | 预先考虑的 |
 | emancipate | 解放 |
 | emancipation | 解放 |
 | emancipatory | 解放性的 |
 
 ---
 
-**⑨ municipal / prince 家族**
+**⑨ catch / chase / purchase 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| catch | 抓住，听清 |
+| catching | 有感染力的 |
+| catchment | 集水区 |
+| chase | 追赶 |
+| purchase | 购买 |
+| purchaser | 购买者 |
+
+---
+
+**⑩ municipal / prince 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -619,4 +806,3 @@
 ---
 
 > 下篇文章，我们将探索 **tenere 家族**，看看那些关于“握住”的单词如何走进保持、内容和持续。
-

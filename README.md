@@ -28,6 +28,7 @@
 | #6 | [scribere 家族：从“写下”到描述、订阅和处方](./scribe.md) | 从“写”出发，理解 `scribe`、`script`、`describe`、`prescribe`、`subscribe`、`inscribe` 和 `transcribe` 等词汇分支 |
 | #7 | [mittere 家族：从“发送”到承诺、许可和错误](./mit.md) | 从“发送、放出、派遣”出发，理解 `mission`、`admit`、`permit`、`commit`、`emit`、`submit` 和 `promise` 等词汇分支 |
 | #8 | [capere 家族：从“抓住”到接受、概念和例外](./cap.md) | 从“抓住、拿取、容纳”出发，理解 `capture`、`accept`、`concept`、`receive`、`occupy`、`participate` 和 `anticipate` 等词汇分支 |
+| #9 | [tenere 家族：从“握住”到保持、内容和持续](./ten.md) | 从“握住、持有、保持”出发，理解 `retain`、`contain`、`continue`、`maintain`、`sustain`、`tenant` 和 `tenacious` 等词汇分支 |
 
 ## 阅读方式
 
