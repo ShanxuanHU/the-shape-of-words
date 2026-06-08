@@ -56,6 +56,10 @@
 
 > The student was given detention for repeated lateness.
 
+**detainment**（拘留；读作：`dih-TAYN-muhnt`）
+
+> The lawyer challenged his prolonged detainment.
+
 **detainee**（被拘留者；读作：`dee-tay-NEE`）
 
 > The detainee was released without charge.
@@ -63,6 +67,10 @@
 **detainer**（拘留令；扣押者；读作：`dih-TAY-ner`）
 
 > The court issued a detainer against the prisoner.
+
+**detinue**（非法扣留动产；读作：`DET-in-yoo`）
+
+> The owner brought an action in detinue to recover the property.
 
 ---
 
@@ -84,6 +92,13 @@
 **containment**（控制；遏制；读作：`kuhn-TAYN-muhnt`）
 
 > The government announced new measures for disease containment.
+
+**countenance**（面容；支持；读作：`KOWN-tuh-nuhns`）
+
+> Her countenance revealed no emotion.
+>
+> The committee will not countenance dishonesty.
+> （这里 **countenance** 作动词，指“容忍，支持”。）
 
 **content**（内容；读作：`KAHN-tent`）
 
@@ -109,6 +124,10 @@
 
 > Workers became increasingly discontented.
 
+**malcontent**（不满者；心怀不满的；读作：`MAL-kuhn-tent`）
+
+> A group of malcontents challenged the leadership.
+
 **contents**（所容纳之物；目录；读作：`KAHN-tents`）
 
 > Check the contents of the package.
@@ -130,6 +149,14 @@
 
 > The second book is a continuation of the first.
 
+**continuance**（持续；延期；读作：`kuhn-TIN-yoo-uhns`）
+
+> The judge granted a continuance of the hearing.
+
+**continual**（反复发生的；读作：`kuhn-TIN-yoo-uhl`）
+
+> The continual interruptions made it hard to concentrate.
+
 **continuous**（连续不断的；读作：`kuhn-TIN-yoo-uhs`）
 
 > The machine requires continuous monitoring.
@@ -150,6 +177,10 @@
 
 > The graph shows a sharp discontinuity.
 
+**discontinuous**（不连续的；读作：`dis-kuhn-TIN-yoo-uhs`）
+
+> The data form a discontinuous series.
+
 **continent**（大陆；读作：`KAHN-tuh-nuhnt`）
 
 > Africa is the world's second-largest continent.
@@ -159,6 +190,14 @@
 **continental**（大陆的；读作：`kahn-tuh-NEN-tuhl`）
 
 > The country has a continental climate.
+
+**intercontinental**（洲际的；读作：`in-ter-kahn-tuh-NEN-tuhl`）
+
+> The airline operates intercontinental flights.
+
+**transcontinental**（横贯大陆的；读作：`trans-kahn-tuh-NEN-tuhl`）
+
+> The railway created a transcontinental link.
 
 **continence**（克制；读作：`KAHN-tuh-nuhns`）
 
@@ -191,6 +230,10 @@
 
 > The developers want a simple, maintainable codebase.
 
+**maintainability**（可维护性；读作：`mayn-tay-nuh-BIL-uh-tee`）
+
+> Clear documentation improves maintainability.
+
 **maintainer**（维护者；读作：`mayn-TAY-ner`）
 
 > The package maintainer released a security update.
@@ -213,6 +256,10 @@
 **sustenance**（食物；维持生命之物；读作：`SUS-tuh-nuhns`）
 
 > The travelers carried enough sustenance for three days.
+
+**sustentation**（支撑；维持；读作：`sus-ten-TAY-shuhn`）
+
+> The structure depends on the sustentation provided by the lower beams.
 
 ---
 
@@ -264,13 +311,33 @@
 
 > The lawyer questioned the pertinence of the evidence.
 
+**pertinacious**（执着的；读作：`per-tuh-NAY-shuhs`）
+
+> The researcher was pertinacious in pursuing the evidence.
+
+**pertinacity**（执着；读作：`per-tuh-NAS-uh-tee`）
+
+> Her pertinacity eventually produced results.
+
 **impertinent**（无关的；无礼的；读作：`im-PER-tuh-nuhnt`）
 
 > The interviewer asked an impertinent question.
 
+**impertinence**（无礼；读作：`im-PER-tuh-nuhns`）
+
+> He apologized for his impertinence.
+
 **appertain**（属于；读作：`ap-er-TAYN`）
 
 > The rights appertain to the property rather than the owner.
+
+**appurtenance**（附属物；读作：`uh-PUR-tuh-nuhns`）
+
+> The garage is considered an appurtenance of the house.
+
+**appurtenant**（附属的；读作：`uh-PUR-tuh-nuhnt`）
+
+> The agreement includes rights appurtenant to the land.
 
 ---
 
@@ -290,6 +357,14 @@
 **abstention**（戒除；弃权；读作：`uhb-STEN-shuhn`）
 
 > The motion passed with three abstentions.
+
+**abstinence**（戒除；节制；读作：`AB-stuh-nuhns`）
+
+> The treatment program encourages abstinence from alcohol.
+
+**abstinent**（戒除的；读作：`AB-stuh-nuhnt`）
+
+> He remained abstinent for several years.
 
 **abstemious**（有节制的；读作：`ab-STEE-mee-uhs`）
 
@@ -324,9 +399,25 @@
 
 > The tenant signed a one-year lease.
 
+**tenable**（站得住脚的；可维持的；读作：`TEN-uh-buhl`）
+
+> That explanation is no longer tenable.
+
+**tenability**（可维持性；合理性；读作：`ten-uh-BIL-uh-tee`）
+
+> New evidence weakened the tenability of the theory.
+
 **tenancy**（租赁；租期；读作：`TEN-uhn-see`）
 
 > The tenancy ends in September.
+
+**tenement**（公寓楼；租赁房屋；读作：`TEN-uh-muhnt`）
+
+> The family lived in a crowded tenement.
+
+**tenantry**（佃户，租户群体；读作：`TEN-uhn-tree`）
+
+> The estate's tenantry opposed the rent increase.
 
 **tenure**（任期；终身教职；读作：`TEN-yer`）
 
@@ -339,9 +430,38 @@
 
 > She is a tenured professor.
 
+**tenurial**（土地保有制度的；读作：`ten-YOOR-ee-uhl`）
+
+> The reform changed the region's tenurial system.
+
 **tenet**（信条；读作：`TEN-it`）
 
 > Freedom of expression is a central tenet of the organization.
+
+**tenor**（男高音；主旨；读作：`TEN-er`）
+
+> The tenor sang the leading role.
+>
+> The general tenor of the debate was optimistic.
+> （这里 **tenor** 指“总体倾向，主旨”。）
+
+**tenuto**（保持音；读作：`tuh-NOO-toh`）
+
+> The note should be played tenuto.
+
+**sostenuto**（持续音的；读作：`sos-tuh-NOO-toh`）
+
+> The pianist used the sostenuto pedal.
+
+**lieutenant**（中尉；副职；读作：`loo-TEN-uhnt`）
+
+> The lieutenant briefed the soldiers.
+
+`lieutenant` 来自法语 **lieu**（位置）和 **tenant**（持有者）：代替他人“占据位置”的人。
+
+**retinue**（随从；读作：`RET-uh-noo`）
+
+> The ambassador arrived with a large retinue.
 
 ---
 
@@ -373,7 +493,7 @@
 
 ---
 
-## 十、intent / extent / patent：朝向、伸展与公开持有
+## 十、intent / extent：朝向与伸展
 
 拉丁语 **tendere**（伸展、拉紧）与 **tenere**（握住）关系密切，两者在历史上形成了一组容易交织的词。下面这些词严格说主要来自 **tendere**，因此作为“近亲支线”处理，而不是 **tenere** 的直接后代。
 
@@ -413,13 +533,6 @@
 
 > Political tension increased before the election.
 
-**patent**（专利；明显的；读作：`PAT-uhnt`）
-
-> The company applied for a patent.
->
-> It was a patent lie.
-> （这里 **patent** 作形容词，指“明显的”。）
-
 ---
 
 ## 十一、总结
@@ -457,8 +570,10 @@
 | retainer | 聘用定金，保持器，随从 |
 | detain | 拘留，耽搁 |
 | detention | 拘留，课后留校 |
+| detainment | 拘留 |
 | detainee | 被拘留者 |
 | detainer | 拘留令，扣押者 |
+| detinue | 非法扣留动产 |
 
 ---
 
@@ -469,11 +584,13 @@
 | contain | 包含，控制 |
 | container | 容器，集装箱 |
 | containment | 控制，遏制 |
+| countenance | 面容，支持 |
 | content | 内容；满足的 |
 | contentment | 满足 |
 | contented | 满足的 |
 | discontent | 不满 |
 | discontented | 不满的 |
+| malcontent | 不满者，心怀不满的 |
 | contents | 所容纳之物，目录 |
 
 ---
@@ -484,13 +601,18 @@
 | --- | --- |
 | continue | 继续 |
 | continuation | 继续，续篇 |
+| continuance | 持续，延期 |
+| continual | 反复发生的 |
 | continuous | 连续不断的 |
 | continuity | 连续性 |
 | continuum | 连续体 |
 | discontinue | 停止 |
 | discontinuity | 不连续，突变 |
+| discontinuous | 不连续的 |
 | continent | 大陆 |
 | continental | 大陆的 |
+| intercontinental | 洲际的 |
+| transcontinental | 横贯大陆的 |
 | continence | 克制 |
 | incontinent | 失禁的，缺乏克制的 |
 
@@ -503,11 +625,13 @@
 | maintain | 维持，保养，主张 |
 | maintenance | 维护，生活费 |
 | maintainable | 可维护的 |
+| maintainability | 可维护性 |
 | maintainer | 维护者 |
 | sustain | 支撑，维持 |
 | sustainable | 可持续的 |
 | sustainability | 可持续性 |
 | sustenance | 食物，维持生命之物 |
+| sustentation | 支撑，维持 |
 
 ---
 
@@ -531,8 +655,13 @@
 | pertain | 与……有关 |
 | pertinent | 相关的 |
 | pertinence | 相关性 |
+| pertinacious | 执着的 |
+| pertinacity | 执着 |
 | impertinent | 无关的，无礼的 |
+| impertinence | 无礼 |
 | appertain | 属于 |
+| appurtenance | 附属物 |
+| appurtenant | 附属的 |
 
 ---
 
@@ -542,6 +671,8 @@
 | --- | --- |
 | abstain | 戒除，弃权 |
 | abstention | 戒除，弃权 |
+| abstinence | 戒除，节制 |
+| abstinent | 戒除的 |
 | abstemious | 有节制的 |
 | entertain | 娱乐，招待，考虑 |
 | entertainment | 娱乐 |
@@ -555,10 +686,20 @@
 | 单词 | 词义 |
 | --- | --- |
 | tenant | 租户 |
+| tenable | 站得住脚的，可维持的 |
+| tenability | 可维持性，合理性 |
 | tenancy | 租赁，租期 |
+| tenement | 公寓楼，租赁房屋 |
+| tenantry | 佃户，租户群体 |
 | tenure | 任期，终身教职 |
 | tenured | 获得终身教职的 |
+| tenurial | 土地保有制度的 |
 | tenet | 信条 |
+| tenor | 男高音，主旨 |
+| tenuto | 保持音 |
+| sostenuto | 持续音的 |
+| lieutenant | 中尉，副职 |
+| retinue | 随从 |
 
 ---
 
@@ -586,7 +727,6 @@
 | extension | 延伸，扩展，分机 |
 | extent | 程度，范围 |
 | tension | 紧张，张力 |
-| patent | 专利，明显的 |
 
 ---
 

@@ -29,6 +29,7 @@
 | #7 | [mittere 家族：从“发送”到承诺、许可和错误](./mit.md) | 从“发送、放出、派遣”出发，理解 `mission`、`admit`、`permit`、`commit`、`emit`、`submit` 和 `promise` 等词汇分支 |
 | #8 | [capere 家族：从“抓住”到接受、概念和例外](./cap.md) | 从“抓住、拿取、容纳”出发，理解 `capture`、`accept`、`concept`、`receive`、`occupy`、`participate` 和 `anticipate` 等词汇分支 |
 | #9 | [tenere 家族：从“握住”到保持、内容和持续](./ten.md) | 从“握住、持有、保持”出发，理解 `retain`、`contain`、`continue`、`maintain`、`sustain`、`tenant` 和 `tenacious` 等词汇分支 |
+| #10 | [vertere 家族：一次“转身”，如何变成改变、版本和对话](./vert.md) | 从“转动、转向”出发，理解 `convert`、`divert`、`invert`、`reverse`、`advertise`、`version` 和 `universe` 等词汇分支 |
 
 ## 阅读方式
 
