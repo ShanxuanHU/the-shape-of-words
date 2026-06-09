@@ -33,6 +33,18 @@
 
 > The conversion of the warehouse took two years.
 
+**convertibility**（可转换性；读作：`kuhn-vur-tuh-BIL-uh-tee`）
+
+> Investors questioned the convertibility of the currency.
+
+**reconvert**（重新转换；读作：`ree-kuhn-VERT`）
+
+> The owners reconverted the building into offices.
+
+**reconversion**（重新转换；读作：`ree-kuhn-VER-zhuhn`）
+
+> The reconversion of the factory created new jobs.
+
 **convertible**（可转换的；敞篷车；读作：`kuhn-VER-tuh-buhl`）
 
 > The bond is convertible into shares.
@@ -55,6 +67,14 @@
 **conversational**（会话的；读作：`kahn-ver-SAY-shuh-nuhl`）
 
 > The course focuses on conversational English.
+
+**conversant**（熟悉的；读作：`kuhn-VUR-suhnt`）
+
+> She is conversant with modern data analysis.
+
+**conversely**（反过来说；读作：`KAHN-vurs-lee`）
+
+> High prices can reduce demand; conversely, lower prices may increase it.
 
 **converse**（相反的事物；逆命题；读作：`KAHN-vurs`）
 
@@ -89,6 +109,14 @@
 
 > The company plans to diversify its products.
 
+**diversification**（多样化；读作：`dih-vur-suh-fuh-KAY-shuhn`）
+
+> Diversification can reduce investment risk.
+
+**diversionary**（转移注意力的；读作：`dih-VUR-zhuh-nair-ee`）
+
+> The attack was a diversionary tactic.
+
 **divorce**（离婚；分离；读作：`dih-VORS`）
 
 > They divorced after ten years of marriage.
@@ -110,6 +138,10 @@
 
 > The sentence uses inversion for emphasis.
 
+**invertible**（可逆的；读作：`in-VUR-tuh-buhl`）
+
+> The matrix is invertible.
+
 **inverse**（相反的；反比的；读作：`IN-vurs`）
 
 > Price and demand often have an inverse relationship.
@@ -122,6 +154,10 @@
 
 > He was quiet and introverted as a child.
 
+**introversion**（内向；读作：`in-truh-VUR-zhuhn`）
+
+> Introversion does not necessarily imply shyness.
+
 **extrovert**（外向的人；读作：`EK-struh-vurt`）
 
 > The job suits an energetic extrovert.
@@ -129,6 +165,10 @@
 **extroverted**（外向的；读作：`EK-struh-vur-tid`）
 
 > She is confident and extroverted.
+
+**extroversion**（外向；读作：`ek-struh-VUR-zhuhn`）
+
+> The questionnaire measures extroversion.
 
 **ambivert**（兼具内外向特质的人；读作：`AM-buh-vurt`）
 
@@ -154,6 +194,14 @@
 **reversible**（可逆的；正反两用的；读作：`ri-VUR-suh-buhl`）
 
 > The jacket is reversible.
+
+**reversibility**（可逆性；读作：`ri-vur-suh-BIL-uh-tee`）
+
+> The experiment tested the reversibility of the reaction.
+
+**irreversible**（不可逆的；读作：`ir-ri-VUR-suh-buhl`）
+
+> The damage may be irreversible.
 
 **revert**（恢复原状；读作：`ri-VERT`）
 
@@ -194,12 +242,40 @@
 
 > Advertisers compete for users' attention.
 
+**advertorial**（软文，广告式文章；读作：`ad-ver-TOR-ee-uhl`）
+
+> The magazine clearly labeled the page as an advertorial.
+
+**inadvertent**（无意的；读作：`in-ad-VUR-tuhnt`）
+
+> The disclosure was inadvertent.
+
+**inadvertence**（疏忽；读作：`in-ad-VUR-tuhns`）
+
+> The error resulted from simple inadvertence.
+
+**animadvert**（评论；责备；读作：`an-uh-mad-VURT`）
+
+> The reviewer animadverted on several weaknesses in the argument.
+
+**animadversion**（批评；读作：`an-uh-mad-VUR-zhuhn`）
+
+> His remarks drew sharp animadversion.
+
 **avert**（避免；转开；读作：`uh-VERT`）
 
 > Quick action averted a disaster.
 >
 > She averted her eyes.
 > （这里 **avert** 指“转开目光”。）
+
+**averse**（反对的；读作：`uh-VURS`）
+
+> She is not averse to taking risks.
+
+**aversion**（厌恶；读作：`uh-VUR-zhuhn`）
+
+> He has a strong aversion to conflict.
 
 **adverse**（不利的；读作：`ad-VURS`）
 
@@ -212,6 +288,10 @@
 **adversary**（对手；读作：`AD-ver-sair-ee`）
 
 > He respected his political adversary.
+
+**adversarial**（对抗性的；读作：`ad-ver-SAIR-ee-uhl`）
+
+> The legal system is often adversarial.
 
 ---
 
@@ -233,6 +313,10 @@
 
 > The film was considered politically subversive.
 
+**subverter**（颠覆者；读作：`suhb-VUR-ter`）
+
+> The authorities described him as a subverter of public order.
+
 **pervert**（歪曲；使堕落；读作：`per-VERT`）
 
 > The report perverted the meaning of the original statement.
@@ -240,6 +324,14 @@
 **perversion**（歪曲；读作：`per-VER-zhuhn`）
 
 > The policy was described as a perversion of justice.
+
+**perverse**（执意作对的；反常的；读作：`per-VURS`）
+
+> He took a perverse pleasure in breaking the rules.
+
+**perversity**（执拗；反常；读作：`per-VUR-suh-tee`）
+
+> The decision seemed motivated by sheer perversity.
 
 ---
 
@@ -288,9 +380,21 @@
 
 > The poet versified an old legend.
 
+**versification**（作诗；韵律安排；读作：`vur-suh-fuh-KAY-shuhn`）
+
+> The poem's versification is unusually complex.
+
 **verse**（诗句；读作：`VURS`）
 
 > She memorized several verses from the poem.
+
+**versicle**（短诗句；读作：`VUR-suh-kuhl`）
+
+> The choir repeated the opening versicle.
+
+**verso**（书页背面；读作：`VUR-soh`）
+
+> The illustration appears on the verso.
 
 ---
 
@@ -315,6 +419,22 @@
 **university**（大学；读作：`yoo-nuh-VUR-suh-tee`）
 
 > She studies physics at the university.
+
+**varsity**（大学代表队；读作：`VAR-suh-tee`）
+
+> She plays on the varsity basketball team.
+
+**multiverse**（多元宇宙；读作：`MUL-tee-vurs`）
+
+> The story takes place across a fictional multiverse.
+
+**universalism**（普遍主义；读作：`yoo-nuh-VUR-suh-liz-uhm`）
+
+> The essay examines universalism in ethics.
+
+**universalist**（普遍主义者；读作：`yoo-nuh-VUR-suh-list`）
+
+> He argued from a universalist perspective.
 
 **anniversary**（周年纪念日；读作：`an-uh-VUR-suh-ree`）
 
@@ -342,9 +462,29 @@
 
 > Draw a vertical line through the center.
 
+**vertebra**（椎骨；读作：`VUR-tuh-bruh`）
+
+> The scan revealed a fracture in one vertebra.
+
+**vertebral**（椎骨的；读作：`VUR-tuh-bruhl`）
+
+> The patient suffered a vertebral injury.
+
+**vertebrate**（脊椎动物；读作：`VUR-tuh-brayt`）
+
+> A fish is a vertebrate.
+
 **vortex**（旋涡；读作：`VOR-teks`）
 
 > Water formed a vortex as it drained.
+
+**vertigo**（眩晕；读作：`VUR-tuh-goh`）
+
+> Looking down from the tower gave him vertigo.
+
+**vertiginous**（令人眩晕的；读作：`vur-TIJ-uh-nuhs`）
+
+> The path climbed a vertiginous slope.
 
 **transverse**（横向的；读作：`trans-VURS`）
 
@@ -352,7 +492,27 @@
 
 ---
 
-## 十一、总结
+## 十一、obverse / traverse：转向观察者，转过一段路
+
+**ob-** 有“朝向”的感觉。转向观察者的一面，就是正面。
+
+**trans-** 表示“穿过”。转过一段路，就是横越。
+
+**obverse**（正面；对应面；读作：`AHB-vurs`）
+
+> The portrait appears on the obverse of the coin.
+
+**traverse**（横越；读作：`truh-VURS`）
+
+> The hikers traversed the valley before sunset.
+
+**traversal**（横越；遍历；读作：`truh-VUR-suhl`）
+
+> The algorithm performs a traversal of the tree.
+
+---
+
+## 十二、总结
 
 从拉丁语 **vertere（转动、转向）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -366,6 +526,7 @@
 * **version / versus**：转出来的形式，以及彼此相对
 * **universe / anniversary**：转成一个整体，或随年份转回
 * **versatile / vertex / vortex**：灵活转动、转折点与旋转中心
+* **obverse / traverse**：转向观察者，或横越一段路径
 
 世界一直在转，语言也一样。
 
@@ -383,11 +544,16 @@
 | --- | --- |
 | convert | 转换；皈依者 |
 | conversion | 转换，转变 |
+| convertibility | 可转换性 |
+| reconvert | 重新转换 |
+| reconversion | 重新转换 |
 | convertible | 可转换的，敞篷车 |
 | converter | 转换器 |
 | converse | 交谈；相反的事物 |
 | conversation | 交谈 |
 | conversational | 会话的 |
+| conversant | 熟悉的 |
+| conversely | 反过来说 |
 
 ---
 
@@ -400,6 +566,8 @@
 | diverse | 多样的 |
 | diversity | 多样性 |
 | diversify | 使多样化 |
+| diversification | 多样化 |
+| diversionary | 转移注意力的 |
 | divorce | 离婚，分离 |
 
 ---
@@ -410,11 +578,14 @@
 | --- | --- |
 | invert | 倒置 |
 | inversion | 倒置，语序倒装 |
+| invertible | 可逆的 |
 | inverse | 相反的，反比的 |
 | introvert | 内向的人 |
 | introverted | 内向的 |
+| introversion | 内向 |
 | extrovert | 外向的人 |
 | extroverted | 外向的 |
+| extroversion | 外向 |
 | ambivert | 兼具内外向特质的人 |
 
 ---
@@ -426,6 +597,8 @@
 | reverse | 反转，相反的 |
 | reversal | 逆转 |
 | reversible | 可逆的，正反两用的 |
+| reversibility | 可逆性 |
+| irreversible | 不可逆的 |
 | revert | 恢复原状 |
 | reversion | 恢复，回归 |
 | reversionary | 复归的 |
@@ -440,10 +613,18 @@
 | advertise | 做广告 |
 | advertisement | 广告 |
 | advertiser | 广告商 |
+| advertorial | 软文，广告式文章 |
+| inadvertent | 无意的 |
+| inadvertence | 疏忽 |
+| animadvert | 评论，责备 |
+| animadversion | 批评 |
 | avert | 避免，转开 |
+| averse | 反对的 |
+| aversion | 厌恶 |
 | adverse | 不利的 |
 | adversity | 逆境 |
 | adversary | 对手 |
+| adversarial | 对抗性的 |
 
 ---
 
@@ -454,8 +635,11 @@
 | subvert | 颠覆 |
 | subversion | 颠覆 |
 | subversive | 颠覆性的 |
+| subverter | 颠覆者 |
 | pervert | 歪曲，使堕落 |
 | perversion | 歪曲 |
+| perverse | 执意作对的，反常的 |
+| perversity | 执拗，反常 |
 
 ---
 
@@ -478,7 +662,10 @@
 | versus | 对，与……相比 |
 | vice versa | 反之亦然 |
 | versify | 把……写成诗 |
+| versification | 作诗，韵律安排 |
 | verse | 诗句 |
+| versicle | 短诗句 |
+| verso | 书页背面 |
 
 ---
 
@@ -490,6 +677,10 @@
 | universal | 普遍的，通用的 |
 | universality | 普遍性 |
 | university | 大学 |
+| varsity | 大学代表队 |
+| multiverse | 多元宇宙 |
+| universalism | 普遍主义 |
+| universalist | 普遍主义者 |
 | anniversary | 周年纪念日 |
 
 ---
@@ -502,8 +693,23 @@
 | versatility | 多才多艺，多功能性 |
 | vertex | 顶点 |
 | vertical | 垂直的 |
+| vertebra | 椎骨 |
+| vertebral | 椎骨的 |
+| vertebrate | 脊椎动物 |
 | vortex | 旋涡 |
+| vertigo | 眩晕 |
+| vertiginous | 令人眩晕的 |
 | transverse | 横向的 |
+
+---
+
+**⑪ obverse / traverse 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| obverse | 正面，对应面 |
+| traverse | 横越 |
+| traversal | 横越，遍历 |
 
 ---
 

@@ -30,6 +30,7 @@
 | #8 | [capere 家族：从“抓住”到接受、概念和例外](./cap.md) | 从“抓住、拿取、容纳”出发，理解 `capture`、`accept`、`concept`、`receive`、`occupy`、`participate` 和 `anticipate` 等词汇分支 |
 | #9 | [tenere 家族：从“握住”到保持、内容和持续](./ten.md) | 从“握住、持有、保持”出发，理解 `retain`、`contain`、`continue`、`maintain`、`sustain`、`tenant` 和 `tenacious` 等词汇分支 |
 | #10 | [vertere 家族：一次“转身”，如何变成改变、版本和对话](./vert.md) | 从“转动、转向”出发，理解 `convert`、`divert`、`invert`、`reverse`、`advertise`、`version` 和 `universe` 等词汇分支 |
+| #11 | [ponere 家族：从“放置”到位置、建议和组成](./pon.md) | 从“放置、摆放”出发，理解 `position`、`compose`、`deposit`、`expose`、`impose`、`propose` 和 `suppose` 等词汇分支 |
 
 ## 阅读方式
 
