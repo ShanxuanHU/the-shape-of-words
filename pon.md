@@ -27,6 +27,14 @@
 
 > The company changed its brand positioning.
 
+**positional**（位置的；读作：`puh-ZISH-uh-nuhl`）
+
+> The game requires strong positional awareness.
+
+**reposition**（重新定位；读作：`ree-puh-ZISH-uhn`）
+
+> The company repositioned the product for younger customers.
+
 **posit**（假定；读作：`PAH-zit`）
 
 > The theory posits that language shapes thought.
@@ -41,6 +49,14 @@
 **positivity**（积极性；读作：`pah-zuh-TIV-uh-tee`）
 
 > Her positivity encouraged the whole team.
+
+**positivism**（实证主义；读作：`PAH-zuh-tuh-viz-uhm`）
+
+> The course examines positivism in social science.
+
+**positivist**（实证主义者；读作：`PAH-zuh-tuh-vist`）
+
+> The researcher adopted a positivist approach.
 
 **postulate**（假定；公理；读作：`PAHS-choo-layt`）
 
@@ -70,9 +86,21 @@
 
 > Students wrote a short composition.
 
+**compositional**（组成的；作曲的；读作：`kahm-puh-ZISH-uh-nuhl`）
+
+> The painting has a strong compositional balance.
+
 **composer**（作曲家；读作：`kuhm-POH-zer`）
 
 > The composer completed the symphony in 1890.
+
+**composure**（镇静；读作：`kuhm-POH-zher`）
+
+> She maintained her composure during the interview.
+
+**compositor**（排字工；合成器；读作：`kuhm-PAH-zuh-ter`）
+
+> The compositor prepared the page for printing.
 
 **composite**（复合的；合成物；读作：`kuhm-PAH-zit`）
 
@@ -85,6 +113,18 @@
 **compound**（化合物；复合的；读作：`KAHM-pownd`）
 
 > Water is a chemical compound.
+
+**compost**（堆肥；读作：`KAHM-pohst`）
+
+> Add the vegetable scraps to the compost.
+
+**compostable**（可堆肥的；读作：`kuhm-POH-stuh-buhl`）
+
+> The café uses compostable cups.
+
+**compote**（水果煮制甜品；读作：`KAHM-poht`）
+
+> Breakfast was served with apple compote.
 
 **decompose**（分解；腐烂；读作：`dee-kuhm-POHZ`）
 
@@ -118,6 +158,18 @@
 **depositor**（存款人；读作：`dih-PAH-zuh-ter`）
 
 > Depositors can withdraw money at any branch.
+
+**depository**（存放处；读作：`dih-PAH-zuh-tor-ee`）
+
+> The library serves as a depository for government documents.
+
+**depone**（宣誓作证；读作：`dih-POHN`）
+
+> The witness deponed that the signature was genuine.
+
+**deponent**（宣誓作证者；异相动词；读作：`dih-POH-nuhnt`）
+
+> Latin grammar treats the verb as a deponent.
 
 **repository**（存储库；读作：`ri-PAH-zuh-tor-ee`）
 
@@ -164,6 +216,10 @@
 
 > The company experienced exponential growth.
 
+**exponentiation**（乘方；读作：`ek-spoh-nen-shee-AY-shuhn`）
+
+> The algorithm performs modular exponentiation.
+
 ---
 
 ## 五、impose / juxtapose：放到上面，放到旁边
@@ -186,6 +242,30 @@
 **imposing**（宏伟的；读作：`im-POH-zing`）
 
 > The courthouse is an imposing building.
+
+**impost**（税；冒名者的身份；读作：`IM-pohst`）
+
+> The government collected an impost on imported goods.
+
+**impostor**（冒名顶替者；读作：`im-PAH-ster`）
+
+> The account was created by an impostor.
+
+**imposture**（冒名欺骗；读作：`im-PAHS-cher`）
+
+> The investigation exposed the elaborate imposture.
+
+**superimpose**（叠加；读作：`soo-per-im-POHZ`）
+
+> The software can superimpose text on an image.
+
+**superimposition**（叠加；读作：`soo-per-im-puh-ZISH-uhn`）
+
+> The effect was created through superimposition.
+
+**superposition**（叠加；读作：`soo-per-puh-ZISH-uhn`）
+
+> Quantum theory describes a state of superposition.
 
 **juxtapose**（并置；读作：`JUK-stuh-pohz`）
 
@@ -211,6 +291,10 @@
 
 > The proposal faced strong opposition.
 
+**oppositional**（反对的；读作：`ah-puh-ZISH-uh-nuhl`）
+
+> The child displayed oppositional behavior.
+
 **opponent**（对手；读作：`uh-POH-nuhnt`）
 
 > She defeated a more experienced opponent.
@@ -230,6 +314,10 @@
 **apposite**（贴切的；读作：`AP-uh-zit`）
 
 > She made an apposite remark.
+
+**apropos**（关于；恰当地；读作：`ap-ruh-POH`）
+
+> Apropos of our earlier discussion, I found the missing report.
 
 ---
 
@@ -251,6 +339,10 @@
 **proposition**（命题；提议；读作：`prah-puh-ZISH-uhn`）
 
 > The mathematician proved the proposition.
+
+**proponent**（支持者；读作：`pruh-POH-nuhnt`）
+
+> She is a leading proponent of renewable energy.
 
 **propositional**（命题的；读作：`prah-puh-ZISH-uh-nuhl`）
 
@@ -283,6 +375,14 @@
 
 > The argument rests on a doubtful supposition.
 
+**suppositional**（假设的；读作：`sup-uh-ZISH-uh-nuhl`）
+
+> The conclusion depends on suppositional reasoning.
+
+**suppository**（栓剂；读作：`suh-PAH-zuh-tor-ee`）
+
+> The medicine is available as a suppository.
+
 **presuppose**（预先假定；读作：`pree-suh-POHZ`）
 
 > The question presupposes that the claim is true.
@@ -308,6 +408,21 @@
 
 > Waste disposal is expensive.
 
+**disposable**（一次性的；可支配的；读作：`dih-SPOH-zuh-buhl`）
+
+> The clinic uses disposable gloves.
+>
+> The survey measures disposable income.
+> （这里 **disposable** 指“可支配的”。）
+
+**indisposed**（身体不适的；不愿意的；读作：`in-dih-SPOHZD`）
+
+> She was indisposed and unable to attend.
+
+**indisposition**（身体不适；不情愿；读作：`in-dis-puh-ZISH-uhn`）
+
+> A slight indisposition kept him at home.
+
 **disposition**（性情；倾向；安排；读作：`dis-puh-ZISH-uhn`）
 
 > She has a cheerful disposition.
@@ -319,6 +434,14 @@
 **predisposition**（倾向；易感性；读作：`pree-dis-puh-ZISH-uhn`）
 
 > He has a genetic predisposition to high blood pressure.
+
+**interpose**（介入；插入；读作：`in-ter-POHZ`）
+
+> She interposed herself between the two men.
+
+**interposition**（介入；插入；读作：`in-ter-puh-ZISH-uhn`）
+
+> The dispute ended after the interposition of a mediator.
 
 ---
 
@@ -338,6 +461,14 @@
 
 > The error resulted from the transposition of two digits.
 
+**contraposition**（换质位；逆否关系；读作：`kahn-truh-puh-ZISH-uhn`）
+
+> The proof uses contraposition.
+
+**contrapositive**（逆否命题；读作：`kahn-truh-PAH-zuh-tiv`）
+
+> A statement and its contrapositive are logically equivalent.
+
 **postpone**（推迟；读作：`pohst-POHN`）
 
 > We postponed the meeting until Friday.
@@ -350,9 +481,39 @@
 
 > “Under” is a preposition in this sentence.
 
+**postposition**（后置词；读作：`pohst-puh-ZISH-uhn`）
+
+> Some languages use postpositions instead of prepositions.
+
+**posture**（姿势；立场；读作：`PAHS-cher`）
+
+> Poor posture can cause back pain.
+>
+> The government adopted a defensive posture.
+> （这里 **posture** 指“立场，姿态”。）
+
 ---
 
-## 十一、总结
+## 十一、expound / propound / impound：拼写变化后的“放”
+
+经由法语路径，`ponere` 的一部分后代把 `pon` 变成了 `pound`。
+
+**expound**（详细说明；读作：`ik-SPOWND`）
+
+> The professor expounded the theory in detail.
+
+**propound**（提出；读作：`pruh-POWND`）
+
+> The author propounds a new explanation.
+
+**impound**（扣押；读作：`im-POWND`）
+
+> Police impounded the vehicle.
+
+---
+
+## 十二、总结
+---
 
 从拉丁语 **ponere（放置、摆放）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -366,6 +527,7 @@
 * **suppose / presuppose**：把假设放在推理下面
 * **dispose / disposition**：分别安排，形成倾向
 * **transpose / postpone / preposition**：换位置、放到后面或放在前面
+* **expound / propound / impound**：经法语改变拼写的“放”
 
 位置改变，关系也会改变。
 
@@ -383,9 +545,13 @@
 | --- | --- |
 | position | 位置，职位，立场 |
 | positioning | 定位 |
+| positional | 位置的 |
+| reposition | 重新定位 |
 | posit | 假定 |
 | positive | 积极的，阳性的 |
 | positivity | 积极性 |
+| positivism | 实证主义 |
+| positivist | 实证主义者 |
 | postulate | 假定，公理 |
 | postulation | 假定 |
 
@@ -397,10 +563,16 @@
 | --- | --- |
 | compose | 组成，创作，使平静 |
 | composition | 组成，作文，作品 |
+| compositional | 组成的，作曲的 |
 | composer | 作曲家 |
+| composure | 镇静 |
+| compositor | 排字工，合成器 |
 | composite | 复合的，合成物 |
 | component | 组成部分 |
 | compound | 化合物，复合的 |
+| compost | 堆肥 |
+| compostable | 可堆肥的 |
+| compote | 水果煮制甜品 |
 | decompose | 分解，腐烂 |
 | decomposition | 分解 |
 | recompose | 重新组成，使恢复镇定 |
@@ -414,6 +586,9 @@
 | deposit | 存款，押金，沉积物 |
 | deposition | 沉积，证词，罢免 |
 | depositor | 存款人 |
+| depository | 存放处 |
+| depone | 宣誓作证 |
+| deponent | 宣誓作证者，异相动词 |
 | repository | 存储库 |
 | repose | 休息 |
 
@@ -430,6 +605,7 @@
 | exposé | 揭露性报道 |
 | exponent | 倡导者，指数 |
 | exponential | 指数的，迅速增长的 |
+| exponentiation | 乘方 |
 
 ---
 
@@ -440,6 +616,12 @@
 | impose | 强加，征收 |
 | imposition | 强加，负担 |
 | imposing | 宏伟的 |
+| impost | 税，冒名者的身份 |
+| impostor | 冒名顶替者 |
+| imposture | 冒名欺骗 |
+| superimpose | 叠加 |
+| superimposition | 叠加 |
+| superposition | 叠加 |
 | juxtapose | 并置 |
 | juxtaposition | 并置 |
 
@@ -451,11 +633,13 @@
 | --- | --- |
 | oppose | 反对 |
 | opposition | 反对，反对派 |
+| oppositional | 反对的 |
 | opponent | 对手 |
 | opposite | 相反的，对面的 |
 | appose | 并置 |
 | apposition | 同位关系，并置 |
 | apposite | 贴切的 |
+| apropos | 关于，恰当地 |
 
 ---
 
@@ -466,6 +650,7 @@
 | propose | 提议，求婚 |
 | proposal | 提议，求婚 |
 | proposition | 命题，提议 |
+| proponent | 支持者 |
 | propositional | 命题的 |
 | purpose | 目的 |
 | purposive | 有目的的 |
@@ -478,6 +663,8 @@
 | --- | --- |
 | suppose | 假设，认为 |
 | supposition | 假设 |
+| suppositional | 假设的 |
+| suppository | 栓剂 |
 | presuppose | 预先假定 |
 | presupposition | 预设 |
 
@@ -489,9 +676,14 @@
 | --- | --- |
 | dispose | 处理，使倾向于 |
 | disposal | 处理，支配权 |
+| disposable | 一次性的，可支配的 |
+| indisposed | 身体不适的，不愿意的 |
+| indisposition | 身体不适，不情愿 |
 | disposition | 性情，倾向，安排 |
 | predispose | 使预先倾向于 |
 | predisposition | 倾向，易感性 |
+| interpose | 介入，插入 |
+| interposition | 介入，插入 |
 
 ---
 
@@ -501,11 +693,24 @@
 | --- | --- |
 | transpose | 调换，移调 |
 | transposition | 调换，移调 |
+| contraposition | 换质位，逆否关系 |
+| contrapositive | 逆否命题 |
 | postpone | 推迟 |
 | postponement | 推迟 |
 | preposition | 介词 |
+| postposition | 后置词 |
+| posture | 姿势，立场 |
+
+---
+
+**⑪ expound / propound / impound 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| expound | 详细说明 |
+| propound | 提出 |
+| impound | 扣押 |
 
 ---
 
 > 下篇文章，我们将探索 **ferre 家族**，看看那些关于“携带”的单词如何走进转移、推断和差异。
-
