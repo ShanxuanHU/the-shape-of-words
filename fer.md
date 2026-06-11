@@ -31,6 +31,10 @@
 
 > The ticket is not transferable.
 
+**transferability**（可转让性；可迁移性；读作：`trans-fer-uh-BIL-uh-tee`）
+
+> The agreement limits the transferability of the shares.
+
 **transference**（转移；移情；读作：`TRANS-fer-uhns`）
 
 > The therapist recognized signs of transference.
@@ -61,6 +65,14 @@
 **reference**（参考；提及；读作：`REF-er-uhns`）
 
 > Keep this guide for future reference.
+
+**referential**（指称的；读作：`ref-uh-REN-shuhl`）
+
+> Pronouns depend on context for their referential meaning.
+
+**referee**（裁判；评审人；读作：`ref-uh-REE`）
+
+> The referee stopped the match.
 
 **referral**（转诊；推荐；读作：`ri-FUR-uhl`）
 
@@ -126,9 +138,21 @@
 
 > The test cannot differentiate between the two conditions.
 
+**differentiation**（区分；分化；读作：`dif-uh-ren-shee-AY-shuhn`）
+
+> Product differentiation can help a company compete.
+
 **differential**（差别的；差速器；读作：`dif-uh-REN-shuhl`）
 
 > The car needs a new differential.
+
+**indifferent**（漠不关心的；无差别的；读作：`in-DIF-er-uhnt`）
+
+> He seemed indifferent to the result.
+
+**indifference**（冷漠；读作：`in-DIF-er-uhns`）
+
+> Public indifference allowed the problem to grow.
 
 ---
 
@@ -149,6 +173,14 @@
 
 > The conference attracted researchers from twenty countries.
 
+**conferment**（授予；读作：`kuhn-FUR-muhnt`）
+
+> The ceremony marked the conferment of the degree.
+
+**conferee**（受授予者；会议参与者；读作：`kahn-fer-EE`）
+
+> Each conferee received a certificate.
+
 **defer**（推迟；听从；读作：`dih-FUR`）
 
 > We decided to defer the decision.
@@ -168,6 +200,10 @@
 
 > The student requested a deferral of the exam.
 
+**deferment**（延期；读作：`dih-FUR-muhnt`）
+
+> He received a deferment of military service.
+
 ---
 
 ## 五、offer / proffer / suffer：带到面前与从下面承受
@@ -184,6 +220,14 @@
 
 > The course is one of the school's newest offerings.
 
+**offeror**（要约人；读作：`AW-fer-er`）
+
+> The offeror may withdraw the proposal before acceptance.
+
+**offeree**（受要约人；读作：`aw-fer-EE`）
+
+> The offeree accepted the terms in writing.
+
 **proffer**（递上；提出；读作：`PRAH-fer`）
 
 > He proffered a written apology.
@@ -199,6 +243,10 @@
 **sufferance**（容忍；读作：`SUF-er-uhns`）
 
 > They remained on the land only by sufferance.
+
+**insufferable**（无法忍受的；读作：`in-SUF-er-uh-buhl`）
+
+> The heat became insufferable by noon.
 
 ---
 
@@ -227,6 +275,30 @@
 **pestiferous**（有害的；读作：`pes-TIF-er-uhs`）
 
 > The swamp was known for its pestiferous insects.
+
+**aquifer**（含水层；读作：`AK-wuh-fer`）
+
+> The city draws drinking water from a deep aquifer.
+
+**conifer**（针叶树；读作：`KAH-nuh-fer`）
+
+> Pine is a common conifer.
+
+**coniferous**（针叶树的；读作：`kuh-NIF-er-uhs`）
+
+> The mountain is covered by coniferous forest.
+
+**cruciferous**（十字花科的；读作：`kroo-SIF-er-uhs`）
+
+> Broccoli is a cruciferous vegetable.
+
+**proliferate**（激增；繁殖；读作：`pruh-LIF-uh-rayt`）
+
+> Online services proliferated during the decade.
+
+**proliferation**（激增；扩散；读作：`pruh-lif-uh-RAY-shuhn`）
+
+> The treaty aims to prevent nuclear proliferation.
 
 ---
 
@@ -284,6 +356,18 @@
 > We stayed with relatives during the holiday.
 > （这里 **relative** 作名词，指“亲属”。）
 
+**relational**（关系的；读作：`ri-LAY-shuh-nuhl`）
+
+> The database uses a relational model.
+
+**relativity**（相对性；相对论；读作：`rel-uh-TIV-uh-tee`）
+
+> Einstein transformed physics with the theory of relativity.
+
+**relativism**（相对主义；读作：`REL-uh-tuh-viz-uhm`）
+
+> The course discusses moral relativism.
+
 **correlate**（相关；读作：`KOR-uh-layt`）
 
 > Income tends to correlate with education.
@@ -306,6 +390,14 @@
 **translator**（译者；读作：`trans-LAY-ter`）
 
 > The translator preserved the author's tone.
+
+**translatable**（可翻译的；读作：`trans-LAY-tuh-buhl`）
+
+> Some jokes are not easily translatable.
+
+**translational**（转化的；翻译的；读作：`trans-LAY-shuh-nuhl`）
+
+> The institute supports translational medical research.
 
 ---
 
@@ -370,6 +462,26 @@
 
 > The planet has a slightly oblate shape.
 
+**prolate**（长球形的；读作：`PROH-layt`）
+
+> A rugby ball is roughly prolate in shape.
+
+**legislate**（立法；读作：`LEJ-is-layt`）
+
+> Parliament can legislate on environmental standards.
+
+**legislation**（法律；立法；读作：`lej-is-LAY-shuhn`）
+
+> The new legislation takes effect next year.
+
+**legislative**（立法的；读作：`LEJ-is-lay-tiv`）
+
+> The proposal requires legislative approval.
+
+**legislator**（立法者；读作：`LEJ-is-lay-ter`）
+
+> Legislators debated the bill for several hours.
+
 ---
 
 ## 十一、总结
@@ -403,6 +515,7 @@
 | --- | --- |
 | transfer | 转移，调动；换乘 |
 | transferable | 可转让的，可迁移的 |
+| transferability | 可转让性，可迁移性 |
 | transference | 转移，移情 |
 | transferee | 受让人 |
 | transferor | 转让人 |
@@ -415,6 +528,8 @@
 | --- | --- |
 | refer | 提到，转交，查阅 |
 | reference | 参考，提及 |
+| referential | 指称的 |
+| referee | 裁判，评审人 |
 | referral | 转诊，推荐 |
 | referent | 所指对象 |
 | referendum | 公民投票 |
@@ -436,7 +551,10 @@
 | difference | 差异 |
 | different | 不同的 |
 | differentiate | 区分，使分化 |
+| differentiation | 区分，分化 |
 | differential | 差别的，差速器 |
+| indifferent | 漠不关心的，无差别的 |
+| indifference | 冷漠 |
 
 ---
 
@@ -446,10 +564,13 @@
 | --- | --- |
 | confer | 商议，授予 |
 | conference | 会议 |
+| conferment | 授予 |
+| conferee | 受授予者，会议参与者 |
 | defer | 推迟，听从 |
 | deference | 尊重 |
 | deferential | 恭敬的 |
 | deferral | 延期 |
+| deferment | 延期 |
 
 ---
 
@@ -459,10 +580,13 @@
 | --- | --- |
 | offer | 提供，提议 |
 | offering | 提供之物，祭品 |
+| offeror | 要约人 |
+| offeree | 受要约人 |
 | proffer | 递上，提出 |
 | suffer | 遭受 |
 | suffering | 痛苦 |
 | sufferance | 容忍 |
+| insufferable | 无法忍受的 |
 
 ---
 
@@ -475,6 +599,12 @@
 | vociferous | 大声疾呼的 |
 | odoriferous | 有香味的 |
 | pestiferous | 有害的 |
+| aquifer | 含水层 |
+| conifer | 针叶树 |
+| coniferous | 针叶树的 |
+| cruciferous | 十字花科的 |
+| proliferate | 激增，繁殖 |
+| proliferation | 激增，扩散 |
 
 ---
 
@@ -498,11 +628,16 @@
 | relation | 关系 |
 | relationship | 关系 |
 | relative | 相对的，亲属 |
+| relational | 关系的 |
+| relativity | 相对性，相对论 |
+| relativism | 相对主义 |
 | correlate | 相关 |
 | correlation | 相关性 |
 | translate | 翻译，转化 |
 | translation | 翻译，转化 |
 | translator | 译者 |
+| translatable | 可翻译的 |
+| translational | 转化的，翻译的 |
 
 ---
 
@@ -527,8 +662,12 @@
 | prelate | 高级神职人员 |
 | superlative | 最高级的，极佳的 |
 | oblate | 献身宗教生活者，扁球形的 |
+| prolate | 长球形的 |
+| legislate | 立法 |
+| legislation | 法律，立法 |
+| legislative | 立法的 |
+| legislator | 立法者 |
 
 ---
 
 > 下篇文章，我们将探索 **agere 家族**，看看那些关于“行动”的单词如何走进代理、议程和反应。
-

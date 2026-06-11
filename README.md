@@ -32,6 +32,7 @@
 | #10 | [vertere 家族：一次“转身”，如何变成改变、版本和对话](./vert.md) | 从“转动、转向”出发，理解 `convert`、`divert`、`invert`、`reverse`、`advertise`、`version` 和 `universe` 等词汇分支 |
 | #11 | [ponere 家族：从“放置”到位置、建议和组成](./pon.md) | 从“放置、摆放”出发，理解 `position`、`compose`、`deposit`、`expose`、`impose`、`propose` 和 `suppose` 等词汇分支 |
 | #12 | [ferre 家族：从“携带”到转移、推断和关系](./fer.md) | 从“携带、承受、带来”出发，理解 `transfer`、`refer`、`infer`、`differ`、`offer`、`suffer`、`relate` 和 `translate` 等词汇分支 |
+| #13 | [agere 家族：从“行动”到代理、议程和反应](./ag.md) | 从“行动、驱动、做”出发，理解 `act`、`agent`、`agenda`、`react`、`interact`、`transact` 和 `exact` 等词汇分支 |
 
 ## 阅读方式
 
