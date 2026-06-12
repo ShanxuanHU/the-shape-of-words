@@ -49,6 +49,22 @@
 
 > Account activation takes only a few minutes.
 
+**activator**（激活剂；读作：`AK-tuh-vay-ter`）
+
+> The chemical acts as an activator.
+
+**actuate**（驱动；促使；读作：`AK-choo-ayt`）
+
+> An electric motor actuates the valve.
+
+**actuation**（驱动；读作：`ak-choo-AY-shuhn`）
+
+> The system uses hydraulic actuation.
+
+**actuator**（执行器；读作：`AK-choo-ay-ter`）
+
+> The actuator moves the robotic arm.
+
 **actor**（演员；行动者；读作：`AK-ter`）
 
 > He began his career as a stage actor.
@@ -68,6 +84,46 @@
 **actualize**（实现；读作：`AK-choo-uh-lyze`）
 
 > The program helps students actualize their ideas.
+
+**actionable**（可采取行动的；可诉的；读作：`AK-shuh-nuh-buhl`）
+
+> The report provides actionable recommendations.
+
+**inaction**（不行动；读作：`in-AK-shuhn`）
+
+> Public anger grew over the government's inaction.
+
+**inactive**（不活跃的；读作：`in-AK-tiv`）
+
+> The account has been inactive for a year.
+
+**inactivity**（不活动；读作：`in-ak-TIV-uh-tee`）
+
+> Prolonged inactivity can harm health.
+
+**deactivate**（停用；读作：`dee-AK-tuh-vayt`）
+
+> Deactivate the account before deleting it.
+
+**deactivation**（停用；读作：`dee-ak-tuh-VAY-shuhn`）
+
+> The device enters deactivation mode automatically.
+
+**proactive**（主动积极的；读作：`proh-AK-tiv`）
+
+> A proactive approach can prevent problems.
+
+**retroactive**（追溯生效的；读作：`ret-roh-AK-tiv`）
+
+> The pay increase is retroactive to January.
+
+**actuarial**（精算的；读作：`ak-choo-AIR-ee-uhl`）
+
+> The company requested an actuarial assessment.
+
+**actuary**（精算师；读作：`AK-choo-air-ee`）
+
+> An actuary calculated the insurance risk.
 
 ---
 
@@ -100,6 +156,14 @@
 
 > The chair introduced the next agendum.
 
+**agentive**（施事的；读作：`AY-juhn-tiv`）
+
+> The sentence contains an agentive subject.
+
+**interagency**（跨机构的；读作：`in-ter-AY-juhn-see`）
+
+> An interagency team coordinated the response.
+
 ---
 
 ## 三、react / interact：回应行动与彼此作用
@@ -123,6 +187,18 @@
 **reactor**（反应堆；反应器；读作：`ree-AK-ter`）
 
 > The chemical reactor operates at high pressure.
+
+**reactant**（反应物；读作：`ree-AK-tuhnt`）
+
+> The reactants combine to form a new compound.
+
+**reactionary**（反动的；读作：`ree-AK-shuh-nair-ee`）
+
+> Critics described the policy as reactionary.
+
+**reagent**（试剂；读作：`ree-AY-juhnt`）
+
+> Add the reagent slowly to the solution.
 
 **interact**（互动；读作：`in-ter-AKT`）
 
@@ -180,9 +256,17 @@
 
 > The enactment of the policy changed the industry.
 
+**enactor**（制定者；执行者；读作：`en-AK-ter`）
+
+> The legislature is the enactor of the statute.
+
 **reenact**（重新上演；重新制定；读作：`ree-en-AKT`）
 
 > Students reenacted the historical debate.
+
+**reenactment**（重演；读作：`ree-en-AKT-muhnt`）
+
+> The museum hosted a historical reenactment.
 
 **exact**（精确的；读作：`ig-ZAKT`）
 
@@ -195,6 +279,14 @@
 **exacting**（要求严格的；读作：`ig-ZAK-ting`）
 
 > The work requires exacting attention to detail.
+
+**inexact**（不精确的；读作：`in-ig-ZAKT`）
+
+> The estimate is useful but inexact.
+
+**exactitude**（精确；读作：`ig-ZAK-tuh-tood`）
+
+> The work was completed with remarkable exactitude.
 
 **exaction**（强征；读作：`ig-ZAK-shuhn`）
 
@@ -230,6 +322,10 @@
 
 > After much cogitation, she made a decision.
 
+**cogitative**（思考的；读作：`KAH-juh-tay-tiv`）
+
+> The essay examines the mind's cogitative powers.
+
 **coagulate**（凝固；读作：`koh-AG-yuh-layt`）
 
 > The protein causes the liquid to coagulate.
@@ -240,7 +336,7 @@
 
 ---
 
-## 七、agile：行动迅速
+## 七、agile / agitate：行动迅速，推动不安
 
 拉丁语 **agilis** 表示“行动迅速的、容易推动的”，来自 **agere**。
 
@@ -255,9 +351,58 @@
 
 > The exercise improves strength and agility.
 
+**agitate**（煽动；使焦虑；搅动；读作：`AJ-uh-tayt`）
+
+> The machine agitates the water.
+>
+> Activists agitated for reform.
+> （这里 **agitate for** 指“鼓动、争取”。）
+
+**agitation**（焦虑；鼓动；搅动；读作：`aj-uh-TAY-shuhn`）
+
+> The announcement caused public agitation.
+
+**agitator**（鼓动者；搅拌器；读作：`AJ-uh-tay-ter`）
+
+> The washing machine has a central agitator.
+
+**agitato**（激动地；读作：`aj-uh-TAH-toh`）
+
+> The passage is marked agitato.
+
 ---
 
-## 八、navigate / litigate / mitigate：推动船只、诉讼与缓和
+## 八、castigate / fumigate / variegate：推动惩戒、烟熏与变化
+
+这组词的 `-igate` 也保留着“使某种行动发生”的痕迹。
+
+**castigate**（严厉批评；读作：`KAS-tuh-gayt`）
+
+> The report castigated the company for its failures.
+
+**castigation**（严厉批评；读作：`kas-tuh-GAY-shuhn`）
+
+> The decision drew public castigation.
+
+**fumigate**（熏蒸消毒；读作：`FYOO-muh-gayt`）
+
+> Workers fumigated the warehouse.
+
+**fumigation**（熏蒸；读作：`fyoo-muh-GAY-shuhn`）
+
+> The building was closed for fumigation.
+
+**variegate**（使呈现多种颜色；读作：`VAIR-ee-uh-gayt`）
+
+> White markings variegate the leaves.
+
+**variegated**（杂色的；多样的；读作：`VAIR-ee-uh-gay-tid`）
+
+> The garden contains variegated plants.
+
+---
+
+## 九、navigate / litigate / mitigate：推动船只、诉讼与缓和
 
 有些词由名词加上 **agere** 构成，表示推动某件事进行。
 
@@ -304,7 +449,7 @@
 
 ---
 
-## 九、exigent / prodigal / ambiguous：被逼迫、向前赶、两边推动
+## 十、exigent / prodigal / ambiguous：被逼迫、向前赶、两边推动
 
 **exigent** 来自拉丁语 **exigere**：向外逼迫，因此表示紧急、苛刻。
 
@@ -346,7 +491,40 @@
 
 ---
 
-## 十、总结
+## 十一、essay / examine / redact：尝试、衡量与重新整理
+
+这些词经由法语或拉丁语的复合形式发生了较大变化，但仍可追溯到 **agere**。
+
+**essay**（文章；尝试；读作：`ES-ay`）
+
+> She wrote an essay on urban history.
+>
+> The climber essayed a difficult route.
+> （这里 **essay** 作动词，指“尝试”；读作：`eh-SAY`。）
+
+**assay**（化验；读作：`AS-ay`）
+
+> The laboratory assayed the sample for gold.
+
+**examine**（检查；考试；读作：`ig-ZAM-in`）
+
+> The doctor examined the patient.
+
+**examination**（检查；考试；读作：`ig-zam-uh-NAY-shuhn`）
+
+> The final examination lasts two hours.
+
+**redact**（编辑；遮盖敏感信息；读作：`ri-DAKT`）
+
+> The agency redacted the names from the document.
+
+**redaction**（编辑；删节；读作：`ri-DAK-shuhn`）
+
+> The released file contains several redactions.
+
+---
+
+## 十二、总结
 
 从拉丁语 **agere（行动、驱动、做）** 及其过去分词 **actus** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -357,8 +535,10 @@
 * **enact / exact / counteract**：使行动、逼出来、反向行动
 * **cogent / cogitate**：把事物推动到一起
 * **agile**：行动迅速
+* **agitate / castigate / fumigate**：推动、惩戒和熏蒸
 * **navigate / litigate / mitigate**：推动船只、诉讼和缓和过程
 * **exigent / prodigal / ambiguous**：逼迫、向前赶出、向两边推动
+* **essay / examine / redact**：尝试、衡量和重新整理
 
 行动可以是一瞬间的动作，也可以成为制度、职业和关系。
 
@@ -380,11 +560,25 @@
 | activity | 活动 |
 | activate | 激活 |
 | activation | 激活 |
+| activator | 激活剂 |
+| actuate | 驱动，促使 |
+| actuation | 驱动 |
+| actuator | 执行器 |
 | actor | 演员，行动者 |
 | actress | 女演员 |
 | actual | 实际的 |
 | actuality | 现实 |
 | actualize | 实现 |
+| actionable | 可采取行动的，可诉的 |
+| inaction | 不行动 |
+| inactive | 不活跃的 |
+| inactivity | 不活动 |
+| deactivate | 停用 |
+| deactivation | 停用 |
+| proactive | 主动积极的 |
+| retroactive | 追溯生效的 |
+| actuarial | 精算的 |
+| actuary | 精算师 |
 
 ---
 
@@ -396,6 +590,8 @@
 | agency | 机构，代理，能动性 |
 | agenda | 议程 |
 | agendum | 议程项目 |
+| agentive | 施事的 |
+| interagency | 跨机构的 |
 
 ---
 
@@ -407,6 +603,9 @@
 | reaction | 反应 |
 | reactive | 反应性的，被动应对的 |
 | reactor | 反应堆，反应器 |
+| reactant | 反应物 |
+| reactionary | 反动的 |
+| reagent | 试剂 |
 | interact | 互动 |
 | interaction | 互动，相互作用 |
 | interactive | 交互式的 |
@@ -431,9 +630,13 @@
 | --- | --- |
 | enact | 制定法律，实施 |
 | enactment | 法令，实施 |
+| enactor | 制定者，执行者 |
 | reenact | 重新上演，重新制定 |
+| reenactment | 重演 |
 | exact | 精确的；强行索取 |
 | exacting | 要求严格的 |
+| inexact | 不精确的 |
+| exactitude | 精确 |
 | exaction | 强征 |
 | counteract | 抵消 |
 | counteraction | 反作用 |
@@ -448,6 +651,7 @@
 | cogency | 说服力 |
 | cogitate | 思考 |
 | cogitation | 深思 |
+| cogitative | 思考的 |
 | coagulate | 凝固 |
 | coagulation | 凝固 |
 
@@ -459,10 +663,27 @@
 | --- | --- |
 | agile | 敏捷的 |
 | agility | 敏捷 |
+| agitate | 煽动，使焦虑，搅动 |
+| agitation | 焦虑，鼓动，搅动 |
+| agitator | 鼓动者，搅拌器 |
+| agitato | 激动地 |
 
 ---
 
-**⑧ navigate / litigate / mitigate 家族**
+**⑧ castigate / fumigate / variegate 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| castigate | 严厉批评 |
+| castigation | 严厉批评 |
+| fumigate | 熏蒸消毒 |
+| fumigation | 熏蒸 |
+| variegate | 使呈现多种颜色 |
+| variegated | 杂色的，多样的 |
+
+---
+
+**⑨ navigate / litigate / mitigate 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -477,7 +698,7 @@
 
 ---
 
-**⑨ exigent / prodigal / ambiguous 家族**
+**⑩ exigent / prodigal / ambiguous 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -492,5 +713,17 @@
 
 ---
 
-> 下篇文章，我们将探索 **cedere 家族**，看看那些关于“行走、让步”的单词如何走进成功、过程和退让。
+**⑪ essay / examine / redact 家族**
 
+| 单词 | 词义 |
+| --- | --- |
+| essay | 文章，尝试 |
+| assay | 化验 |
+| examine | 检查，考试 |
+| examination | 检查，考试 |
+| redact | 编辑，遮盖敏感信息 |
+| redaction | 编辑，删节 |
+
+---
+
+> 下篇文章，我们将探索 **cedere 家族**，看看那些关于“行走、让步”的单词如何走进成功、过程和退让。
