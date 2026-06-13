@@ -34,6 +34,7 @@
 | #12 | [ferre 家族：从“携带”到转移、推断和关系](./fer.md) | 从“携带、承受、带来”出发，理解 `transfer`、`refer`、`infer`、`differ`、`offer`、`suffer`、`relate` 和 `translate` 等词汇分支 |
 | #13 | [agere 家族：从“行动”到代理、议程和反应](./ag.md) | 从“行动、驱动、做”出发，理解 `act`、`agent`、`agenda`、`react`、`interact`、`transact` 和 `exact` 等词汇分支 |
 | #14 | [cedere 家族：从“行走”到成功、过程和退让](./cede.md) | 从“走、前进、退让”出发，理解 `proceed`、`succeed`、`precede`、`recede`、`concede`、`exceed` 和 `access` 等词汇分支 |
+| #15 | [trahere 家族：从“拉、拖”到吸引、合同和抽象](./tract.md) | 从“拉、拖、牵引”出发，理解 `attract`、`contract`、`extract`、`distract`、`abstract`、`treat` 和 `train` 等词汇分支 |
 
 ## 阅读方式
 
