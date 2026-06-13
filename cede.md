@@ -76,9 +76,25 @@
 
 > Image processing requires substantial computing power.
 
+**processual**（过程性的；读作：`pruh-SESH-oo-uhl`）
+
+> The study takes a processual view of social change.
+
 **processor**（处理器；读作：`PRAH-ses-er`）
 
 > The laptop has a faster processor.
+
+**preprocess**（预处理；读作：`pree-PRAH-ses`）
+
+> The program preprocesses the data before analysis.
+
+**preprocessor**（预处理器；读作：`pree-PRAH-ses-er`）
+
+> The compiler runs a preprocessor first.
+
+**reprocess**（重新处理；读作：`ree-PRAH-ses`）
+
+> The plant reprocesses used fuel.
 
 **procedure**（程序；步骤；读作：`pruh-SEE-jer`）
 
@@ -117,6 +133,10 @@
 
 > Sales increased for three successive years.
 
+**successively**（接连地；读作：`suk-SES-iv-lee`）
+
+> The title was held successively by three brothers.
+
 **succession**（继承；连续；读作：`suk-SESH-uhn`）
 
 > The law determines the order of succession.
@@ -124,6 +144,10 @@
 **successor**（继任者；读作：`suk-SES-er`）
 
 > Her successor took office in June.
+
+**successionist**（继承法专家；读作：`suk-SESH-uh-nist`）
+
+> The dispute required advice from a successionist.
 
 ---
 
@@ -143,6 +167,14 @@
 
 > Safety takes precedence over speed.
 
+**antecede**（先于；读作：`an-tuh-SEED`）
+
+> These events antecede the written record.
+
+**antecedence**（在先；读作：`an-tuh-SEE-duhns`）
+
+> The antecedence of the custom is difficult to establish.
+
 **preceding**（前面的；读作：`pri-SEE-ding`）
 
 > The preceding chapter explains the method.
@@ -158,6 +190,10 @@
 **antecedent**（先行词；前因；读作：`an-tuh-SEE-duhnt`）
 
 > In this sentence, the pronoun has no clear antecedent.
+
+**antecessor**（前任；祖先；读作：`an-tuh-SES-er`）
+
+> The document refers to the ruler's antecessors.
 
 **ancestry**（祖先；血统；读作：`AN-ses-tree`）
 
@@ -180,6 +216,10 @@
 **recession**（经济衰退；后退；读作：`ri-SESH-uhn`）
 
 > The economy entered a recession.
+
+**recessionary**（经济衰退的；读作：`ri-SESH-uh-nair-ee`）
+
+> The government adopted measures to counter recessionary pressure.
 
 **recess**（休息；凹处；读作：`REE-ses`）
 
@@ -220,6 +260,14 @@
 
 > The concessionaire operates restaurants in the airport.
 
+**concessionary**（优惠的；让步性的；读作：`kuhn-SESH-uh-nair-ee`）
+
+> Students can buy concessionary tickets.
+
+**concessive**（让步的；读作：`kuhn-SES-iv`）
+
+> “Although” introduces a concessive clause.
+
 ---
 
 ## 七、exceed / excess：向外走过界限
@@ -241,6 +289,10 @@
 **excessively**（过度地；读作：`ik-SES-iv-lee`）
 
 > The room was excessively warm.
+
+**exceedance**（超限；读作：`ik-SEE-duhns`）
+
+> The report records every exceedance of the pollution limit.
 
 ---
 
@@ -267,9 +319,20 @@
 
 > The redesign improves accessibility.
 
+**inaccessible**（无法进入的；难以理解的；读作：`in-ak-SES-uh-buhl`）
+
+> The village is inaccessible by road in winter.
+
 **accession**（即位；加入；新增藏品；读作：`ak-SESH-uhn`）
 
 > The museum recorded the accession of several paintings.
+
+**accessory**（配件；从犯；读作：`ak-SES-uh-ree`）
+
+> The camera comes with several accessories.
+>
+> He was charged as an accessory to the crime.
+> （这里 **accessory** 指法律上的“从犯”。）
 
 ---
 
@@ -287,6 +350,10 @@
 
 > The dispute ended after the intercession of a neutral party.
 
+**intercessor**（调解者；代祷者；读作：`in-ter-SES-er`）
+
+> She acted as an intercessor between the two groups.
+
 **secede**（脱离；读作：`sih-SEED`）
 
 > The region voted to secede from the federation.
@@ -298,6 +365,14 @@
 **secessionist**（分离主义者；读作：`sih-SESH-uh-nist`）
 
 > The secessionist movement gained support.
+
+**retrocede**（退还；读作：`ret-roh-SEED`）
+
+> The treaty required the state to retrocede the territory.
+
+**retrocession**（退还；读作：`ret-roh-SESH-uhn`）
+
+> The agreement provided for the retrocession of the land.
 
 ---
 
@@ -319,6 +394,14 @@
 
 > The deceased left no written will.
 
+**decedent**（死者；读作：`dih-SEE-duhnt`）
+
+> The decedent's estate entered probate.
+
+**predecease**（先于……去世；读作：`pree-dih-SEES`）
+
+> If a beneficiary predeceases the owner, the gift may lapse.
+
 **abscess**（脓肿；读作：`AB-ses`）
 
 > The dentist treated an abscess near the tooth.
@@ -331,9 +414,19 @@
 
 > Clean water is a basic necessity.
 
+`necessary` 常被传统词源解释为“没有退路、无法让开”，从而与 **cedere** 联系起来。不过，这条构词路径存在争议，因此更适合作为可能相关的旁支，而不是毫无疑问的直接后代。
+
 ---
 
-## 十一、总结
+## 十一、precession：走在前面的旋转
+
+**precession**（进动；读作：`pree-SESH-uhn`）
+
+> Earth's axial precession changes the direction of its poles over time.
+
+---
+
+## 十二、总结
 
 从拉丁语 **cedere（走、前进、退让）** 及其过去分词 **cessus** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -347,6 +440,7 @@
 * **accede / access**：走近并加入
 * **intercede / secede**：走到中间，或从共同体中走出去
 * **decease / abscess / necessary**：离开、分离与无路可退
+* **precession**：走在前面的旋转
 
 道路的方向决定了词义的方向。
 
@@ -381,7 +475,11 @@
 | proceeds | 收益 |
 | process | 过程，加工 |
 | processing | 处理 |
+| processual | 过程性的 |
 | processor | 处理器 |
+| preprocess | 预处理 |
+| preprocessor | 预处理器 |
+| reprocess | 重新处理 |
 | procedure | 程序，步骤 |
 | procedural | 程序上的 |
 | procession | 队伍，行列 |
@@ -396,8 +494,10 @@
 | success | 成功 |
 | successful | 成功的 |
 | successive | 连续的 |
+| successively | 接连地 |
 | succession | 继承，连续 |
 | successor | 继任者 |
+| successionist | 继承法专家 |
 
 ---
 
@@ -408,10 +508,13 @@
 | precede | 先于 |
 | precedent | 先例 |
 | precedence | 优先权 |
+| antecede | 先于 |
+| antecedence | 在先 |
 | preceding | 前面的 |
 | unprecedented | 史无前例的 |
 | predecessor | 前任，前身 |
 | antecedent | 先行词，前因 |
+| antecessor | 前任，祖先 |
 | ancestry | 祖先，血统 |
 | ancestor | 祖先 |
 
@@ -423,6 +526,7 @@
 | --- | --- |
 | recede | 后退，消退 |
 | recession | 经济衰退，后退 |
+| recessionary | 经济衰退的 |
 | recess | 休息，凹处 |
 | recessive | 隐性的 |
 | recessional | 退场的 |
@@ -436,6 +540,8 @@
 | concede | 承认，让步 |
 | concession | 让步，特许经营，优惠 |
 | concessionaire | 特许经营者 |
+| concessionary | 优惠的，让步性的 |
+| concessive | 让步的 |
 
 ---
 
@@ -447,6 +553,7 @@
 | excess | 过量 |
 | excessive | 过度的 |
 | excessively | 过度地 |
+| exceedance | 超限 |
 
 ---
 
@@ -458,7 +565,9 @@
 | access | 进入，使用权 |
 | accessible | 可进入的，易理解的 |
 | accessibility | 无障碍性，可及性 |
+| inaccessible | 无法进入的，难以理解的 |
 | accession | 即位，加入，新增藏品 |
+| accessory | 配件，从犯 |
 
 ---
 
@@ -468,9 +577,12 @@
 | --- | --- |
 | intercede | 调解，求情 |
 | intercession | 调解，代祷 |
+| intercessor | 调解者，代祷者 |
 | secede | 脱离 |
 | secession | 脱离 |
 | secessionist | 分离主义者 |
+| retrocede | 退还 |
+| retrocession | 退还 |
 
 ---
 
@@ -480,11 +592,20 @@
 | --- | --- |
 | decease | 死亡 |
 | deceased | 已故的 |
+| decedent | 死者 |
+| predecease | 先于……去世 |
 | abscess | 脓肿 |
 | necessary | 必要的 |
 | necessity | 必要，必需品 |
 
 ---
 
-> 下篇文章，我们将探索 **trahere 家族**，看看那些关于“拉、拖”的单词如何走进吸引、合同和抽象。
+**⑪ precession 家族**
 
+| 单词 | 词义 |
+| --- | --- |
+| precession | 进动 |
+
+---
+
+> 下篇文章，我们将探索 **trahere 家族**，看看那些关于“拉、拖”的单词如何走进吸引、合同和抽象。
