@@ -42,6 +42,14 @@
 
 > The region faces an intractable conflict.
 
+**tractability**（易处理性；读作：`trak-tuh-BIL-uh-tee`）
+
+> The new assumptions improve the tractability of the model.
+
+**intractability**（棘手；难以处理；读作：`in-trak-tuh-BIL-uh-tee`）
+
+> The intractability of the dispute frustrated both sides.
+
 ---
 
 ## 二、attract：拉向自己
@@ -67,6 +75,10 @@
 **attractor**（吸引子；读作：`uh-TRAK-ter`）
 
 > The model describes a strange attractor.
+
+**attractant**（引诱剂；吸引物；读作：`uh-TRAK-tuhnt`）
+
+> The trap uses a chemical attractant to lure insects.
 
 ---
 
@@ -101,6 +113,21 @@
 
 > Muscle is contractile tissue.
 
+**contracture**（挛缩；读作：`kuhn-TRAK-cher`）
+
+> Physical therapy can help prevent joint contracture.
+
+**subcontract**（分包合同；分包；读作：`suhb-KAHN-trakt`）
+
+> The builder signed a subcontract with an electrical firm.
+>
+> The company subcontracted the design work.
+> （这里 **subcontract** 作动词，指“把工作分包出去”。）
+
+**subcontractor**（分包商；读作：`suhb-KAHN-trak-ter`）
+
+> A local subcontractor installed the wiring.
+
 ---
 
 ## 四、extract / subtract：拉出来，拉走一部分
@@ -125,6 +152,18 @@
 
 > Turn on the extractor fan while cooking.
 
+**extractable**（可提取的；读作：`ik-STRAK-tuh-buhl`）
+
+> The archive stores the files in an extractable format.
+
+**extractive**（提取的；采掘的；读作：`ik-STRAK-tiv`）
+
+> The region depends heavily on extractive industries.
+
+**extractant**（萃取剂；读作：`ik-STRAK-tuhnt`）
+
+> The process uses an organic extractant to separate the metals.
+
 **subtract**（减去；读作：`suhb-TRAKT`）
 
 > Subtract 8 from 20.
@@ -136,6 +175,10 @@
 **subtractive**（减色的；删减的；读作：`suhb-TRAK-tiv`）
 
 > Printing uses a subtractive color model.
+
+**subtrahend**（减数；读作：`SUHB-truh-hend`）
+
+> In 12 minus 5, the number 5 is the subtrahend.
 
 ---
 
@@ -156,6 +199,22 @@
 **distracted**（心不在焉的；读作：`dih-STRAK-tid`）
 
 > She seemed distracted during the meeting.
+
+**distractor**（干扰项；使人分心的事物；读作：`dih-STRAK-ter`）
+
+> Each question contains one correct answer and three distractors.
+
+**distractible**（容易分心的；读作：`dih-STRAK-tuh-buhl`）
+
+> Young children are often highly distractible.
+
+**distractibility**（易分心；读作：`dih-strak-tuh-BIL-uh-tee`）
+
+> Fatigue can increase a driver's distractibility.
+
+**distraught**（心烦意乱的；读作：`dih-STRAWT`）
+
+> The distraught family waited for news.
 
 **detract**（减损；读作：`dih-TRAKT`）
 
@@ -191,6 +250,14 @@
 
 > He gave an abstracted smile.
 
+**abstractness**（抽象性；读作：`AB-strakt-nuhs`）
+
+> The abstractness of the theory makes it difficult to teach.
+
+**abstractor**（摘要编写者；产权检索员；读作：`AB-strak-ter`）
+
+> The abstractor examined the property's title records.
+
 **abstractionist**（抽象派艺术家；读作：`ab-STRAK-shuh-nist`）
 
 > The gallery features several European abstractionists.
@@ -218,6 +285,14 @@
 
 > The suitcase has a retractable handle.
 
+**retractor**（牵开器；缩回装置；读作：`ri-TRAK-ter`）
+
+> The surgeon used a retractor to hold the tissue aside.
+
+**retractile**（能缩回的；读作：`ri-TRAK-tyl`）
+
+> The animal has retractile claws.
+
 **protract**（延长；读作：`proh-TRAKT`）
 
 > Negotiations may protract the dispute.
@@ -229,6 +304,10 @@
 **protraction**（延长；读作：`proh-TRAK-shuhn`）
 
 > Further protraction would increase the cost.
+
+**protractor**（量角器；读作：`proh-TRAK-ter`）
+
+> Use a protractor to measure the angle.
 
 ---
 
@@ -247,6 +326,10 @@
 
 > The patient responded well to treatment.
 
+**treatable**（可治疗的；读作：`TREE-tuh-buhl`）
+
+> The disease is treatable when detected early.
+
 **treaty**（条约；读作：`TREE-tee`）
 
 > The countries signed a peace treaty.
@@ -258,6 +341,26 @@
 **entreaty**（恳求；读作：`en-TREE-tee`）
 
 > He ignored their entreaties.
+
+**treatise**（专题论著；读作：`TREE-tis`）
+
+> The philosopher wrote a treatise on education.
+
+**mistreat**（虐待；不当对待；读作：`mis-TREET`）
+
+> No animal should be mistreated.
+
+**mistreatment**（虐待；不当对待；读作：`mis-TREET-muhnt`）
+
+> The investigation uncovered serious mistreatment of workers.
+
+**maltreat**（虐待；读作：`mal-TREET`）
+
+> The law protects children from people who maltreat them.
+
+**maltreatment**（虐待；读作：`mal-TREET-muhnt`）
+
+> The report documented physical and emotional maltreatment.
 
 **retreat**（撤退；休养地；读作：`ri-TREET`）
 
@@ -292,6 +395,10 @@
 
 > The exhibition traces the history of portraiture.
 
+**portraitist**（肖像画家；读作：`POR-truh-tist`）
+
+> She became a celebrated portraitist.
+
 ---
 
 ## 十、train / trace / trail：拖着前进，留下痕迹
@@ -313,6 +420,29 @@
 
 > She works with a personal trainer.
 
+**trainee**（受训者；读作：`tray-NEE`）
+
+> Each trainee works with an experienced mentor.
+
+**trainable**（可训练的；读作：`TRAY-nuh-buhl`）
+
+> The model is trainable on a standard computer.
+
+**retrain**（重新培训；读作：`ree-TRAYN`）
+
+> The program helps workers retrain for new careers.
+
+**entrain**（使同步；夹带；读作：`en-TRAYN`）
+
+> The rhythm can entrain the listener's breathing.
+>
+> The airflow entrains small droplets.
+> （这里 **entrain** 指气流“夹带”微小液滴。）
+
+**entrainment**（同步；夹带；读作：`en-TRAYN-muhnt`）
+
+> Light plays an important role in the entrainment of the body clock.
+
 **trace**（痕迹；追踪；读作：`TRAYS`）
 
 > Police found no trace of the missing car.
@@ -324,6 +454,30 @@
 
 > Every payment must be traceable.
 
+**traceability**（可追溯性；读作：`tray-suh-BIL-uh-tee`）
+
+> The system improves food traceability.
+
+**tracer**（示踪剂；追踪物；读作：`TRAY-ser`）
+
+> Doctors injected a radioactive tracer before the scan.
+
+**tracing**（描摹图；追踪；读作：`TRAY-sing`）
+
+> The child made a tracing of the leaf.
+
+**retrace**（折返；追溯；读作：`ree-TRAYS`）
+
+> We retraced our steps to find the missing key.
+
+**untraceable**（无法追踪的；读作：`un-TRAY-suh-buhl`）
+
+> The anonymous payment was nearly untraceable.
+
+**tracery**（窗饰；花饰窗格；读作：`TRAY-suh-ree`）
+
+> Delicate stone tracery frames the cathedral window.
+
 **trail**（小径；拖曳；读作：`TRAYL`）
 
 > We followed a narrow trail through the forest.
@@ -331,6 +485,8 @@
 **trailer**（拖车；预告片；读作：`TRAY-ler`）
 
 > We watched the trailer for the new film.
+
+`trace` 可以可靠地追溯到拉丁语 **tractus**。`trail` 很可能经由通俗拉丁语中表示“拖”的形式与 **trahere** 相连，但这条路径没有前者那么确定。拼写相近的 `track` 来源仍有争议，因此本文不把它列为确定成员。
 
 ---
 
@@ -368,6 +524,8 @@
 | tractor | 拖拉机 |
 | tractable | 易处理的 |
 | intractable | 棘手的 |
+| tractability | 易处理性 |
+| intractability | 棘手，难以处理 |
 
 ---
 
@@ -380,6 +538,7 @@
 | attractive | 有吸引力的 |
 | attractiveness | 吸引力 |
 | attractor | 吸引子 |
+| attractant | 引诱剂，吸引物 |
 
 ---
 
@@ -392,6 +551,9 @@
 | contractor | 承包商 |
 | contractual | 合同规定的 |
 | contractile | 能收缩的 |
+| contracture | 挛缩 |
+| subcontract | 分包合同，分包 |
+| subcontractor | 分包商 |
 
 ---
 
@@ -402,9 +564,13 @@
 | extract | 提取；摘录，提取物 |
 | extraction | 提取，拔除 |
 | extractor | 提取器，抽风机 |
+| extractable | 可提取的 |
+| extractive | 提取的，采掘的 |
+| extractant | 萃取剂 |
 | subtract | 减去 |
 | subtraction | 减法 |
 | subtractive | 减色的，删减的 |
+| subtrahend | 减数 |
 
 ---
 
@@ -415,6 +581,10 @@
 | distract | 使分心 |
 | distraction | 分心之物 |
 | distracted | 心不在焉的 |
+| distractor | 干扰项，使人分心的事物 |
+| distractible | 容易分心的 |
+| distractibility | 易分心 |
+| distraught | 心烦意乱的 |
 | detract | 减损 |
 | detraction | 贬低，减损 |
 | detractor | 批评者 |
@@ -428,6 +598,8 @@
 | abstract | 抽象的；摘要 |
 | abstraction | 抽象 |
 | abstracted | 心不在焉的 |
+| abstractness | 抽象性 |
+| abstractor | 摘要编写者，产权检索员 |
 | abstractionist | 抽象派艺术家 |
 
 ---
@@ -439,9 +611,12 @@
 | retract | 缩回，撤回 |
 | retraction | 撤回 |
 | retractable | 可伸缩的 |
+| retractor | 牵开器，缩回装置 |
+| retractile | 能缩回的 |
 | protract | 延长 |
 | protracted | 拖延已久的 |
 | protraction | 延长 |
+| protractor | 量角器 |
 
 ---
 
@@ -451,9 +626,15 @@
 | --- | --- |
 | treat | 对待，治疗，款待 |
 | treatment | 治疗，对待，处理 |
+| treatable | 可治疗的 |
 | treaty | 条约 |
 | entreat | 恳求 |
 | entreaty | 恳求 |
+| treatise | 专题论著 |
+| mistreat | 虐待，不当对待 |
+| mistreatment | 虐待，不当对待 |
+| maltreat | 虐待 |
+| maltreatment | 虐待 |
 | retreat | 撤退，休养地 |
 
 ---
@@ -467,6 +648,7 @@
 | portrayal | 描绘 |
 | portrait | 肖像 |
 | portraiture | 肖像艺术 |
+| portraitist | 肖像画家 |
 
 ---
 
@@ -477,12 +659,22 @@
 | train | 火车，训练 |
 | training | 训练 |
 | trainer | 教练，运动鞋 |
+| trainee | 受训者 |
+| trainable | 可训练的 |
+| retrain | 重新培训 |
+| entrain | 使同步，夹带 |
+| entrainment | 同步，夹带 |
 | trace | 痕迹，追踪 |
 | traceable | 可追踪的 |
+| traceability | 可追溯性 |
+| tracer | 示踪剂，追踪物 |
+| tracing | 描摹图，追踪 |
+| retrace | 折返，追溯 |
+| untraceable | 无法追踪的 |
+| tracery | 窗饰，花饰窗格 |
 | trail | 小径，拖曳 |
 | trailer | 拖车，预告片 |
 
 ---
 
 > 下篇文章，我们将探索 **premere 家族**，看看那些关于“按压”的单词如何走进表达、印象和压力。
-
