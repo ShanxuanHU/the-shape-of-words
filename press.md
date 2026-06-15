@@ -55,6 +55,10 @@
 
 > The crew must depressurize the chamber slowly.
 
+**depressurization**（减压；读作：`dee-presh-er-uh-ZAY-shuhn`）
+
+> The pilots began an emergency depressurization of the cabin.
+
 ---
 
 ## 二、compress：压到一起
@@ -81,9 +85,17 @@
 
 > Gases are more compressible than liquids.
 
+**compressibility**（可压缩性；读作：`kuhm-pres-uh-BIL-uh-tee`）
+
+> The experiment measures the compressibility of the material.
+
 **incompressible**（不可压缩的；读作：`in-kuhm-PRES-uh-buhl`）
 
 > The calculation treats the fluid as incompressible.
+
+**compressive**（压缩的；读作：`kuhm-PRES-iv`）
+
+> Concrete can withstand strong compressive forces.
 
 **decompress**（解压缩；减压；读作：`dee-kuhm-PRES`）
 
@@ -95,6 +107,10 @@
 **decompression**（解压缩；减压；读作：`dee-kuhm-PRESH-uhn`）
 
 > Rapid decompression can be dangerous.
+
+**decompressor**（解压器；读作：`dee-kuhm-PRES-er`）
+
+> The program includes a decompressor for archived files.
 
 ---
 
@@ -139,6 +155,10 @@
 
 > The doctor prescribed an antidepressant.
 
+**depressor**（降肌；压低装置；读作：`dih-PRES-er`）
+
+> The tongue depressor helped the doctor examine her throat.
+
 ---
 
 ## 四、express：向外压出
@@ -167,9 +187,21 @@
 
 > The dancer has remarkably expressive hands.
 
+**expressible**（可表达的；读作：`ik-SPRES-uh-buhl`）
+
+> Not every emotion is easily expressible in words.
+
+**inexpressible**（难以言表的；读作：`in-ik-SPRES-uh-buhl`）
+
+> She felt an inexpressible sense of relief.
+
 **expressiveness**（表现力；读作：`ik-SPRES-iv-nuhs`）
 
 > Critics praised the expressiveness of his voice.
+
+**expressivity**（表现力；表达性；读作：`ek-spres-IV-uh-tee`）
+
+> The study compares the expressivity of several programming languages.
 
 **expressionless**（毫无表情的；读作：`ik-SPRESH-uhn-luhs`）
 
@@ -212,6 +244,10 @@
 
 > Children can be highly impressionable.
 
+**impressionability**（易受影响；读作：`im-presh-uh-nuh-BIL-uh-tee`）
+
+> Advertisers often exploit the impressionability of young audiences.
+
 **unimpressed**（未被打动的；读作：`un-im-PREST`）
 
 > The judges were unimpressed by the argument.
@@ -253,6 +289,13 @@
 
 > The medicine contains a cough suppressant.
 
+**suppressor**（抑制器；消音器；读作：`suh-PRES-er`）
+
+> The gene acts as a tumor suppressor.
+>
+> The rifle was fitted with a suppressor.
+> （这里 **suppressor** 指枪械的“消音器”。）
+
 ---
 
 ## 七、repress：向后压回
@@ -274,6 +317,20 @@
 **repressor**（阻遏物；阻遏蛋白；读作：`ri-PRES-er`）
 
 > The repressor prevents the gene from being expressed.
+
+**repressible**（可压制的；读作：`ri-PRES-uh-buhl`）
+
+> The response is repressible under controlled conditions.
+
+**irrepressible**（抑制不住的；读作：`ir-ri-PRES-uh-buhl`）
+
+> Her irrepressible enthusiasm lifted the whole team.
+
+**reprimand**（训斥；读作：`REP-ri-mand`）
+
+> The officer received a formal reprimand.
+
+`reprimand` 来自拉丁语 **reprimere**（向后压、制止）的动形容词形式，原本指“应当受到制止的事”，后来变成权威给予的斥责。
 
 ---
 
@@ -303,6 +360,10 @@
 **oppressed**（受压迫者；受压迫的；读作：`uh-PREST`）
 
 > The organization speaks for the oppressed.
+
+**oppressiveness**（压迫性；闷热难耐；读作：`uh-PRES-iv-nuhs`）
+
+> The novel conveys the oppressiveness of life under surveillance.
 
 ---
 
@@ -351,11 +412,17 @@
 
 > Police found a fingerprint on the glass.
 
+**imprimatur**（正式批准；出版许可；读作：`im-pri-MAH-ter`）
+
+> The proposal received the board's imprimatur.
+
+`imprimatur` 是拉丁语“准予印刷”的意思，来自 **imprimere**（压入、印刷）。它后来从具体的出版许可扩展为一般意义上的“正式认可”。
+
 ---
 
 ## 十、espresso：被压出来的咖啡
 
-**espresso** 经由意大利语与拉丁语 **exprimere** 相连。`exprimere` 就是 `ex-` 加 `premere`，原意是“向外压出”。这个词提醒我们，`express` 最初并不只是抽象的“表达”，也保留着真实的挤压动作。
+**espresso** 经由意大利语与拉丁语 **exprimere** 相连。`exprimere` 就是 `ex-` 加 `premere`，原意是“向外压出”。词典对咖啡名称究竟强调“压制出来”“专门现做”还是“快速制作”并不完全一致，因此不宜只解释成高压萃取；可以确定的是，它与 `express` 共享更早的词源。
 
 **espresso**（浓缩咖啡；读作：`e-SPRES-oh`）
 
@@ -398,6 +465,7 @@
 | pressurize | 给……加压，迫使 |
 | pressurization | 加压，增压 |
 | depressurize | 使减压 |
+| depressurization | 减压 |
 
 ---
 
@@ -409,9 +477,12 @@
 | compression | 压缩，受压 |
 | compressor | 压缩机 |
 | compressible | 可压缩的 |
+| compressibility | 可压缩性 |
 | incompressible | 不可压缩的 |
+| compressive | 压缩的 |
 | decompress | 解压缩，减压 |
 | decompression | 解压缩，减压 |
+| decompressor | 解压器 |
 
 ---
 
@@ -426,6 +497,7 @@
 | depressive | 抑郁的，抑郁症患者 |
 | depressant | 抑制剂，镇静剂 |
 | antidepressant | 抗抑郁药 |
+| depressor | 降肌，压低装置 |
 
 ---
 
@@ -436,7 +508,10 @@
 | express | 表达；明确的，特快的 |
 | expression | 表达，表情，表达式 |
 | expressive | 富于表现力的 |
+| expressible | 可表达的 |
+| inexpressible | 难以言表的 |
 | expressiveness | 表现力 |
+| expressivity | 表现力，表达性 |
 | expressionless | 毫无表情的 |
 | expressly | 明确地，特意地 |
 | expressionism | 表现主义 |
@@ -452,6 +527,7 @@
 | impression | 印象，印痕 |
 | impressive | 令人印象深刻的 |
 | impressionable | 易受影响的 |
+| impressionability | 易受影响 |
 | unimpressed | 未被打动的 |
 | impressionism | 印象主义 |
 | impressionist | 印象派艺术家 |
@@ -467,6 +543,7 @@
 | suppression | 压制，抑制 |
 | suppressive | 抑制性的 |
 | suppressant | 抑制剂 |
+| suppressor | 抑制器，消音器 |
 
 ---
 
@@ -478,6 +555,9 @@
 | repression | 压抑，镇压 |
 | repressive | 压制性的 |
 | repressor | 阻遏物，阻遏蛋白 |
+| repressible | 可压制的 |
+| irrepressible | 抑制不住的 |
+| reprimand | 训斥 |
 
 ---
 
@@ -490,6 +570,7 @@
 | oppressive | 压迫性的，闷热的 |
 | oppressor | 压迫者 |
 | oppressed | 受压迫者，受压迫的 |
+| oppressiveness | 压迫性，闷热难耐 |
 
 ---
 
@@ -505,6 +586,7 @@
 | imprint | 印记，使铭记 |
 | printout | 打印件 |
 | fingerprint | 指纹 |
+| imprimatur | 正式批准，出版许可 |
 
 ---
 
