@@ -27,6 +27,10 @@
 
 > The athlete needed surgery for a ruptured tendon.
 
+**unruptured**（未破裂的；读作：`un-RUP-cherd`）
+
+> Doctors monitored the unruptured aneurysm.
+
 `rupt` 本身曾经在英语中作为“破裂”使用，但今天主要保留在 `rupture` 和各种带前缀的形式中。
 
 ---
@@ -78,9 +82,17 @@
 
 > The system assumes that officials are corruptible.
 
+**corruptibility**（易腐败；可收买性；读作：`kuh-rup-tuh-BIL-uh-tee`）
+
+> The audit examined the corruptibility of the procurement process.
+
 **incorruptible**（清廉不屈的；不腐坏的；读作：`in-kuh-RUP-tuh-buhl`）
 
 > She was respected as an incorruptible judge.
+
+**incorruptibility**（清廉；不腐坏；读作：`in-kuh-rup-tuh-BIL-uh-tee`）
+
+> His incorruptibility became part of his public reputation.
 
 **corruptive**（使腐败的；有破坏作用的；读作：`kuh-RUP-tiv`）
 
@@ -125,6 +137,10 @@
 **disruptor**（颠覆者；破坏者；读作：`dis-RUP-ter`）
 
 > The startup became a major industry disruptor.
+
+**disruptiveness**（破坏性；扰乱性；读作：`dis-RUP-tiv-nuhs`）
+
+> The team underestimated the disruptiveness of the change.
 
 ---
 
@@ -378,6 +394,7 @@
 | --- | --- |
 | rupture | 破裂，决裂 |
 | ruptured | 破裂的 |
+| unruptured | 未破裂的 |
 
 ---
 
@@ -399,7 +416,9 @@
 | corrupt | 腐败的，损坏 |
 | corruption | 腐败，损坏 |
 | corruptible | 易腐败的，可被收买的 |
+| corruptibility | 易腐败，可收买性 |
 | incorruptible | 清廉不屈的，不腐坏的 |
+| incorruptibility | 清廉，不腐坏 |
 | corruptive | 使腐败的，有破坏作用的 |
 | corruptor | 腐蚀者，使人腐败者 |
 | uncorrupted | 未腐坏的，未被篡改的 |
@@ -415,6 +434,7 @@
 | disruption | 扰乱，颠覆性变化 |
 | disruptive | 破坏性的，颠覆性的 |
 | disruptor | 颠覆者，破坏者 |
+| disruptiveness | 破坏性，扰乱性 |
 
 ---
 
