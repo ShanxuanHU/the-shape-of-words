@@ -76,6 +76,14 @@
 
 > Fractionation separates crude oil into useful products.
 
+**fractionalize**（使碎片化；使分成小部分；读作：`FRAK-shuh-nuh-lyz`）
+
+> The reform unintentionally fractionalized the party system.
+
+**fractionalization**（碎片化；分化；读作：`frak-shuh-nuh-luh-ZAY-shuhn`）
+
+> Political fractionalization made coalition-building difficult.
+
 顺带一提，`faction`（派别，读作：`FAK-shuhn`）来自拉丁语 **facere**（做），不是 **frangere**。它和 `fraction` 在现代拼写、政治语义上很容易混淆：`fraction` 是“被分出来的一部分”，`faction` 是“有共同行动的一派”。这里顺手拆开，避免把两个家族误合并。
 
 ---
@@ -115,6 +123,13 @@
 
 > Defragmentation can improve performance on some hard drives.
 
+**frag**（用破片手榴弹袭击；游戏中击杀；读作：`FRAG`）
+
+> The soldier was accused of trying to frag an officer.
+>
+> The player scored the final frag of the match.
+> （这里 **frag** 指电子游戏中的“击杀”。）
+
 ---
 
 ## 四、fragile / frail：容易碎，也容易弱
@@ -147,6 +162,10 @@
 **irrefrangible**（不可折射的；不可破坏的；读作：`ir-ri-FRAN-juh-buhl`）
 
 > The old text speaks of an irrefrangible law.
+
+**irrefragable**（无可辩驳的；读作：`ih-REF-ruh-guh-buhl`）
+
+> The lawyer described the document as irrefragable proof.
 
 **frail**（虚弱的；易碎的；读作：`FRAYL`）
 
@@ -364,6 +383,8 @@
 | fractionally | 稍微，以分数形式 |
 | fractionate | 分馏，分级分离 |
 | fractionation | 分馏，分级分离 |
+| fractionalize | 使碎片化，使分成小部分 |
+| fractionalization | 碎片化，分化 |
 
 ---
 
@@ -377,6 +398,7 @@
 | fragmentary | 零碎的，不完整的 |
 | defragment | 整理磁盘碎片 |
 | defragmentation | 磁盘碎片整理 |
+| frag | 用破片手榴弹袭击，游戏中击杀 |
 
 ---
 
@@ -390,6 +412,7 @@
 | infrangible | 不可破坏的，不可违反的 |
 | refrangible | 可折射的 |
 | irrefrangible | 不可折射的，不可破坏的 |
+| irrefragable | 无可辩驳的 |
 | frail | 虚弱的，易碎的 |
 | frailty | 虚弱，弱点 |
 

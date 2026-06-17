@@ -38,6 +38,7 @@
 | #16 | [premere 家族：从“按压”到压力、表达和印象](./press.md) | 从“按、压、挤”出发，理解 `press`、`compress`、`depress`、`express`、`impress`、`suppress`、`oppress` 和 `print` 等词汇分支 |
 | #17 | [rumpere 家族：从“打破”到中断、爆发和腐败](./rupt.md) | 从“打破、撕裂、冲破”出发，理解 `rupture`、`abrupt`、`corrupt`、`disrupt`、`interrupt`、`erupt`、`bankrupt` 和 `route` 等词汇分支 |
 | #18 | [frangere 家族：从“打碎”到碎片、分数和折射](./fract.md) | 从“打碎、折断、使破裂”出发，理解 `fracture`、`fraction`、`fragment`、`fragile`、`refract`、`infringe` 和 `suffrage` 等词汇分支 |
+| #19 | [cadere 家族：从“落下”到事故、机会和西方](./cad.md) | 从“落下、跌落、降临”出发，理解 `case`、`accident`、`incident`、`occasion`、`chance`、`decay`、`cascade` 和 `occident` 等词汇分支 |
 
 ## 阅读方式
 
