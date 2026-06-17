@@ -39,6 +39,7 @@
 | #17 | [rumpere 家族：从“打破”到中断、爆发和腐败](./rupt.md) | 从“打破、撕裂、冲破”出发，理解 `rupture`、`abrupt`、`corrupt`、`disrupt`、`interrupt`、`erupt`、`bankrupt` 和 `route` 等词汇分支 |
 | #18 | [frangere 家族：从“打碎”到碎片、分数和折射](./fract.md) | 从“打碎、折断、使破裂”出发，理解 `fracture`、`fraction`、`fragment`、`fragile`、`refract`、`infringe` 和 `suffrage` 等词汇分支 |
 | #19 | [cadere 家族：从“落下”到事故、机会和西方](./cad.md) | 从“落下、跌落、降临”出发，理解 `case`、`accident`、`incident`、`occasion`、`chance`、`decay`、`cascade` 和 `occident` 等词汇分支 |
+| #20 | [pendere 家族：从“悬挂”到依赖、花费和思考](./pend.md) | 从“悬挂、称量、支付”出发，理解 `pendant`、`append`、`depend`、`suspend`、`expense`、`compensate`、`pension` 和 `ponder` 等词汇分支 |
 
 ## 阅读方式
 

@@ -83,6 +83,14 @@
 
 > He mentioned the problem casually.
 
+**casualness**（随意；漫不经心；读作：`KAZH-oo-uhl-nuhs`）
+
+> The casualness of his apology made her angrier.
+
+**casualization**（临时工化；非正规化；读作：`kazh-oo-uh-luh-ZAY-shuhn`）
+
+> The union criticized the casualization of the workforce.
+
 **casualty**（伤亡者；受害者；读作：`KAZH-oo-uhl-tee`）
 
 > The hospital treated dozens of casualties.
@@ -193,6 +201,10 @@
 **occasionally**（偶尔；读作：`uh-KAY-zhuh-nuh-lee`）
 
 > She occasionally works from home.
+
+**occasionalism**（偶因论；读作：`uh-KAY-zhuh-nuh-liz-uhm`）
+
+> Occasionalism treats created events as occasions for divine action.
 
 **chance**（机会；偶然；读作：`CHANS`）
 
@@ -324,6 +336,10 @@
 
 > The book examines occidentalism in modern literature.
 
+**occidentalist**（西方主义者；西方研究者；读作：`ahk-si-DEN-tuh-list`）
+
+> The lecture introduced several nineteenth-century occidentalists.
+
 ---
 
 ## 十、recidivism / escheat：落回去，落归某处
@@ -421,6 +437,8 @@
 | case | 情况，案例，案件 |
 | casual | 偶然的，随意的 |
 | casually | 随意地，偶然地 |
+| casualness | 随意，漫不经心 |
+| casualization | 临时工化，非正规化 |
 | casualty | 伤亡者，受害者 |
 | casuist | 诡辩者，案例伦理学家 |
 | casuistry | 诡辩，案例伦理推理 |
@@ -462,6 +480,7 @@
 | occasion | 场合，时机，导致 |
 | occasional | 偶尔的 |
 | occasionally | 偶尔 |
+| occasionalism | 偶因论 |
 | chance | 机会，偶然 |
 | chancy | 冒险的，不确定的 |
 | perchance | 或许，偶然 |
@@ -512,6 +531,7 @@
 | occident | 西方 |
 | occidental | 西方的 |
 | occidentalism | 西方主义，西方观念 |
+| occidentalist | 西方主义者，西方研究者 |
 
 ---
 
