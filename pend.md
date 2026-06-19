@@ -167,6 +167,10 @@
 
 > The crisis revealed the interdependence of global supply chains.
 
+**interdependency**（相互依赖关系；读作：`in-ter-dih-PEN-duhn-see`）
+
+> The map shows the interdependency of energy and transport systems.
+
 ---
 
 ## 五、suspend / suspense：挂在半空中
@@ -236,6 +240,10 @@
 
 > The commander treated the soldiers as expendable.
 
+**expendability**（可牺牲性；可消耗性；读作：`ik-spen-duh-BIL-uh-tee`）
+
+> The story questions the expendability of ordinary workers.
+
 **spend**（花费；度过；读作：`SPEND`）
 
 > We spent too much money on repairs.
@@ -296,6 +304,10 @@
 > The book is a compact compendium of medical terms.
 
 `compendium` 原本有“称在一起、节省下来”的感觉，后来变成“把许多内容压缩到一起的概要或汇编”。
+
+**compendious**（简明扼要的；读作：`kuhm-PEN-dee-uhs`）
+
+> The guide gives a compendious account of the theory.
 
 ---
 
@@ -549,6 +561,7 @@
 | independently | 独立地 |
 | interdependent | 相互依赖的 |
 | interdependence | 相互依赖 |
+| interdependency | 相互依赖关系 |
 
 ---
 
@@ -575,6 +588,7 @@
 | expensive | 昂贵的 |
 | inexpensive | 不贵的 |
 | expendable | 可牺牲的，可消耗的 |
+| expendability | 可牺牲性，可消耗性 |
 | spend | 花费，度过 |
 | spending | 支出，消费 |
 | spendthrift | 挥霍者，挥霍的 |
@@ -593,6 +607,7 @@
 | uncompensated | 未获补偿的，无偿的 |
 | recompense | 补偿，报答 |
 | compendium | 概要，汇编 |
+| compendious | 简明扼要的 |
 
 ---
 
