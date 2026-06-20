@@ -73,6 +73,10 @@
 
 > The therapist helped him understand his compulsiveness.
 
+**compulsivity**（强迫倾向；读作：`kuhm-pul-SIV-uh-tee`）
+
+> The study measured impulsivity and compulsivity separately.
+
 **compulsory**（强制性的；读作：`kuhm-PUL-suh-ree`）
 
 > Attendance is compulsory.
@@ -255,6 +259,14 @@
 
 > The appellant challenged the ruling.
 
+**appellee**（被上诉人；读作：`ap-uh-LEE`）
+
+> The appellee asked the court to affirm the judgment.
+
+**appealable**（可上诉的；读作：`uh-PEEL-uh-buhl`）
+
+> The order is not immediately appealable.
+
 **appellate**（上诉的；读作：`uh-PEL-it`）
 
 > The case went to an appellate court.
@@ -262,6 +274,10 @@
 **appellation**（名称；称号；读作：`ap-uh-LAY-shuhn`）
 
 > The region is known by an old appellation.
+
+**appellative**（称谓的；普通名词；读作：`uh-PEL-uh-tiv`）
+
+> The phrase became an appellative for local reformers.
 
 **repeal**（废除；读作：`ri-PEEL`）
 
@@ -389,6 +405,7 @@
 | compulsion | 强迫，冲动 |
 | compulsive | 强迫性的，难以抑制的 |
 | compulsiveness | 强迫性，难以抑制 |
+| compulsivity | 强迫倾向 |
 | compulsory | 强制性的 |
 | compellable | 可被强制的 |
 
@@ -455,8 +472,11 @@
 | appeal | 呼吁，上诉，吸引力 |
 | appealing | 有吸引力的 |
 | appellant | 上诉人 |
+| appellee | 被上诉人 |
+| appealable | 可上诉的 |
 | appellate | 上诉的 |
 | appellation | 名称，称号 |
+| appellative | 称谓的，普通名词 |
 | repeal | 废除 |
 | repealable | 可废除的 |
 
