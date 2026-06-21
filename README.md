@@ -42,6 +42,7 @@
 | #20 | [pendere 家族：从“悬挂”到依赖、花费和思考](./pend.md) | 从“悬挂、称量、支付”出发，理解 `pendant`、`append`、`depend`、`suspend`、`expense`、`compensate`、`pension` 和 `ponder` 等词汇分支 |
 | #21 | [pellere 家族：从“推动”到冲动、排斥和吸引](./pell.md) | 从“推动、驱赶、击打”出发，理解 `propel`、`compel`、`expel`、`repel`、`impel`、`impulse`、`pulse` 和 `appeal` 等词汇分支 |
 | #22 | [tendere 家族：从“伸展”到趋势、意图和注意力](./tend.md) | 从“伸展、拉紧、指向”出发，理解 `extend`、`attend`、`intend`、`contend`、`pretend`、`tension`、`tent` 和 `attempt` 等词汇分支 |
+| #23 | [texere 家族：从“编织”到文本、结构和技术](./tex.md) | 从“编织、交织、建造”出发，理解 `text`、`context`、`pretext`、`textile`、`texture`、`tissue`、`technology` 和 `architecture` 等词汇分支 |
 
 ## 阅读方式
 
