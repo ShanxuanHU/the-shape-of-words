@@ -114,6 +114,22 @@
 
 > The real conflict appears in the subtext.
 
+**paratext**（副文本；读作：`PAIR-uh-tekst`）
+
+> The cover, preface, and notes form the book's paratext.
+
+**paratextual**（副文本的；读作：`pair-uh-TEKS-choo-uhl`）
+
+> The study focuses on paratextual material around the novel.
+
+**metatext**（元文本；读作：`MEH-tuh-tekst`）
+
+> The introduction functions as a metatext for the whole collection.
+
+**metatextual**（元文本的；读作：`meh-tuh-TEKS-choo-uhl`）
+
+> The film includes several metatextual jokes about filmmaking.
+
 ---
 
 ## 三、pretext：织在前面的借口
@@ -254,6 +270,10 @@
 
 > The manual contains technical details.
 
+**technicality**（技术细节；法律细节；读作：`tek-ni-KAL-uh-tee`）
+
+> The case was dismissed on a technicality.
+
 **technically**（技术上；严格来说；读作：`TEK-ni-kuh-lee`）
 
 > Technically, the rule still applies.
@@ -278,6 +298,18 @@
 
 > He studied engineering at a polytechnic.
 
+**technocracy**（技术专家治国；读作：`tek-NAH-kruh-see`）
+
+> Critics warned against an unelected technocracy.
+
+**technocrat**（技术官僚；读作：`TEK-nuh-krat`）
+
+> The new minister was seen as a technocrat.
+
+**technocratic**（技术官僚的；读作：`tek-nuh-KRAT-ik`）
+
+> The proposal reflected a technocratic style of government.
+
 ---
 
 ## 九、architect / tectonic：建造者与结构
@@ -301,6 +333,10 @@
 **architectural**（建筑的；结构上的；读作：`ar-ki-TEK-cher-uhl`）
 
 > The building has several unusual architectural features.
+
+**architectonic**（建筑术的；结构严整的；读作：`ar-ki-tek-TAH-nik`）
+
+> The critic praised the novel's architectonic design.
 
 **tectonic**（构造的；重大变动的；读作：`tek-TAH-nik`）
 
@@ -401,6 +437,10 @@
 | intertextuality | 互文性 |
 | hypertext | 超文本 |
 | subtext | 潜台词 |
+| paratext | 副文本 |
+| paratextual | 副文本的 |
+| metatext | 元文本 |
+| metatextual | 元文本的 |
 
 ---
 
@@ -467,12 +507,16 @@
 | --- | --- |
 | technique | 技术，技巧 |
 | technical | 技术的，专业的 |
+| technicality | 技术细节，法律细节 |
 | technically | 技术上，严格来说 |
 | technology | 技术 |
 | technological | 技术的 |
 | technologist | 技术专家 |
 | technician | 技术员 |
 | polytechnic | 理工学院，综合技术的 |
+| technocracy | 技术专家治国 |
+| technocrat | 技术官僚 |
+| technocratic | 技术官僚的 |
 
 ---
 
@@ -483,6 +527,7 @@
 | architect | 建筑师，设计者 |
 | architecture | 建筑，体系结构 |
 | architectural | 建筑的，结构上的 |
+| architectonic | 建筑术的，结构严整的 |
 | tectonic | 构造的，重大变动的 |
 | tectonics | 构造学 |
 
