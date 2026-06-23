@@ -44,6 +44,7 @@
 | #22 | [tendere 家族：从“伸展”到趋势、意图和注意力](./tend.md) | 从“伸展、拉紧、指向”出发，理解 `extend`、`attend`、`intend`、`contend`、`pretend`、`tension`、`tent` 和 `attempt` 等词汇分支 |
 | #23 | [texere 家族：从“编织”到文本、结构和技术](./tex.md) | 从“编织、交织、建造”出发，理解 `text`、`context`、`pretext`、`textile`、`texture`、`tissue`、`technology` 和 `architecture` 等词汇分支 |
 | #24 | [ligare 家族：从“捆绑”到联盟、义务和宗教](./lig.md) | 从“捆绑、系住、连接”出发，理解 `ligament`、`ligature`、`ally`、`alliance`、`oblige`、`liable`、`liaison` 和 `religion` 等词汇分支 |
+| #25 | [solvere 家族：从“松开”到解决、溶解和绝对](./solv.md) | 从“松开、解开、释放、溶解”出发，理解 `solve`、`solution`、`dissolve`、`resolve`、`absolve`、`absolute`、`soluble` 和 `solvent` 等词汇分支 |
 
 ## 阅读方式
 

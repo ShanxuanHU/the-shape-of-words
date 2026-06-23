@@ -43,6 +43,10 @@
 
 > The ligand binds to the receptor.
 
+**ligase**（连接酶；读作：`LY-gays`）
+
+> DNA ligase joins breaks in the DNA strand.
+
 **colligate**（使结合；归纳连接；读作：`KAH-luh-gayt`）
 
 > The theory colligates several scattered observations.
@@ -181,6 +185,10 @@
 > The novel describes a secret liaison.
 > （这里 **liaison** 指“私通、暧昧关系”。）
 
+**liaise**（联络；沟通协调；读作：`lee-AYZ`）
+
+> The engineer will liaise with the design team.
+
 **rely**（依靠；读作：`ri-LY`）
 
 > You can rely on her judgment.
@@ -189,9 +197,17 @@
 
 > The city reduced its reliance on coal.
 
+**reliant**（依赖的；读作：`ri-LY-uhnt`）
+
+> Small farms are heavily reliant on seasonal rain.
+
 **reliable**（可靠的；读作：`ri-LY-uh-buhl`）
 
 > The data come from a reliable source.
+
+**reliably**（可靠地；读作：`ri-LY-uh-blee`）
+
+> The sensor reliably detects small changes in pressure.
 
 **reliability**（可靠性；读作：`ri-ly-uh-BIL-uh-tee`）
 
@@ -200,6 +216,10 @@
 **unreliable**（不可靠的；读作：`un-ri-LY-uh-buhl`）
 
 > The witness proved unreliable.
+
+**unreliability**（不可靠；读作：`un-ri-ly-uh-BIL-uh-tee`）
+
+> The report criticized the unreliability of the old system.
 
 **rally**（集合；反弹；读作：`RAL-ee`）
 
@@ -258,6 +278,14 @@
 **irreligious**（无宗教信仰的；不虔敬的；读作：`ir-ri-LIJ-uhs`）
 
 > The essay was considered irreligious at the time.
+
+**irreligion**（无宗教信仰；读作：`ir-ri-LIJ-uhn`）
+
+> The census included a question about religion and irreligion.
+
+**religiousness**（宗教性；虔诚；读作：`ri-LIJ-uhs-nuhs`）
+
+> The study distinguishes religiousness from spirituality.
 
 **religiosity**（宗教热诚；读作：`ri-lij-ee-AH-suh-tee`）
 
@@ -324,6 +352,7 @@
 | ligation | 结扎，连接 |
 | ligature | 结扎线，连字 |
 | ligand | 配体 |
+| ligase | 连接酶 |
 | colligate | 使结合，归纳连接 |
 | colligation | 结合，归纳关联 |
 
@@ -373,11 +402,15 @@
 | 单词 | 词义 |
 | --- | --- |
 | liaison | 联络，关系 |
+| liaise | 联络，沟通协调 |
 | rely | 依靠 |
 | reliance | 依赖 |
+| reliant | 依赖的 |
 | reliable | 可靠的 |
+| reliably | 可靠地 |
 | reliability | 可靠性 |
 | unreliable | 不可靠的 |
+| unreliability | 不可靠 |
 | rally | 集合，反弹 |
 
 ---
@@ -400,6 +433,8 @@
 | religious | 宗教的，虔诚的 |
 | religiously | 虔诚地，一丝不苟地 |
 | irreligious | 无宗教信仰的，不虔敬的 |
+| irreligion | 无宗教信仰 |
+| religiousness | 宗教性，虔诚 |
 | religiosity | 宗教热诚 |
 
 ---
