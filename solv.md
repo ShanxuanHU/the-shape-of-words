@@ -62,6 +62,14 @@
 
 > Temperature affects the solubility of the substance.
 
+**solubilize**（使可溶；读作：`SAHL-yuh-buh-lyz`）
+
+> The detergent helps solubilize oils in water.
+
+**solubilization**（增溶；使可溶化；读作：`sahl-yuh-buh-li-ZAY-shuhn`）
+
+> The paper studies the solubilization of poorly soluble drugs.
+
 **insoluble**（不可溶的；难以解决的；读作：`in-SAHL-yuh-buhl`）
 
 > The powder is insoluble in alcohol.
@@ -99,6 +107,10 @@
 **solvation**（溶剂化；读作：`sahl-VAY-shuhn`）
 
 > Solvation stabilizes the charged particles in the solution.
+
+**solvolysis**（溶剂解；读作：`sahl-VAH-luh-sis`）
+
+> Solvolysis breaks a chemical bond through reaction with a solvent.
 
 化学里的 `solvent` 是“能把别的东西解开、溶开的东西”。金融里的 `solvent` 则是“能把债务解开的人或公司”：账还得上，结就解得开。
 
@@ -165,6 +177,10 @@
 > She resolved to finish the book before winter.
 > （这里 **resolve** 指“下定决心”。）
 
+**resolver**（解析器；解决者；读作：`ri-ZAHL-ver`）
+
+> A DNS resolver translates a domain name into an IP address.
+
 **resolved**（已解决的；坚定的；读作：`ri-ZAHLVD`）
 
 > The issue is now resolved.
@@ -183,6 +199,10 @@
 **unresolvable**（无法解决的；读作：`un-ri-ZAHL-vuh-buhl`）
 
 > The two accounts contain an unresolvable contradiction.
+
+**irresolvable**（无法解决的；读作：`ir-ri-ZAHL-vuh-buhl`）
+
+> The evidence left an irresolvable doubt.
 
 **resolution**（解决；决议；决心；清晰度；读作：`rez-uh-LOO-shuhn`）
 
@@ -344,6 +364,8 @@
 | --- | --- |
 | soluble | 可溶的，可解决的 |
 | solubility | 溶解度，可解决性 |
+| solubilize | 使可溶 |
+| solubilization | 增溶，使可溶化 |
 | insoluble | 不可溶的，难以解决的 |
 | insolubility | 不溶性，难解性 |
 | solute | 溶质 |
@@ -352,6 +374,7 @@
 | insolvent | 无偿付能力的 |
 | insolvency | 无偿付能力，破产状态 |
 | solvation | 溶剂化 |
+| solvolysis | 溶剂解 |
 
 ---
 
@@ -376,10 +399,12 @@
 | 单词 | 词义 |
 | --- | --- |
 | resolve | 解决，决定 |
+| resolver | 解析器，解决者 |
 | resolved | 已解决的，坚定的 |
 | unresolved | 未解决的 |
 | resolvable | 可解决的 |
 | unresolvable | 无法解决的 |
+| irresolvable | 无法解决的 |
 | resolution | 解决，决议，决心，清晰度 |
 | resolute | 坚定的 |
 | resolutely | 坚定地 |
