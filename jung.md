@@ -340,9 +340,29 @@
 > It took her months to adjust to the new city.
 > （这里 **adjust** 指“适应”。）
 
+**adjustable**（可调整的；读作：`uh-JUS-tuh-buhl`）
+
+> The chair has an adjustable back.
+
+**adjuster**（调节器；理赔员；读作：`uh-JUS-ter`）
+
+> An insurance adjuster inspected the damage.
+
 **adjustment**（调整；适应；读作：`uh-JUST-muhnt`）
 
 > The machine needs a small adjustment.
+
+**readjust**（重新调整；重新适应；读作：`ree-uh-JUST`）
+
+> The family had to readjust after moving abroad.
+
+**maladjusted**（适应不良的；读作：`mal-uh-JUS-tid`）
+
+> The program supports socially maladjusted teenagers.
+
+**well-adjusted**（适应良好的；读作：`wel-uh-JUS-tid`）
+
+> She grew into a confident, well-adjusted adult.
 
 **jostle**（推挤；争夺；读作：`JAH-suhl`）
 
@@ -370,6 +390,8 @@
 `June` 来自罗马神名 **Juno**，不是 **jungere**。
 
 `jungle` 来自梵语、印地语路线，原义和“荒地、丛林”有关，不是 **jungere**。
+
+`yolk` 是“蛋黄”，来自古英语中表示“黄色”的词，和 `yoke` 不是同源词。
 
 `union` 的意思确实是“联合”，但词源来自拉丁语 **unus**（一），不是 **jungere**。它和 `junction` 在意义上很近，词源上却不是同一家。
 
@@ -510,11 +532,16 @@
 | juxtapose | 并置 |
 | juxtaposition | 并置 |
 | adjust | 调整，适应 |
+| adjustable | 可调整的 |
+| adjuster | 调节器，理赔员 |
 | adjustment | 调整，适应 |
+| readjust | 重新调整，重新适应 |
+| maladjusted | 适应不良的 |
+| well-adjusted | 适应良好的 |
 | jostle | 推挤，争夺 |
 | joust | 马上长枪比武，竞争 |
 | junta | 军政府，小集团 |
 
 ---
 
-> 下篇文章，我们将探索 **nectere 家族**，看看“绑住、连接”如何变成连接、网络和必要。
+> 下篇文章，我们将探索 **nectere 家族**，看看“绑住、连接”如何变成连接、网络和纽带。
