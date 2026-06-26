@@ -42,6 +42,14 @@
 
 > Older British books often spell connection as connexion.
 
+**connex**（连接的；连通的；读作：`kuh-NEKS`）
+
+> The old geometry text describes a connex set.
+
+**connexity**（连通性；读作：`kuh-NEK-suh-tee`）
+
+> The theorem depends on the connexity of the space.
+
 **connective**（连接的；连接词；读作：`kuh-NEK-tiv`）
 
 > “However” can function as a connective.
@@ -236,6 +244,10 @@
 
 > The scan showed a nodule in the lung.
 
+**newel**（楼梯中心柱；读作：`NOO-uhl`）
+
+> The staircase curves around a carved newel.
+
 **nodular**（结节状的；读作：`NAH-juh-ler`）
 
 > The sample had a nodular surface.
@@ -258,6 +270,10 @@
 >
 > The scandal tightened like a noose around the minister.
 > （这里 **noose** 比喻“越来越紧的困境”。）
+
+**lanyard**（挂绳；系索；读作：`LAN-yerd`）
+
+> The badge hung from a blue lanyard.
 
 **nettle**（荨麻；激怒；读作：`NET-uhl`）
 
@@ -325,6 +341,8 @@
 | connectedness | 关联性，连通感 |
 | connection | 连接，联系，人脉 |
 | connexion | 连接，联系 |
+| connex | 连接的，连通的 |
+| connexity | 连通性 |
 | connective | 连接的，连接词 |
 | connector | 连接器，连接者 |
 | connectivity | 连通性，连接能力 |
@@ -394,6 +412,7 @@
 | node | 节点，结节 |
 | nodal | 节点的 |
 | nodule | 小结节 |
+| newel | 楼梯中心柱 |
 | nodular | 结节状的 |
 | antinode | 反节点，波腹 |
 
@@ -404,6 +423,7 @@
 | 单词 | 词义 |
 | --- | --- |
 | noose | 活结，套索 |
+| lanyard | 挂绳，系索 |
 | nettle | 荨麻，激怒 |
 | nettled | 被激怒的 |
 | nettlesome | 恼人的，棘手的 |

@@ -47,6 +47,7 @@
 | #25 | [solvere 家族：从“松开”到解决、溶解和绝对](./solv.md) | 从“松开、解开、释放、溶解”出发，理解 `solve`、`solution`、`dissolve`、`resolve`、`absolve`、`absolute`、`soluble` 和 `solvent` 等词汇分支 |
 | #26 | [jungere 家族：从“连接”到加入、关节和连词](./jung.md) | 从“连接、结合、联合、套上轭”出发，理解 `join`、`joint`、`junction`、`conjunction`、`injunction`、`conjugate`、`yoke` 和 `yoga` 等词汇分支 |
 | #27 | [nectere 家族：从“绑住”到连接、网络和纽带](./nect.md) | 从“绑住、系住、连接”出发，理解 `connect`、`connection`、`annex`、`nexus`、`net`、`network`、`node` 和 `denouement` 等词汇分支 |
+| #28 | [plicare 家族：从“折叠”到复杂、申请和复制](./plic.md) | 从“折叠、卷起”出发，理解 `ply`、`apply`、`comply`、`employ`、`complicate`、`complex`、`implicit` 和 `duplicate` 等词汇分支 |
 
 ## 阅读方式
 
