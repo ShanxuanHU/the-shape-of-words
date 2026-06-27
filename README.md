@@ -48,6 +48,7 @@
 | #26 | [jungere 家族：从“连接”到加入、关节和连词](./jung.md) | 从“连接、结合、联合、套上轭”出发，理解 `join`、`joint`、`junction`、`conjunction`、`injunction`、`conjugate`、`yoke` 和 `yoga` 等词汇分支 |
 | #27 | [nectere 家族：从“绑住”到连接、网络和纽带](./nect.md) | 从“绑住、系住、连接”出发，理解 `connect`、`connection`、`annex`、`nexus`、`net`、`network`、`node` 和 `denouement` 等词汇分支 |
 | #28 | [plicare 家族：从“折叠”到复杂、申请和复制](./plic.md) | 从“折叠、卷起”出发，理解 `ply`、`apply`、`comply`、`employ`、`complicate`、`complex`、`implicit` 和 `duplicate` 等词汇分支 |
+| #29 | [volvere 家族：从“滚动”到进化、卷册和革命](./volv.md) | 从“滚动、转动、卷起”出发，理解 `evolve`、`involve`、`revolve`、`revolution`、`devolve`、`volume`、`valve` 和 `vault` 等词汇分支 |
 
 ## 阅读方式
 

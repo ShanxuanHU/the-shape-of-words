@@ -77,6 +77,10 @@
 > Download the application from the official website.
 > （这里 **application** 指“应用程序”。）
 
+**applicator**（涂抹器；敷贴器；读作：`AP-li-kay-ter`）
+
+> The kit includes a small applicator for the cream.
+
 **applicable**（适用的；读作：`AP-li-kuh-buhl`）
 
 > The rule is applicable only to new employees.
@@ -84,6 +88,14 @@
 **applicability**（适用性；读作：`ap-li-kuh-BIL-uh-tee`）
 
 > The study questions the applicability of the model.
+
+**applicative**（应用的；施用的；读作：`AP-li-kay-tiv`）
+
+> The course has an applicative focus.
+
+**appliqué**（贴花；贴布装饰；读作：`ap-li-KAY`）
+
+> The jacket is decorated with floral appliqué.
 
 **appliance**（器具；家用电器；读作：`uh-PLY-uhns`）
 
@@ -315,9 +327,29 @@
 
 > Replication is essential in science.
 
+**replicative**（复制的；读作：`REP-li-kay-tiv`）
+
+> The virus enters a replicative phase.
+
+**replicator**（复制器；复制者；读作：`REP-li-kay-ter`）
+
+> The theory treats genes as replicators.
+
 **replica**（复制品；读作：`REP-li-kuh`）
 
 > The museum displays a replica of the ship.
+
+**triplicate**（一式三份；三倍的；读作：`TRIP-li-kit`）
+
+> Please submit the form in triplicate.
+
+**triplication**（三重复制；读作：`trip-li-KAY-shuhn`）
+
+> The lab detected triplication of a gene segment.
+
+**triplicity**（三重性；读作：`tri-PLIS-uh-tee`）
+
+> The myth is built around a symbolic triplicity.
 
 **reply**（回答；读作：`ri-PLY`）
 
@@ -402,6 +434,14 @@
 
 > The software supports all displayable characters.
 
+**splay**（张开；外撇；读作：`SPLAY`）
+
+> The legs of the chair splay outward.
+
+**splayed**（张开的；外撇的；读作：`SPLAYD`）
+
+> The animal left splayed footprints in the mud.
+
 **deployment**（部署；展开；读作：`di-PLOY-muhnt`）
 
 > The deployment of medical teams began at dawn.
@@ -441,6 +481,10 @@
 
 > A suppliant knelt before the altar.
 
+**supplicant**（恳求者；祈求者；读作：`SUP-li-kuhnt`）
+
+> The supplicant asked for mercy.
+
 **supple**（柔软的；灵活的；读作：`SUP-uhl`）
 
 > Stretching keeps the body supple.
@@ -451,7 +495,7 @@
 
 ---
 
-## 十、plait / pleat：折痕、褶子和编织
+## 十、plait / pleat / plexus：折痕、褶子和编织
 
 这一组更多体现 **\*plek-** 的“折、编、缠”旁支。衣服上有褶，头发被编成辫，都是线条被折叠、交错。
 
@@ -466,6 +510,18 @@
 **pleated**（打褶的；读作：`PLEE-tid`）
 
 > He wore pleated trousers.
+
+**plie**（芭蕾屈膝动作；读作：`plee-AY`）
+
+> The class began with a slow plie.
+
+**plight**（困境；状况；读作：`PLYT`）
+
+> The report drew attention to the plight of refugees.
+
+**plexus**（丛；神经丛；读作：`PLEK-sus`）
+
+> The solar plexus lies behind the stomach.
 
 ---
 
@@ -494,7 +550,7 @@
 * **simple / multiple**：一折、两折、许多折
 * **display / deploy**：把折起来的东西展开
 * **supplicate / supple**：弯下去，请求或柔软
-* **plait / pleat**：折痕、褶子和编织
+* **plait / pleat / plexus**：折痕、褶子和编织
 
 这一家的核心图像非常稳定：折进去，意义就含蓄；展开来，意思就明确；折得太多，事情就复杂；折成两份，就得到副本；折向规则，就叫遵守；折向目标，就叫申请。
 
@@ -525,8 +581,11 @@
 | applied | 应用的 |
 | applicant | 申请人 |
 | application | 申请，应用程序，应用 |
+| applicator | 涂抹器，敷贴器 |
 | applicable | 适用的 |
 | applicability | 适用性 |
+| applicative | 应用的，施用的 |
+| appliqué | 贴花，贴布装饰 |
 | appliance | 器具，家用电器 |
 | comply | 遵守，顺从 |
 | compliance | 遵守，合规 |
@@ -601,7 +660,12 @@
 | duplex | 双层的，复式住宅 |
 | replicate | 复制，重复 |
 | replication | 复制，重复实验 |
+| replicative | 复制的 |
+| replicator | 复制器，复制者 |
 | replica | 复制品 |
+| triplicate | 一式三份，三倍的 |
+| triplication | 三重复制 |
+| triplicity | 三重性 |
 | reply | 回答 |
 | reply-all | 回复全部 |
 
@@ -631,6 +695,8 @@
 | --- | --- |
 | display | 展示，显示器 |
 | displayable | 可显示的 |
+| splay | 张开，外撇 |
+| splayed | 张开的，外撇的 |
 | deployment | 部署，展开 |
 | deploy | 部署，展开使用 |
 | deployed | 已部署的 |
@@ -645,18 +711,22 @@
 | supplicate | 恳求，祈求 |
 | supplication | 恳求，祈祷 |
 | suppliant | 恳求者，恳求的 |
+| supplicant | 恳求者，祈求者 |
 | supple | 柔软的，灵活的 |
 | suppleness | 柔软，灵活 |
 
 ---
 
-**⑩ plait / pleat 旁支**
+**⑩ plait / pleat / plexus 旁支**
 
 | 单词 | 词义 |
 | --- | --- |
 | plait | 辫子，编织 |
 | pleat | 褶，打褶 |
 | pleated | 打褶的 |
+| plie | 芭蕾屈膝动作 |
+| plight | 困境，状况 |
+| plexus | 丛，神经丛 |
 
 ---
 
