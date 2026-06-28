@@ -56,6 +56,18 @@
 
 > The two species show a coevolutionary pattern.
 
+**nonevolutionary**（非进化的；读作：`non-ev-uh-LOO-shuh-ner-ee`）
+
+> The paper considers a nonevolutionary explanation.
+
+**evolute**（渐屈线；展开出的；读作：`EV-uh-loot`）
+
+> The evolute of a curve is formed from its centers of curvature.
+
+**evolvent**（渐开线；展开的；读作：`ih-VAHL-vuhnt`）
+
+> The engineer described the gear tooth as an evolvent curve.
+
 `evolve` 最早有“展开、展开卷轴”的感觉。一个被卷起来的东西慢慢展开，后来就变成了“事物逐步发展、生命逐步演化”。
 
 ---
@@ -103,6 +115,14 @@
 **involucre**（总苞；读作：`IN-vuh-loo-ker`）
 
 > The flower head is surrounded by an involucre.
+
+**involucrum**（总苞；包被结构；读作：`in-vuh-LOO-krum`）
+
+> The botanist described the involucrum around the flower head.
+
+**involucrate**（有总苞的；读作：`in-vuh-LOO-kruht`）
+
+> The plant has an involucrate inflorescence.
 
 `involve` 的“卷进去”很好用：参与是卷进去，牵连也是卷进去；解释太绕，也像被卷成一团。
 
@@ -156,9 +176,25 @@
 
 > The smell was revolting.
 
+**revoluble**（可旋转的；读作：`REV-uh-loo-buhl`）
+
+> The machine uses a revoluble platform.
+
 **revolute**（外卷的；读作：`REV-uh-loot`）
 
 > The leaf has a revolute margin.
+
+**volte-face**（彻底转变；读作：`volt-FAHS`）
+
+> The minister's volte-face surprised his supporters.
+
+**volte**（转身动作；读作：`VOHL-tuh`）
+
+> The rider practiced a tight volte in the arena.
+
+**voltigeur**（轻步兵；骑术表演者；读作：`vahl-ti-ZHER`）
+
+> A voltigeur unit moved ahead of the main force.
 
 从天体转动到政治革命，中间的桥梁是“翻转”：旧秩序像轮子一样被转到另一面。
 
@@ -191,9 +227,13 @@
 
 > The devolvement of responsibility was gradual.
 
+**devolute**（向下卷的；转移的；读作：`DEV-uh-loot`）
+
+> The fern has a devolute edge.
+
 ---
 
-## 五、convolve / convolution：卷在一起，就绕了
+## 五、convolve / circumvolve：卷在一起，绕着转
 
 **con-** 表示“一起”。东西卷在一起，是 `convolve`；一层又一层的卷曲和绕转，就是 `convolution`。
 
@@ -219,6 +259,22 @@
 **convolutional**（卷积的；读作：`kahn-vuh-LOO-shuh-nuhl`）
 
 > Convolutional neural networks are used in computer vision.
+
+**circumvolve**（环绕旋转；读作：`ser-kuhm-VAHLV`）
+
+> The old model imagined spheres that circumvolve the Earth.
+
+**circumvolution**（环绕；盘绕；读作：`ser-kuhm-vuh-LOO-shuhn`）
+
+> The diagram shows the circumvolution of the path.
+
+**circumvolute**（盘绕的；读作：`ser-kuhm-VAHL-yoot`）
+
+> The shell has a circumvolute form.
+
+**advolution**（向内卷；附卷；读作：`ad-vuh-LOO-shuhn`）
+
+> The botanical description mentions advolution of the leaf margins.
 
 `convoluted` 是日常英语里很有用的词：不是简单的“复杂”，而是“绕来绕去，缠成一团”的复杂。
 
@@ -329,6 +385,14 @@
 
 > Medieval astronomers used volvelles in manuscripts.
 
+**volvent**（滚动的；读作：`VAHL-vuhnt`）
+
+> The text uses volvent to describe a rolling motion.
+
+**vulva**（外阴；读作：`VUL-vuh`）
+
+> The medical diagram labels the vulva.
+
 ---
 
 ## 九、helix / helicopter：更远的希腊同源旁支
@@ -407,7 +471,7 @@
 * **involve / involution**：卷进去，也可能卷回去
 * **revolve / revolution / revolt**：转一圈，或者翻过来
 * **devolve / devolution**：滚落下去，权力下放
-* **convolve / convolution**：卷在一起，就绕了
+* **convolve / circumvolve**：卷在一起，绕着转
 * **volume / voluminous / volute**：卷册、体积和螺旋
 * **valve / vault / voussoir**：会转开的东西和拱形结构
 * **volvox / volvulus / volva**：生物里的旋转与包裹
@@ -437,6 +501,9 @@
 | coevolve | 共同进化 |
 | coevolution | 共同进化 |
 | coevolutionary | 共同进化的 |
+| nonevolutionary | 非进化的 |
+| evolute | 渐屈线，展开出的 |
+| evolvent | 渐开线，展开的 |
 
 ---
 
@@ -451,6 +518,8 @@
 | involute | 内卷的，渐屈线 |
 | involution | 内卷，退化，对合 |
 | involucre | 总苞 |
+| involucrum | 总苞，包被结构 |
+| involucrate | 有总苞的 |
 
 ---
 
@@ -466,7 +535,11 @@
 | revolutionize | 彻底改变 |
 | revolt | 反抗，反感 |
 | revolting | 令人厌恶的 |
+| revoluble | 可旋转的 |
 | revolute | 外卷的 |
+| volte-face | 彻底转变 |
+| volte | 转身动作 |
+| voltigeur | 轻步兵，骑术表演者 |
 
 ---
 
@@ -479,10 +552,11 @@
 | devolution | 权力下放，退化 |
 | devolutionary | 权力下放的 |
 | devolvement | 转移，移交 |
+| devolute | 向下卷的，转移的 |
 
 ---
 
-**⑤ convolve / convolution 家族**
+**⑤ convolve / circumvolve 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -491,6 +565,10 @@
 | convoluted | 复杂难懂的，盘绕的 |
 | convolution | 卷积，盘绕，复杂结构 |
 | convolutional | 卷积的 |
+| circumvolve | 环绕旋转 |
+| circumvolution | 环绕，盘绕 |
+| circumvolute | 盘绕的 |
+| advolution | 向内卷，附卷 |
 
 ---
 
@@ -530,6 +608,8 @@
 | volvulus | 肠扭转 |
 | volva | 菌托，外被膜 |
 | volvelle | 旋转纸盘 |
+| volvent | 滚动的 |
+| vulva | 外阴 |
 
 ---
 
