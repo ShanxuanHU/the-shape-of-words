@@ -50,6 +50,7 @@
 | #28 | [plicare 家族：从“折叠”到复杂、申请和复制](./plic.md) | 从“折叠、卷起”出发，理解 `ply`、`apply`、`comply`、`employ`、`complicate`、`complex`、`implicit` 和 `duplicate` 等词汇分支 |
 | #29 | [volvere 家族：从“滚动”到进化、卷册和革命](./volv.md) | 从“滚动、转动、卷起”出发，理解 `evolve`、`involve`、`revolve`、`revolution`、`devolve`、`volume`、`valve` 和 `vault` 等词汇分支 |
 | #30 | [currere 家族：从“奔跑”到课程、货币和电流](./curr.md) | 从“跑、奔跑、快速移动、流动”出发，理解 `course`、`curriculum`、`current`、`currency`、`occur`、`recur`、`concur` 和 `cursor` 等词汇分支 |
+| #31 | [quaerere 家族：从“寻找”到问题、请求和征服](./quaer.md) | 从“寻找、询问、追求、获得”出发，理解 `quest`、`question`、`query`、`inquire`、`request`、`require`、`acquire` 和 `conquer` 等词汇分支 |
 
 ## 阅读方式
 

@@ -147,6 +147,18 @@
 
 > Debt is a recurring theme in the novel.
 
+**recurse**（递归；读作：`ri-KERS`）
+
+> The function will recurse until it reaches the base case.
+
+**recursion**（递归；反复；读作：`ri-KER-zhuhn`）
+
+> Recursion is a basic idea in computer science.
+
+**recursive**（递归的；读作：`ri-KER-siv`）
+
+> A recursive function calls itself.
+
 **incur**（招致；蒙受；读作：`in-KER`）
 
 > Late payments may incur a penalty.
@@ -396,6 +408,9 @@
 | recurrence | 复发，再现 |
 | recurrent | 反复出现的 |
 | recurring | 反复出现的 |
+| recurse | 递归 |
+| recursion | 递归，反复 |
+| recursive | 递归的 |
 | incur | 招致，蒙受 |
 | incurred | 招致的，已发生的 |
 | incursion | 入侵，侵扰 |
