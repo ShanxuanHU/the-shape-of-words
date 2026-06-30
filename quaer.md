@@ -51,6 +51,10 @@
 
 > Participants completed a health questionnaire.
 
+**questionary**（问卷的；问卷；读作：`KWES-chuh-ner-ee`）
+
+> The archive preserves an old questionary on household habits.
+
 **query**（询问；查询；读作：`KWEER-ee`）
 
 > The database returned no results for the query.
@@ -117,6 +121,14 @@
 
 > The book includes a disquisition on Roman law.
 
+**inquisitory**（审问的；调查的；读作：`in-KWIZ-uh-tor-ee`）
+
+> The committee adopted an inquisitory procedure.
+
+**perquisition**（搜查；细查；读作：`per-kwuh-ZISH-uhn`）
+
+> The warrant authorized a perquisition of the office.
+
 这一组词提醒我们：追问可以是求知，也可以变成压力。`inquisitive` 可以是可爱的好奇，`inquisition` 却可能是压迫性的审问。
 
 ---
@@ -156,6 +168,10 @@
 
 > Calculus is a prerequisite for the course.
 
+**corequisite**（并修课程；共同条件；读作：`koh-REK-wuh-zit`）
+
+> The lab is a corequisite for the chemistry lecture.
+
 **requisition**（征用；正式申请；读作：`rek-wuh-ZISH-uhn`）
 
 > The army issued a requisition for supplies.
@@ -163,6 +179,14 @@
 **requisitioner**（申请人；征用者；读作：`rek-wuh-ZISH-uh-ner`）
 
 > The requisitioner must sign the form.
+
+**requisitor**（请求者；征用者；读作：`ri-KWIZ-uh-ter`）
+
+> The requisitor filed the demand with the clerk.
+
+**requisitive**（请求的；要求的；读作：`ri-KWIZ-uh-tiv`）
+
+> The letter had a requisitive tone.
 
 **requisitory**（征用的；请求的；读作：`ri-KWIZ-uh-tor-ee`）
 
@@ -210,6 +234,14 @@
 > The acquisition doubled the company's market share.
 > （这里 **acquisition** 指企业“收购”。）
 
+**acquest**（取得物；获得；读作：`uh-KWEST`）
+
+> The estate listed land held by acquest.
+
+**acquisite**（获得的；读作：`uh-KWIZ-it`）
+
+> The scholar used acquisite to describe a learned habit.
+
 **acquisitive**（渴望获得的；贪得的；读作：`uh-KWIZ-uh-tiv`）
 
 > The novel satirizes an acquisitive society.
@@ -217,6 +249,10 @@
 **acquisitiveness**（占有欲；读作：`uh-KWIZ-uh-tiv-nuhs`）
 
 > The story criticizes unchecked acquisitiveness.
+
+**acquisitory**（取得的；获得的；读作：`uh-KWIZ-uh-tor-ee`）
+
+> The rule concerns acquisitory rights in property.
 
 ---
 
@@ -286,6 +322,10 @@
 
 > The critic praised the exquisiteness of the carving.
 
+**exquire**（仔细查问；读作：`ek-SKWY-er`）
+
+> The archaic verb exquire means to search out carefully.
+
 `exquisite` 原本有“仔细挑选、精心找出”的感觉，所以后来变成“精美的、精细的”。
 
 ---
@@ -354,6 +394,7 @@
 | unquestioned | 未受质疑的 |
 | unquestionable | 毫无疑问的 |
 | questionnaire | 问卷 |
+| questionary | 问卷的，问卷 |
 | query | 询问，查询 |
 | quaere | 请查，问题是 |
 
@@ -374,6 +415,8 @@
 | inquisitor | 审问者 |
 | inquisitorial | 审问式的，宗教裁判所的 |
 | disquisition | 专题论述，长篇探讨 |
+| inquisitory | 审问的，调查的 |
+| perquisition | 搜查，细查 |
 
 ---
 
@@ -388,8 +431,11 @@
 | requirement | 要求，必要条件 |
 | requisite | 必需品，必要的 |
 | prerequisite | 先决条件 |
+| corequisite | 并修课程，共同条件 |
 | requisition | 征用，正式申请 |
 | requisitioner | 申请人，征用者 |
+| requisitor | 请求者，征用者 |
+| requisitive | 请求的，要求的 |
 | requisitory | 征用的，请求的 |
 
 ---
@@ -405,8 +451,11 @@
 | acquirable | 可获得的 |
 | acquirement | 获得，习得物 |
 | acquisition | 获得，收购 |
+| acquest | 取得物，获得 |
+| acquisite | 获得的 |
 | acquisitive | 渴望获得的，贪得的 |
 | acquisitiveness | 占有欲 |
+| acquisitory | 取得的，获得的 |
 
 ---
 
@@ -433,6 +482,7 @@
 | exquisite | 精美的，敏锐的 |
 | exquisitely | 精美地，敏锐地 |
 | exquisiteness | 精美，敏锐 |
+| exquire | 仔细查问 |
 
 ---
 

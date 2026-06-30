@@ -51,6 +51,7 @@
 | #29 | [volvere 家族：从“滚动”到进化、卷册和革命](./volv.md) | 从“滚动、转动、卷起”出发，理解 `evolve`、`involve`、`revolve`、`revolution`、`devolve`、`volume`、`valve` 和 `vault` 等词汇分支 |
 | #30 | [currere 家族：从“奔跑”到课程、货币和电流](./curr.md) | 从“跑、奔跑、快速移动、流动”出发，理解 `course`、`curriculum`、`current`、`currency`、`occur`、`recur`、`concur` 和 `cursor` 等词汇分支 |
 | #31 | [quaerere 家族：从“寻找”到问题、请求和征服](./quaer.md) | 从“寻找、询问、追求、获得”出发，理解 `quest`、`question`、`query`、`inquire`、`request`、`require`、`acquire` 和 `conquer` 等词汇分支 |
+| #32 | [petere 家族：从“追求”到竞争、重复和胃口](./pet.md) | 从“去往、冲向、寻求、请求、攻击”出发，理解 `petition`、`compete`、`repeat`、`appetite`、`impetus`、`perpetual`、`centripetal` 和 `petulant` 等词汇分支 |
 
 ## 阅读方式
 
