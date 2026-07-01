@@ -147,6 +147,14 @@
 
 > In 0.333..., the digit 3 is the repetend.
 
+**repetitor**（复述者；辅导教师；读作：`rep-uh-TY-ter`）
+
+> The old university employed a repetitor for language drills.
+
+**répétiteur**（排练伴奏；歌剧指导；读作：`reh-peh-tee-TER`）
+
+> The singer rehearsed with a répétiteur.
+
 `repeat` 的“重复”不是静止的复制，而是“又走一次、又求一次、又说一次”。
 
 ---
@@ -178,6 +186,10 @@
 
 > The experiment measured appetitive behavior.
 
+**appetition**（欲求；追求；读作：`ap-uh-TISH-uhn`）
+
+> The philosopher used appetition to describe directed desire.
+
 **appetence**（欲望；倾向；读作：`AP-uh-tuhns`）
 
 > The philosopher wrote about appetence and will.
@@ -189,6 +201,10 @@
 **appetent**（渴望的；读作：`AP-uh-tuhnt`）
 
 > The organism shows appetent movement toward food.
+
+**inappetence**（食欲不振；缺乏欲望；读作：`in-AP-uh-tuhns`）
+
+> The illness caused fatigue and inappetence.
 
 ---
 
@@ -220,7 +236,33 @@
 
 ---
 
-## 六、perpetual / perpetuate：一路向前，不停延续
+## 六、propitious / propitiation：朝着有利方向寻求
+
+`propitious` 和 `propitiation` 也常被放在 **petere** 的大亲族里理解，核心是“使某人或某种力量转向有利、求得好意”。
+
+**propitious**（有利的；吉祥的；读作：`pruh-PISH-uhs`）
+
+> The talks began under propitious conditions.
+
+**propitiously**（有利地；吉祥地；读作：`pruh-PISH-uhs-lee`）
+
+> The season started propitiously.
+
+**propitiate**（安抚；讨好；读作：`pruh-PISH-ee-ayt`）
+
+> The ritual was meant to propitiate the gods.
+
+**propitiation**（安抚；赎罪；读作：`pruh-pish-ee-AY-shuhn`）
+
+> The offering was an act of propitiation.
+
+**propitiatory**（安抚的；赎罪的；读作：`pruh-PISH-ee-uh-tor-ee`）
+
+> The ceremony had a propitiatory purpose.
+
+---
+
+## 七、perpetual / perpetuate：一路向前，不停延续
 
 `perpetual` 来自拉丁语 **perpetuus**，可以理解为“持续向前、不中断”。动作一直冲下去，就变成连续、永恒。
 
@@ -253,7 +295,7 @@
 
 ---
 
-## 七、centripetal / centrifugal：向中心追去，还是逃离中心？
+## 八、centripetal / centrifugal：向中心追去，还是逃离中心？
 
 `centripetal` 由 `center` 加 **petere** 构成，字面就是“趋向中心”。它的反义搭档 `centrifugal` 不是 **petere**，而是来自“逃离中心”，但两者经常成对出现，所以放在同一节对照。
 
@@ -277,7 +319,7 @@
 
 ---
 
-## 八、petulant：冲撞到无礼
+## 九、petulant：冲撞到无礼
 
 `petulant` 来自拉丁语 **petulans**，有“冒失、无礼、好冲撞”的感觉。冲向别人不加控制，就变成态度上的任性。
 
@@ -293,9 +335,17 @@
 
 > He petulantly refused to answer.
 
+**petulcity**（任性；无礼；读作：`puh-TUL-suh-tee`）
+
+> The critic mocked the character's petulcity.
+
+**petulcous**（任性的；无礼的；读作：`puh-TUL-kuhs`）
+
+> The archaic adjective petulcous means petulant.
+
 ---
 
-## 九、容易混淆的 petal / petite / petty / peter
+## 十、容易混淆的 petal / petite / petty / peter
 
 `petal` 来自希腊语 **petalon**（叶片），不是 **petere**。虽然 `centripetal` 里有 `petal` 这串字母，但两者没有词源关系。
 
@@ -307,7 +357,7 @@
 
 ---
 
-## 十、总结
+## 十一、总结
 
 从拉丁语 **petere（去往、冲向、寻求、请求、攻击）** 出发，我们看到单词家族沿着几个方向延伸：
 
@@ -316,6 +366,7 @@
 * **repeat / repetition**：再次寻求同一件事
 * **appetite / appetence**：欲望奔向目标
 * **impetus / impetuous**：冲向前去
+* **propitious / propitiation**：朝着有利方向寻求
 * **perpetual / perpetuate**：一路向前，不停延续
 * **centripetal / centrifugal**：向中心追去，还是逃离中心
 * **petulant**：冲撞到无礼
@@ -375,6 +426,8 @@
 | repetitious | 重复乏味的 |
 | repetitiveness | 重复性 |
 | repetend | 循环节 |
+| repetitor | 复述者，辅导教师 |
+| répétiteur | 排练伴奏，歌剧指导 |
 
 ---
 
@@ -387,9 +440,11 @@
 | appetizing | 开胃的，诱人的 |
 | appetize | 开胃，刺激食欲 |
 | appetitive | 欲望的，食欲的 |
+| appetition | 欲求，追求 |
 | appetence | 欲望，倾向 |
 | appetency | 欲望，倾向 |
 | appetent | 渴望的 |
+| inappetence | 食欲不振，缺乏欲望 |
 
 ---
 
@@ -405,7 +460,19 @@
 
 ---
 
-**⑥ perpetual / perpetuate 家族**
+**⑥ propitious / propitiation 家族**
+
+| 单词 | 词义 |
+| --- | --- |
+| propitious | 有利的，吉祥的 |
+| propitiously | 有利地，吉祥地 |
+| propitiate | 安抚，讨好 |
+| propitiation | 安抚，赎罪 |
+| propitiatory | 安抚的，赎罪的 |
+
+---
+
+**⑦ perpetual / perpetuate 家族**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -418,7 +485,7 @@
 
 ---
 
-**⑦ centripetal / centrifugal 对照**
+**⑧ centripetal / centrifugal 对照**
 
 | 单词 | 词义 |
 | --- | --- |
@@ -429,13 +496,15 @@
 
 ---
 
-**⑧ petulant 家族**
+**⑨ petulant 家族**
 
 | 单词 | 词义 |
 | --- | --- |
 | petulant | 任性的，易怒的 |
 | petulance | 任性，易怒 |
 | petulantly | 任性地 |
+| petulcity | 任性，无礼 |
+| petulcous | 任性的，无礼的 |
 
 ---
 

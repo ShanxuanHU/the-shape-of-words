@@ -52,6 +52,7 @@
 | #30 | [currere 家族：从“奔跑”到课程、货币和电流](./curr.md) | 从“跑、奔跑、快速移动、流动”出发，理解 `course`、`curriculum`、`current`、`currency`、`occur`、`recur`、`concur` 和 `cursor` 等词汇分支 |
 | #31 | [quaerere 家族：从“寻找”到问题、请求和征服](./quaer.md) | 从“寻找、询问、追求、获得”出发，理解 `quest`、`question`、`query`、`inquire`、`request`、`require`、`acquire` 和 `conquer` 等词汇分支 |
 | #32 | [petere 家族：从“追求”到竞争、重复和胃口](./pet.md) | 从“去往、冲向、寻求、请求、攻击”出发，理解 `petition`、`compete`、`repeat`、`appetite`、`impetus`、`perpetual`、`centripetal` 和 `petulant` 等词汇分支 |
+| #33 | [vocare 家族：从“呼喊”到声音、职业和挑衅](./voc.md) | 从“呼喊、召唤、叫来、称呼”出发，理解 `voice`、`vocal`、`vocabulary`、`vocation`、`advocate`、`invoke`、`revoke` 和 `provoke` 等词汇分支 |
 
 ## 阅读方式
 
