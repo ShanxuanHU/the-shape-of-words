@@ -53,6 +53,7 @@
 | #31 | [quaerere 家族：从“寻找”到问题、请求和征服](./quaer.md) | 从“寻找、询问、追求、获得”出发，理解 `quest`、`question`、`query`、`inquire`、`request`、`require`、`acquire` 和 `conquer` 等词汇分支 |
 | #32 | [petere 家族：从“追求”到竞争、重复和胃口](./pet.md) | 从“去往、冲向、寻求、请求、攻击”出发，理解 `petition`、`compete`、`repeat`、`appetite`、`impetus`、`perpetual`、`centripetal` 和 `petulant` 等词汇分支 |
 | #33 | [vocare 家族：从“呼喊”到声音、职业和挑衅](./voc.md) | 从“呼喊、召唤、叫来、称呼”出发，理解 `voice`、`vocal`、`vocabulary`、`vocation`、`advocate`、`invoke`、`revoke` 和 `provoke` 等词汇分支 |
+| #34 | [credere 家族：从“相信”到信用、信念和授权](./cred.md) | 从“相信、信任、托付”出发，理解 `credit`、`credible`、`credence`、`creed`、`credential`、`accredit`、`grant` 和 `miscreant` 等词汇分支 |
 
 ## 阅读方式
 

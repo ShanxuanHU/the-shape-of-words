@@ -178,6 +178,10 @@
 
 > The archaic verb invocate means to invoke.
 
+**reinvoke**（再次援引；再次调用；读作：`ree-in-VOHK`）
+
+> The program may reinvoke the callback after a timeout.
+
 **evoke**（唤起；引发；读作：`ih-VOHK`）
 
 > The smell evoked memories of childhood.
@@ -221,6 +225,10 @@
 **revoker**（撤销者；读作：`ri-VOH-ker`）
 
 > The system logs the revoker of each credential.
+
+**revocatory**（撤销的；读作：`REV-uh-kuh-tor-ee`）
+
+> The contract contains a revocatory clause.
 
 **provoke**（激怒；引发；读作：`pruh-VOHK`）
 
@@ -340,6 +348,10 @@
 **avowal**（公开承认；读作：`uh-VOW-uhl`）
 
 > His avowal surprised the audience.
+
+**avowry**（承认；辩护；读作：`uh-VOW-ree`）
+
+> The legal history mentions avowry in property disputes.
 
 **disavow**（否认；拒绝承认；读作：`dis-uh-VOW`）
 
@@ -464,6 +476,7 @@
 | invocative | 祈求的，召唤的 |
 | invocator | 祈求者，调用者 |
 | invocate | 祈求，召唤 |
+| reinvoke | 再次援引，再次调用 |
 | evoke | 唤起，引发 |
 | evocation | 唤起，召唤 |
 | evocative | 唤起回忆的，有感染力的 |
@@ -480,6 +493,7 @@
 | revocation | 撤销，废除 |
 | revocable | 可撤销的 |
 | revoker | 撤销者 |
+| revocatory | 撤销的 |
 | provoke | 激怒，引发 |
 | provocation | 挑衅，刺激 |
 | provocative | 挑衅的，引人思考的 |
@@ -525,6 +539,7 @@
 | avouch | 断言，担保 |
 | avow | 公开承认 |
 | avowal | 公开承认 |
+| avowry | 承认，辩护 |
 | disavow | 否认，拒绝承认 |
 | disavowal | 否认 |
 | reavow | 重新承认 |
